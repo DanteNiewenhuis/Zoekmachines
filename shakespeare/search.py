@@ -3,10 +3,11 @@ import re
 from collections import Counter
 from bs4 import BeautifulSoup
 
-scripts = os.listdir('scripts')
+scripts = os.listdir('KVR')
 for x in range(len(scripts)):
+	print(scripts[x])
 	#read
-	with open('scripts/'+scripts[x], 'r') as script:
+	with open('KVR/'+scripts[x], 'r') as script:
 		soup = BeautifulSoup(script, 'lxml-xml')
 
 		#cleanup
@@ -21,7 +22,7 @@ for x in range(len(scripts)):
 	for token in soup:
 		if not token.isupper():
 			token.lower()
-				
-	with open('tokens/'+scripts[x][:-4]+'.txt', 'w') as text:
+
+	with open('KVRtokens/'+scripts[x][:-4]+'.txt', 'w') as text:
 		text.write(soup)
 
