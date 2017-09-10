@@ -64,6 +64,7 @@ def opdracht1():
 def opdracht5():
     MyIndex = index_collection('tokens')
     freq_table = frequency_index(MyIndex)
+    print(len(freq_table))
     print(frequency_checker(freq_table, 1, 1))
     print(frequency_checker(freq_table, 1, 0))
     print(frequency_checker(freq_table, len(os.listdir('tokens')), 0))
@@ -75,7 +76,12 @@ def opdracht6():
     freq_table = frequency_index(MyIndex)
     corpus_freq = corpus_frequency(freq_table)
     sort_freq = sorted(corpus_freq, reverse=True)
-    plt.plot(sort_freq[:50])
-    plt.show()    
+    result = []
+    counter = 1
+    for freq in sort_freq:
+        result.append([math.log(counter), math.log(freq)])
+        counter += 1
+    plt.plot(result)
+    plt.plot()   
 
 opdracht6()
