@@ -77,9 +77,10 @@ def opdracht6():
     corpus_freq = corpus_frequency(freq_table)
     sort_freq = sorted(corpus_freq, reverse=True)
     x_axis = []
-    for x in range(1,len(sort_freq)):
+    for x in range(1,len(sort_freq)+1):
         x_axis.append(math.log(x))
-    plt.plot(x_axis, result)
+
+    plt.plot(x_axis, sort_freq)
     plt.show()   
 
 opdracht6()
