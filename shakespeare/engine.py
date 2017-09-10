@@ -75,6 +75,7 @@ def opdracht6():
     freq_table = frequency_index(MyIndex)
     corpus_freq = corpus_frequency(freq_table)
     sort_freq = sorted(corpus_freq, reverse=True)
-    plt.plot(sort_freq[:50])    
+    plt.plot(sort_freq[:50])
+    plt.show()    
 
 opdracht6()
