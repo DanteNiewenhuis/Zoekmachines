@@ -36,11 +36,16 @@ def frequency_index(Myindex):
 
     return freq_index
 
-def frequency_checker(index, amount, mode):
+def frequency_checker(index, amount, mode, greater=False):
     result = 0 
-    for word in index:
-        if index[word][mode] == amount:
-            result += 1
+    if greater:
+        for word in index:
+            if index[word][mode] > amount:
+                result += 1
+    else:
+        for word in index:
+            if index[word][mode] == amount:
+                result += 1
     return result
 
 def corpus_frequency(freq_table):
@@ -58,15 +63,15 @@ def opdracht1():
 def opdracht5():
     MyIndex = index_collection('tokens')
     freq_table = frequency_index(MyIndex)
-    print(frequency_checker(freq_table, 1, 1, ==))
-    print(frequency_checker(freq_table, 1, 0, ==))
-    print(frequency_checker(freq_table, len(os.listdir('tokens')), 0, ==))
-    print(frequency_checker(freq_table, len(os.listdir('tokens'))/2, 0, <))
+    print(frequency_checker(freq_table, 1, 1))
+    print(frequency_checker(freq_table, 1, 0))
+    print(frequency_checker(freq_table, len(os.listdir('tokens')), 0))
+    print(frequency_checker(freq_table, len(os.listdir('tokens'))/2, 0, greater=True))
 
 
-MyIndex = index_collection('tokens')
-freq_table = frequency_index(MyIndex)
+def opdracht6():
+    corpus_freq = corpus_frequency(freq_table)
+    sort_freq = sorted(corpus_freq, key=lambda student: student[1], reverse=True)
+    print(sort_freq[:5])    
 
-#corpus_freq = corpus_frequency(freq_table)
-#sort_freq = sorted(corpus_freq, key=lambda student: student[1], reverse=True)
-#print(sort_freq[:5])
+
