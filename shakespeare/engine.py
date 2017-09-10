@@ -32,13 +32,21 @@ def frequency_index(Myindex):
         result = 0
         for index in Myindex[word]:
             result += Myindex[word][index]
-        freq_index[word]=[len(Myindex[word]),result] # corpus frequency
+        freq_index[word]=[len(Myindex[word]),result] 
 
     return freq_index
 
-Myindex = index_collection('tokens')
+def frequency_checker(index, amount, mode):
+    result = 0 
+    for word in index:
+        if index[word][mode] > amount:
+            result += 1
+    return result
+
+
+MyIndex = index_collection('tokens')
+freq_table = frequency_index(MyIndex)
+print(frequency_checker(freq_table, 18, 1))
 
 #freq_index = frequency_index(Myindex)
 #print(freq_index['love'])
-print(len(Myindex))
-print(count_tokens('tokens'))
