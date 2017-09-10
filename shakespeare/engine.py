@@ -52,7 +52,7 @@ def frequency_checker(index, amount, mode, greater=False):
 def corpus_frequency(freq_table):
     result = []
     for word in freq_table:
-        result.append(freq_table[word][1])
+        result.append(math.log(freq_table[word][1]))
     return result
 
 def opdracht1():
@@ -76,12 +76,10 @@ def opdracht6():
     freq_table = frequency_index(MyIndex)
     corpus_freq = corpus_frequency(freq_table)
     sort_freq = sorted(corpus_freq, reverse=True)
-    result = []
-    counter = 1
-    for freq in sort_freq:
-        result.append([math.log(counter), math.log(freq)])
-        counter += 1
-    plt.plot(result)
-    plt.plot()   
+    x_axis = []
+    for x in range(1,len(sort_freq)):
+        x_axis.append(math.log(x))
+    plt.plot(x_axis, result)
+    plt.show()   
 
 opdracht6()
