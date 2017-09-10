@@ -20,7 +20,8 @@ for x in range(len(scripts)):
 
 	for token in soup:
 		if not token.isupper():
-			token.lower()	
+			token.lower()
+				
 	with open('tokens/'+scripts[x][:-4]+'.txt', 'w') as text:
 		text.write(soup)
 

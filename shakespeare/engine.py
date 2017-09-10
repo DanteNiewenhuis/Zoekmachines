@@ -5,6 +5,7 @@ import os
 import glob
 import nltk
 import math
+import matplotlib.pyplot as plt
 
 def count_tokens(folder):
     result = 0 # initialize Myindex
@@ -51,7 +52,7 @@ def frequency_checker(index, amount, mode, greater=False):
 def corpus_frequency(freq_table):
     result = []
     for word in freq_table:
-        result.append([word, freq_table[word][1]])
+        result.append(freq_table[word][1])
     return result
 
 def opdracht1():
@@ -70,8 +71,10 @@ def opdracht5():
 
 
 def opdracht6():
+    MyIndex = index_collection('tokens')
+    freq_table = frequency_index(MyIndex)
     corpus_freq = corpus_frequency(freq_table)
-    sort_freq = sorted(corpus_freq, key=lambda student: student[1], reverse=True)
-    print(sort_freq[:5])    
+    sort_freq = sorted(corpus_freq, reverse=True)
+    plt.plot(sort_freq[:50])    
 
-
+opdracht6()
