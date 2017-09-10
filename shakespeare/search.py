@@ -19,7 +19,7 @@ for x in range(len(scripts)):
 		soup = re.sub(r'\n\s*\n', '\n', soup)
 
 	for token in soup:
-		if token.isupper():
+		if not token.isupper():
 			token.lower()	
 	with open('tokens/'+scripts[x][:-4]+'.txt', 'w') as text:
 		text.write(soup)

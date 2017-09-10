@@ -26,19 +26,6 @@ def index_collection(folder):
 
     return Myindex
 
-def index_collection2(folder):
-    MyIndex= defaultdict(Counter) # initialize MyIndex
-    for infile in os.listdir(folder):  # loop over each file
-        fileIndex = os.path.basename(folder + '/' + infile).replace('.xml','')
-        print("current file is: " + fileIndex)
-        with open(folder + '/' + infile, 'r') as f:  # open file
-            soup = BeautifulSoup(f.read(), 'lxml')  # get the text out
-            text = [w.lower() for w in nltk.word_tokenize(soup.get_text())]   # tokenize, lower case
-            for w in text:    # update MyIndex with each token 
-                MyIndex[w][fileIndex]+=1
-                
-    return MyIndex
-
 def frequency_index(Myindex):
     freq_index = {}
     for word in Myindex:
@@ -52,7 +39,7 @@ def frequency_index(Myindex):
 def frequency_checker(index, amount, mode):
     result = 0 
     for word in index:
-        if index[word][mode] > amount:
+        if index[word][mode] == amount:
             result += 1
     return result
 
@@ -60,14 +47,26 @@ def corpus_frequency(freq_table):
     result = []
     for word in freq_table:
         result.append([word, freq_table[word][1]])
-
     return result
+
+def opdracht1():
+    MyIndex = index_collection('tokens')
+    print(count_tokens['tokens']) # total tokens in the corpus
+    print(len(MyIndex)) # total unique tokens in the corpus
+
+
+def opdracht5():
+    MyIndex = index_collection('tokens')
+    freq_table = frequency_index(MyIndex)
+    print(frequency_checker(freq_table, 1, 1, ==))
+    print(frequency_checker(freq_table, 1, 0, ==))
+    print(frequency_checker(freq_table, len(os.listdir('tokens')), 0, ==))
+    print(frequency_checker(freq_table, len(os.listdir('tokens'))/2, 0, <))
+
 
 MyIndex = index_collection('tokens')
 freq_table = frequency_index(MyIndex)
-corpus_freq = corpus_frequency(freq_table)
-sort_freq = sorted(corpus_freq, key=lambda student: student[1], reverse=True)
-print(sort_freq[:5])
 
-#freq_index = frequency_index(Myindex)
-#print(freq_index['love'])
+#corpus_freq = corpus_frequency(freq_table)
+#sort_freq = sorted(corpus_freq, key=lambda student: student[1], reverse=True)
+#print(sort_freq[:5])
