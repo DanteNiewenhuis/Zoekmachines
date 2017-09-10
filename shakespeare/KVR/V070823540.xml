@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="aanstaande week te beantwoorden?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van de leden Rutte en Van Baalen (beiden VVD) aan de ministers
+van Buitenlandse Zaken en van Justitie over het mogelijk uitvaardigen van een
+internationaal arrestatiebevel tegen Geert Wilders. (Ingezonden 24 juni
+2008)</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823540</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding bericht (De Volkskrant, 20 juni 2008) dat een
+Jordaanse
+rechtbank het verzoek om een internationaal arrestatiebevel tegen Kamerlid
+Geert Wilders uit te vaardigen in behandeling zal nemen. Indieners willen
+weten hoe de procedure aan Jordaanse kant verder zal verlopen en of Interpol
+het verzoek gaat honoreren. Indieners willen interventie bij de Jordaanse
+regering: het arrestatiebevel zal worden opgevat als een onvriendelijke daad,
+aangezien Wilders in Nederland geen strafbaar feit heeft gepleegd.</item>
+         <item attribuut="Rubriek">Staats- en bestuursrecht (Parlement)
+Strafrecht en strafprocesrecht (Vervolging)</item>
+         <item attribuut="Trefwoorden">Strafvervolging
+Tweede Kamer</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823540, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823540</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Rutte</persoon>
+            <persoon partij="VVD">Van Baalen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-24</item>
+         <item attribuut="Document-id">V070823540</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823540" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823540" onderwerp="" indiendatum="2008-06-24">
+         <vrager partij="VVD" oorsprong="parlement">Rutte</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Van Baalen</vrager>
+         <vraagt-aan>de ministers van Buitenlandse Zaken en van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1">Bent u bekend met het feit, dat een Jordaanse rechtbank het verzoek om een internationaal arrestatiebevel tegen het Tweede Kamerlid Geert Wilders uit te vaardigen ontvankelijk heeft verklaard en dus in behandeling zal nemen? </vraag>
+      <vraag nummer="2">Hoe zal de procedure van Jordaanse kant verder verlopen? </vraag>
+      <vraag nummer="3">Welke procedure moet een eventueel Jordaans verzoek bij Interpol doorlopen en welke kans maakt dit verzoek door Interpol gehonoreerd te worden? </vraag>
+      <vraag nummer="4">Welke rol speelt Nederland in de aan Jordaanse zijde en aan de zijde van Interpol te doorlopen procedures? </vraag>
+      <vraag nummer="5">Bent u bereid bij de Jordaanse regering te interveniëren en duidelijk te maken dat het voortzetten van de procedure tot het uitvaardigen van een internationaal arrestatiebevel tegen Wilders als een onvriendelijke daad zal worden opgevat, zeker gezien het feit dat Wilders in Nederland geen strafbaar feit heeft begaan? </vraag>
+      <vraag nummer="6">Welke stappen zult u verder ondernemen opdat er geen internationaal arrestatiebevel tegen Wilders wordt uitgevaardigd? </vraag>
+      <vraag nummer="7">Welke consequenties zou het voor Wilders hebben indien tegen hem een internationaal arrestatiebevel zou worden uitgevaardigd en op welke wijze kan de Nederlandse regering deze consequenties wegnemen? </vraag>
+      <vraag nummer="8">Bent u bereid deze vragen uiterlijk </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-20" bron="de Volkskrant">de Volkskrant, 20 juni 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

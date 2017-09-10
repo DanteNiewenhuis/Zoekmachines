@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="buitengewone uitgavenregeling)?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van de leden Omtzigt en Smilde (beiden CDA) aan de minister van
+Volksgezondheid, Welzijn en Sport over de compensatie voor het eigen risico.
+(Ingezonden 17 juni 2008)</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823100</item>
+         <item attribuut="Inhoud">Indieners vragen de minister onder meer hoeveel mensen hij verwacht te
+compenseren voor het eigen risico, en hoe hij ervoor gaat zorgen dat iedereen
+op tijd de compensatie uitbetaald krijgt.</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Zorgverzekeringen)</item>
+         <item attribuut="Trefwoorden">Eigen bijdrage
+Zorgverzekeringen</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823100, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823100</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Omtzigt</persoon>
+            <persoon partij="CDA">Smilde</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-17</item>
+         <item attribuut="Document-id">V070823100</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823100" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823100" onderwerp="" indiendatum="2008-06-17">
+         <vrager partij="CDA" oorsprong="parlement">Omtzigt</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Smilde</vrager>
+         <vraagt-aan>de minister van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1">Hoeveel verzekeringsmaatschappijen hebben voor 23 mei 2008 de gevraagde gegevens aangeleverd en hoeveel verzekeringsmaatschappijen hebben dat nog niet gedaan op 23 mei? </vraag>
+      <vraag nummer="2">Voor hoeveel mensen verwacht u de compensatie voor het eigen risico uit te betalen? Voor hoeveel van deze mensen heeft u op dit moment de gegevens (naam, adres en rekeningnummer)? </vraag>
+      <vraag nummer="3">Wanneer verwacht u van iedereen de juiste gegevens te hebben? </vraag>
+      <vraag nummer="4">Welk recht heeft iemand aan wie een brief verstuurd is die niet antwoordt en evenmin een bankrekeningnummer doorgeeft? </vraag>
+      <vraag nummer="5">Hoe gaat u ervoor zorgdragen dat iedereen op tijd de compensatie uitbetaald krijgt? </vraag>
+      <vraag nummer="6">Bij de parlementaire behandeling zegde de regering toe dat de farmaceutische kostengroepen (FKG’s) en de medicijnen die recht geven op de compensatie, on-line beschikbaar zouden zijn (op www.vektis.nl http://www.vektis.nl/). Zijn de gegevens al voor iedereen beschikbaar en zo ja, waar? </vraag>
+      <vraag nummer="7">Bent u bereid on-line informatie te geven over de procedure rond de uitbetaling van de compensatie? </vraag>
+      <vraag nummer="8">Kunt u deze vragen vóór 23 juni 2008 beantwoorden (in verband met de voorhang over het eigen risico en het algemeen overleg over de </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

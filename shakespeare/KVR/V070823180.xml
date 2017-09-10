@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="op welke termijn?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid De Wit (SP) aan de minister van Justitie over het
+opnemen van DNA-profielen van minderjarigen in de DNA-databank voor
+Strafzaken. (Ingezonden 18 juni 2008)</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823180</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding bericht (dagblad Trouw): acht minister Hirsch
+Ballin
+(Jus) het gewenst dat kans op recidive een rol zou moeten kunnen spelen bij de
+beslissing of
+een DNA-profielen
+van een minderjarigen opgenomen wordt
+in de DNA-databank voor Strafzaken. Als blijkt dat er geen sprake is van
+recidive, zou een aangepaste bewaartermijn wenselijk zijn.</item>
+         <item attribuut="Rubriek">Strafrecht en strafprocesrecht (Jeugdstrafrecht)
+Strafrecht en strafprocesrecht
+(Opsporingsonderzoek)</item>
+         <item attribuut="Trefwoorden">Databanken
+Jeugdstrafrecht
+Opsporingen
+Recidive</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823180, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823180</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">De Wit</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-18</item>
+         <item attribuut="Document-id">V070823180</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823180" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823180" onderwerp="" indiendatum="2008-06-18">
+         <vrager partij="SP" oorsprong="parlement">De Wit</vrager>
+         <vraagt-aan>de minister van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hoeveel DNA-profielen van minderjarigen zijn op dit moment opgeslagen in de DNA-databank voor Strafzaken? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hoe verhoudt zich de verplichte DNA-afname bij minderjarigen tot het bijzondere jeugdstrafrecht, zoals we dat in Nederland kennen, waarbij pedagogische beginselen voorop staan? </vraag>
+      <vraag nummer="3">Acht u het gewenst dat de kans op recidive een rol zou moeten kunnen spelen bij de beslissing of een DNA-profiel van een minderjarige in de DNA-databank voor Strafzaken wordt opgenomen? Zo neen, waarop baseert u uw mening? Zo ja, welke maatregelen gaat u nemen om dit mogelijk te maken? </vraag>
+      <vraag nummer="4">Deelt u de mening dat een aangepaste bewaartermijn voor minderjarigen gewenst is wanneer blijkt dat er geen sprake is van recidive? Zo neen, waarom niet? Zo ja, hoe gaat u dit mogelijk maken en </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" weblink="http://www.trouw.nl/laatstenieuws/ laatstenieuws/article1013995.ece/DNA-gegevens_van_kinderen_onterecht_in_databank">http://www.trouw.nl/laatstenieuws/ laatstenieuws/article1013995.ece/DNA-gegevens_van_kinderen_onterecht_in_databank</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="2070823430)." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Çörüz (CDA) aan de minister voor Jeugd en Gezin over
+het bericht dat incompetente managers de jeugdzorg tonnen kosten. (Ingezonden
+24 juni 2008)</item>
+         <item attribuut="Bestand">19Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823440</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding bericht (RTL Nieuws, 19 juni 2008) dat Bureau
+Jeugdzorg
+Amsterdam de afgelopen jaren 825 duizend euro heeft betaald aan afkoopsommen
+van dure interim-managers. Indiener wil weten waarom de sector jeugdzorg
+kennelijk zo'n behoefte heeft aan dure interim-managers. Indiener wijst op
+opmerkingen het CDA bij een recent AO over jeugdzorg aangaande hoge
+overheadkosten bij de Bureaus Jeugdzorg en de mondelinge en schriftelijke
+teozegging van minister Rouvoet (JG) dat hierop actie zou worden ondernomen
+[Aanvulling op eerdere vragen terzake van het lid Agema (PVV), het lid Dibi
+(GroenLinks), beiden ingezonden 19 juni 2008, en het lid Bouchibti (PvdA),
+ingezonden 24 juni 2008].</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Maatschappelijke
+gezondheidszorg)
+Inkomen en rechtspositie (Inkomens)
+Welzijn (Jeugdigen)</item>
+         <item attribuut="Trefwoorden">Inkomens
+Jeugdgezondheidszorg
+Jeugdwelzijn
+Personeelsbeleid</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823440, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823440</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Çörüz</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-24</item>
+         <item attribuut="Document-id">V070823440</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823440" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823440" onderwerp="" indiendatum="2008-06-24">
+         <vrager partij="CDA" oorsprong="parlement">Çörüz</vrager>
+         <vraagt-aan>de minister voor Jeugd en Gezin</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Hebt u kennisgenomen van het bericht «enorme bedragen managers jeugdzorg»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Kunt u uitleggen waarom de sector jeugdzorg zo’n behoefte heeft aan duurbetaalde interim-managers? Kan de sector niet voorzien in deze vacatures middels reguliere banen? </vraag>
+      <vraag nummer="3">Herinnert u zich het punt dat het CDA maakte bij één van de laatste AO’s over jeugdzorg, waarbij werd gewezen op de hoge overheadkosten bij Bureaus Jeugdzorg en uw mondelinge en schriftelijke beantwoording dat hierop actie zou worden ondernomen? Hoe verhouden deze betalingen, een onderdeel van overhead, zich tot de voorgenomen reductie van overheadkosten? (van iedere euro moet een zo groot mogelijk deel bij de hulpbehoevende jongere komen) </vraag>
+      <vraag nummer="4">De provincies en grootstedelijke regio’s zijn verantwoordelijk voor Bureaus Jeugdzorg en daarmee ook voor de betalingen aan (interim-)managers. Kan de minister aangeven of zij deze betalingen hebben goedgekeurd? Kan er worden geconcludeerd dat de constante vragen om rijksmiddelen vanuit provincies mede wordt veroorzaakt door de dure inhuur van interims. </vraag>
+      <vraag nummer="5">Kunt u een overzicht geven van het aantal managers respectievelijk interim-managers werkzaam zijn bij Bureaus Jeugdzorg en welk percentage van het budget van deze bureaus opgaat aan hun beloning? Toelichting Deze vragen dienen ter aanvulling op eerdere vragen ter zake van het lid Agema (PVV), ingezonden 19 juni 2008 (vraagnummer 2070823330), van het lid Dibi (GroenLinks), ingezonden 19 juni 2008 (vraagnummer 2070822340) en van het lid Bouchibti (PvdA), ingezonden 24 juni 2008 (vraagnummer </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-19" bron="RTL nieuws, 19 juni 2008, 19.30 uur en Teletekst">RTL nieuws, 19 juni 2008, 19.30 uur en Teletekst, 19 juni 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

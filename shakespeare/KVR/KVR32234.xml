@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="7">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Jasper van Dijk (SP) aan de minister van Onderwijs,
+Cultuur en Wetenschap over slechte stagebegeleiding. (Ingezonden 14 mei
+2008); Antwoord</item>
+         <item attribuut="Bestand">23Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR32234</item>
+         <item attribuut="Inhoud">Vraten naar aanleiding van het bericht in NRC Handelsblad van 8 mei
+2008 dat 38% van de leerlingen en studenten in mbo en hbo ontevreden is over
+de stagebegeleiding. Indiener pleit onder andere voor een betere
+stagevergoeding.</item>
+         <item attribuut="Rubriek">Beroepsonderwijs en volwasseneneducatie
+(Leerlingen)
+Hoger onderwijs (Studenten)</item>
+         <item attribuut="Trefwoorden">Hbo
+Mbo
+Stages</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 2588, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070820090</item>
+         <item attribuut="Afkomstig_van">Onderwijs, Cultuur en Wetenschap (OCW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Jasper van Dijk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-05-30</item>
+         <item attribuut="Datum_indiening">2008-05-14</item>
+         <item attribuut="Document-id">KVR32234</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc=""/>
+      <footer firstpaginanummer="5313" allpagenumbers="5313 5314" vetnummer="2070820090" code="0708tkkvr2588" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR32234" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2588" onderwerp="" indiendatum="2008-05-14">
+         <vrager partij="SP" oorsprong="parlement">Jasper van Dijk</vrager>
+         <vraagt-aan>de minister van Onderwijs, Cultuur en Wetenschap</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2008-05-30">
+         <antwoorder functie="minister" ministerie="Onderwijs, Cultuur en Wetenschap">Plasterk</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Wat is uw oordeel over het bericht «Stagiair te vaak goedkope invaller»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Wat is uw oordeel over het feit dat 38% van de studenten dit jaar ontevreden is over de stagebegeleiding en wat gaat u daar aan doen? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Vindt u het acceptabel dat meer dan 20% van de stagiairs nooit is bezocht door een stagedocent tijdens de stageperiode? Zo ja, waarom? Zo neen, bent u bereid om hierover afspraken te maken met de MBO-Raad, de HBO-Raad en de VSNU? </vraag>
+      <vraag nummer="4">Wat is er volgens u de oorzaak van dat docenten zeggen dat ze te weinig tijd krijgen van hun onderwijsinstelling om stagiairs te begeleiden? </vraag>
+      <vraag nummer="5" voetnoot="3">Hoe verhoudt de in het artikel genoemde constatering dat een student «als invalkracht wordt gebruikt en alleen routineklusjes mag doen» zich met uw uitspraak dat een verschil tussen stage en «betaalde» arbeid is dat een stage gericht is op het realiseren van de onderwijsdoelstellingen van de student? <voetnoot nummer="3"/>Kunt u uw antwoord toelichten? </vraag>
+      <vraag nummer="6">Is deze constatering reden voor u om uw weigering om in overleg te gaan met het bedrijfsleven over een percentage aan stagevergoeding van het CAO-loon in een bepaalde sector te heroverwegen? Zo neen, waarom accepteert u dat stagiaires soms worden gebruikt alsof het reguliere medewerkers zijn zonder dat hier een fatsoenlijke vergoeding tegenover staat? Zo ja, wat wordt uw inzet bij deze onderhandelingen? </vraag>
+      <vraag nummer="7">Bent u bereid te onderzoeken in welke sectoren ook een stagevergoeding opgenomen kan worden in de CAO? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2008-05-8" bron="NRC">NRC, 8 mei 2008</noot>
+         <noot nummer="2">www.stageplaza.nl</noot>
+         <noot nummer="3" documenttype="Kamervragen" documentjaargang="2007-2008">Aanhangsel Handelingen, vergaderjaar 2007–2008, nr.2189).</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="7">
+      <antwoord nummer="1">Dit bericht, maar vooral het achterliggende onderzoek (Nationaal Stage Onderzoek Docenten 2008) geeft een helder beeld van de mening van docenten over de stages en over mogelijke verbeterpunten. Dit onderzoek kan helpen bij het debat binnen instellingen en tussen docenten, studenten en bedrijven om te komen tot goede afspraken over zowel aanbod, inhoud als begeleiding van stages. </antwoord>
+      <antwoord nummer="2">Ik vind dat een veel te hoog percentage, waaruit blijkt dat er vaak geen goede afspraken worden gemaakt over deze begeleiding, of dat die afspraken niet worden nagekomen. De stageperiode is onderdeel van de opleiding en valt daarmee onder de kwaliteitszorg van de instelling. Dit betekent dat instellingen verantwoordelijk zijn voor ten eerste het maken van goede afspraken over die begeleiding, zodat de student weet wat hij/zij kan verwachten, en ten tweede voor het nakomen van deze afspraken. Recentelijk is op initiatief van de studentenbonden in overleg met HBO-raad en VSNU een brochure uitgebracht, waarin helder beschreven staat wat de randvoorwaarden en tips zijn voor een succesvolle stage. </antwoord>
+      <antwoord nummer="3">Uit het onderzoek wordt niet duidelijk of het bij de 20% die nu aangeeft nooit bezocht te zijn dat dat van te voren wél was afgesproken. Het bezoeken van een stagiair door een stagedocent tijdens de stage kan Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden onderdeel zijn van de begeleiding van de student, maar dit is afhankelijk van de vooraf tussen stagiair, bedrijf en instelling gemaakte afspraken. Nut en noodzaak van zo’n bezoek is onder meer afhankelijk van inhoud, duur en mate van begeleiding door het bedrijf op de stageplek en moet in overleg tussen stagiair, bedrijf en instelling worden bepaald. </antwoord>
+      <antwoord nummer="4">Ik beschik niet over gegevens die dit resultaat verklaren. Het nationaal stageonderzoek docenten 2008 geeft evenmin een analyse van de oorzaak van dit gegeven. Naar mijn mening is het in elk geval een signaal dat de docenten en instellingen in kwestie nader overleg met elkaar zouden moeten voeren over een optimalisatie van de inzet. Verder zal ik, zoals staatssecretaris Van Bijsterveldt-Vliegenthart eerder in haar reactie op Kamervragen van het lid Dibi (Kamervragen met antwoord 2007–2008, nr. 1936) heeft aangegeven, roc’s, hogescholen en universiteiten erop wijzen dat zij verantwoordelijk zijn voor een goede begeleiding van stages. </antwoord>
+      <antwoord nummer="5">De in het artikel genoemde uitspraak verhoudt zich niet hiermee. Een stage is gericht op het opdoen van praktijkervaring op het niveau van de opleiding. Indien dit niet het geval is zou de grens met betaalde arbeid vervagen. Docenten of studenten die dit constateren moeten hieraan in overleg met het bedrijf een eind maken. </antwoord>
+      <antwoord nummer="6">Neen. Wat moet worden bestreden is dat sommige stagiairs worden gebruikt als invalkracht en alleen routineklussen mogen doen. Dit kan alleen door hierover goede afspraken te maken tussen docent, student en bedrijf, en als studenten en docenten onmiddellijk aan de bel te trekken als misbruik van de student wordt gemaakt. </antwoord>
+      <antwoord nummer="7">Neen, zie mijn antwoord op vraag 6. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

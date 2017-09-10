@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="terug te betalen?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van de leden Aptroot en Snijder-Hazelhoff (beiden VVD) aan de
+ministers van Landbouw, Natuur en Voedselkwaliteit en van Economische Zaken
+over het controleren van eieren. (Ingezonden 17 juni 2008)</item>
+         <item attribuut="Bestand">18Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823040</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding bericht (Het Financieele Dagblad, 13 juni 2008)
+dat de
+CPE (Stichting controlebureau voor pluimvee, eieren en eierproducten) nu
+eierdoosjes in supermarkten en levensmiddelenzaken koopt om de eieren te
+controleren en de gecontroleerde winkels per controle
+een vergoedingsfactuur stuurt.
+Indieners vinden dit overbodig, omdat de Voedsel- en
+Warenautoriteit (VWA) al winkels bezoekt en controleert op onder meer de
+uiterste verkooopdatum. Het is volgens hen strijdig met de motie-Aptroot voor
+één inspectie- en controledienst en het regeringsbeleid voor eenduidig
+toezicht.</item>
+         <item attribuut="Rubriek">Consument (Levensmiddelen)
+Consument (Voedings- en productveiligheid)</item>
+         <item attribuut="Trefwoorden">Eieren
+Producteisen</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823040, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823040</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Aptroot</persoon>
+            <persoon partij="VVD">Snijder-Hazelhoff</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-17</item>
+         <item attribuut="Document-id">V070823040</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823040" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823040" onderwerp="" indiendatum="2008-06-17">
+         <vrager partij="VVD" oorsprong="parlement">Aptroot</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Snijder-Hazelhoff</vrager>
+         <vraagt-aan>de ministers van Landbouw, Natuur en Voedselkwaliteit en van Economische Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1" voetnoot="1">Heeft u kennisgenomen van de nieuwe activiteit van het CPE (Stichting controlebureau voor pluimvee, eieren en eierproducten) die nu eierdoosjes in supermarkten en levensmiddelenzaken koopt om de eieren te controleren? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Kunt u aangeven wie opdracht heeft gegeven voor deze nieuwe activiteit? </vraag>
+      <vraag nummer="3">Bent u van mening dat dit een onnodige activiteit is, omdat de VWA (Voedsel en Warenautoriteit) al winkels bezoekt en controleert op onder andere de uiterste verkoopdatum? </vraag>
+      <vraag nummer="4">Is het ook niet een onnodige activiteit omdat er al eerder controles plaatsvinden bij de leveranciers van de winkeliers, die eieren verhandelen en verpakken, waarna de winkeliers zelf geen andere handeling doen dan het eerder gecontroleerde product in de schappen te leggen en de houdbaarheidsdatum bewaken? </vraag>
+      <vraag nummer="5">Zijn er nog meer nieuwe activiteiten gepland die strijdig zijn met de motie van het lid Aptroot voor één inspectie- en controledienst en het regeringsbeleid voor eenduidig toezicht? </vraag>
+      <vraag nummer="6">Wat vindt u van het optreden van het CPE, dat na de controle aan supermarkten en levensmiddelenzaken meldt dat alles in orde is en vervolgens een factuur voor de ongevraagde controle stuurt van € 105 per bezoek? </vraag>
+      <vraag nummer="7">Wilt u onmiddellijk een einde maken aan deze overbodige werkzaamheden? </vraag>
+      <vraag nummer="8">Wilt u direct opdracht geven de tot heden opgelegde vergoeding van € 105 per bezoek te crediteren dan wel </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-13" bron="FD">FD, 13 juni 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="onduidelijkheid ontstaat?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Agema (PVV) aan de minister van Volksgezondheid,
+Welzijn en Sport over het bericht dat roken in de eigen auto bij een
+ziekenhuis in Spijkenisse verboden is. (Ingezonden 16 juni 2008)</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070822930</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding bericht (Algemeen Dagblad, 11 juni 2008) over
+besluit Ruwaard van Putte Ziekenhuis in Spijkenisse om roken op het gehele
+terrein te verbieden, ook in de eigen auto. Indiener vindt dit betutteling.
+Indiener raagt wat de minister van VWS onderneemt tegen organisaties die naast
+het rookverbod in de horeca (per 1 juli 2008) allerlei extra beperkingen
+invoeren.</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Ziekten en ziektepreventie)
+Gezondheidszorg (Zorginstellingen)</item>
+         <item attribuut="Trefwoorden">Preventieve gezondheidszorg
+Tabak
+Ziekenhuizen</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070822930, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070822930</item>
+         <item attribuut="Indiener">
+            <persoon partij="PVV">Agema</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-16</item>
+         <item attribuut="Document-id">V070822930</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070822930" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070822930" onderwerp="" indiendatum="2008-06-16">
+         <vrager partij="PVV" oorsprong="parlement">Agema</vrager>
+         <vraagt-aan>de minister van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met het bericht «Roken in eigen auto taboe», waarin het Ruwaard van Putten Ziekenhuis in Spijkenisse aangeeft dat roken op het gehele terrein verboden is, zelfs in de eigen auto? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Deelt u de mening dat dit van de zotte is? Zo neen, waarom niet? </vraag>
+      <vraag nummer="3">Wat gaat u ondernemen tegen al die organisaties die naast het op handen zijnde betuttelende rookverbod in de horeca per 1 juli aanstaande allerlei extra beperkingen invoeren, waardoor er onterecht verwarring en </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-11" bron="Algemeen Dagblad">Algemeen Dagblad, 11 juni 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

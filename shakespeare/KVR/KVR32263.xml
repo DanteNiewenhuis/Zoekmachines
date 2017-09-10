@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van de leden Kant en Leijten (beiden SP) aan de staatssecretaris
+van Volksgezondheid, Welzijn en Sport over de prijzenslag in de AWBZ.
+(Ingezonden 27 mei 2008); Antwoord</item>
+         <item attribuut="Bestand">25Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR32263</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van persbericht zorgwerkgeversorganisatie ActiZ
+(21 mei 2008) dat de prijzenslag in de AWBZ-zorgcontractering tot verschraling
+van de zorg leidt. Zorgkantoren zouden lagere tarieven bedingen bij
+zorgaanbieders. Indieners willen verder nadere bijzonderheden over de
+besteding van de 248 miljoen euro, bedoeld voor 5000 à 6000 extra paar handen
+aan het bed, alsmede over een meetinstrument voor juiste besteding van dat
+geld.</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Algemeen)
+Gezondheidszorg (Zorgverzekeringen)</item>
+         <item attribuut="Trefwoorden">AWBZ
+Gezondheidszorg</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 2614, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070821080</item>
+         <item attribuut="Afkomstig_van">Volksgezondheid, Welzijn en Sport (VWS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Kant</persoon>
+            <persoon partij="SP">Leijten</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-06-03</item>
+         <item attribuut="Datum_indiening">2008-05-27</item>
+         <item attribuut="Document-id">KVR32263</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc=""/>
+      <footer firstpaginanummer="5265" allpagenumbers="5265 5266" vetnummer="2070821080" code="0708tkkvr2614" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR32263" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2614" onderwerp="" indiendatum="2008-05-27">
+         <vrager partij="SP" oorsprong="parlement">Kant</vrager>
+         <vrager partij="SP" oorsprong="parlement">Leijten</vrager>
+         <vraagt-aan>de staatssecretaris van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2008-06-3">
+         <antwoorder functie="staatssecretaris" ministerie="Volksgezondheid, Welzijn en Sport">Bussemaker</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1" voetnoot="1">Wat is uw reactie op het persbericht dat de prijzenslag AWBZ zorgcontractering tot verschraling leidt? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is het waar dat zorgkantoren bij zorgaanbieders lagere tarieven bedingen? Vindt u dit verantwoord in samenhang met de 1% efficiencykorting die door de overheid is opgelegd? Bent u bereid dit te onderzoeken? Zo neen, waarom niet? </vraag>
+      <vraag nummer="3">Erkent u dat te krappe budgetten kunnen leiden tot verschraling van de zorg? Zo ja, welke maatregelen gaat u nemen? Zo neen, waarom niet? </vraag>
+      <vraag nummer="4">Op welke wijze is de beloofde € 248 miljoen voor 5000 tot 6000 extra paar handen aan het bed besteed, of op welke wijze zal dat worden besteed? </vraag>
+      <vraag nummer="5" voetnoot="2">Is het waar dat deze € 248 miljoen voor 5000 tot 6000 extra paar handen, dat in 2007 is toegezegd, nog op de plank ligt? Is het waar dat dit komt doordat er nog wordt gewerkt aan een meetinstrument waarmee kan worden vastgesteld of het geld naar de zorg is gegaan? Zo ja, welke maatregelen gaat u nemen? Zo neen, waarom niet? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="6">Wat is uw reactie op de verwachte problemen en deelt u deze zorgen? Zo ja, welke maatregelen gaat u nemen? Zo neen, waarom niet? </vraag>
+      <vraag nummer="7">Mag een zorgkantoor van een zorgaanbieder eisen dat zorg geleverd blijft worden als het budget «op» is? </vraag>
+      <vraag nummer="8">Welke maatregelen gaat u nemen om problematische cliëntenstops te voorkomen? </vraag>
+      <vraag nummer="9">Wilt u deze vragen vóór het algemeen overleg Verpleeghuiszorg op 3 juni a.s. beantwoorden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2008-05-21" bron="Persbericht ActiZ">Persbericht ActiZ, 21 mei 2008</noot>
+         <noot nummer="2" datum="2008-05-16" bron="de Volkskrant">de Volkskrant, 16 mei 2008</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="10">
+      <antwoord nummer="1">Ten eerste is er geen sprake van een prijzenslag in de AWBZ en ten tweede is geen sprake van verschraling in de AWBZ. In de intramurale verpleeghuiszorg en gehandicaptenzorg komt er juist geld bij voor verhoging van de omvang en kwaliteit van zorg. </antwoord>
+      <antwoord nummer="2">Zorgkantoren hebben onder meer als taak doelmatig zorg in te kopen en dat doen zij al jaren door onder de maximum tarieven van de NZa in te kopen. Een efficiencykorting van 1% doet niets aan af een de opdracht aan de zorgkantoren om zo doelmatig mogelijk kwalitatief verantwoorde zorg in te kopen. </antwoord>
+      <antwoord nummer="3">Er zijn geen te krappe budgetten. Zie ook mijn antwoord op uw vraag 1. </antwoord>
+      <antwoord nummer="4">Verdelingswijze heb ik in december 2007 al bekend gemaakt. De extra middelen voor verpleeghuiszorg zullen leiden tot een prijsverhoging van de zorgzwaarte pakketten verpleging/verzorging 5 tot en met 10. Omdat deze prijzen pas in 2009 gelden, wordt in 2008 aan de hand van de opgegeven aanwezige zzp’s 5 tot en met 10 een lumpsum toegevoegd aan de instellingsbudgetten. </antwoord>
+      <antwoord nummer="5">De betrokken instellingen weten al sinds december 2007 dat er extra handen aan het bed mogelijk zijn. Het relevante bedrag voor hen konden ze zelf globaal benaderen. Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden De opgave van de zzp’s per 1 april 2008 door de instelling is in veel gevallen niet akkoord bevonden door de zorgkantoren. Er lopen nog talloze procedures. De NZa zal daarom op korte termijn 75% van de middelen verdelen op basis van een voorlopige opgave zzp’s. Als de opgave zpp’s eenduidig bekend is, wordt ook de laatste 25% van de extramiddelen verdeeld. </antwoord>
+      <antwoord nummer="6">Wat is uw reactie op de verwachte problemen en deelt u deze zorgen? Zo ja, welke maatregelen gaat u nemen? Zo neen, waarom niet? </antwoord>
+      <antwoord nummer="6">Ik verwacht dit jaar geen grote problemen. Daarbij heb ik in overleg met u bij de ex ante verdeling van de groei over de zorgkantoren € 25 miljoen achter de hand gehouden. Hierdoor kunnen voor zover de zorgkantoren het onderling niet kunnen specifieke resterende knelpunten worden opgelost. </antwoord>
+      <antwoord nummer="7">Ja, In geval van spoedeisende hulp en ten aanzien van continuering van zorgverlening aan cliënten die reeds in zorg zijn genomen kan het zorgkantoor eisen dat de zorgverlening wordt voortgezet. Overigens gaat het bij de zorgverlening aan AWBZ-cliënten niet primair om de individuele zorginstelling. Het gaat om de zorgverlening in de totale regio. Indien een zorgkantoor meer geïndiceerde zorgvraag heeft dan op basis van de afgesproken productieafspraken met alle aanbieders binnen de Treeknormen mogelijk is en het zorgkantoor doelmatig heeft ingekocht en ook niet gesteund kan worden door andere zorgkantoren dan is er sprake van een knelpunt. </antwoord>
+      <antwoord nummer="8">Zie antwoord op vraag 6. </antwoord>
+      <antwoord nummer="9">Gaarne. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

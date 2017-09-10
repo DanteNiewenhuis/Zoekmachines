@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Wolbert (PvdA) aan de staatssecretaris van
+Volksgezondheid, Welzijn en Sport over misstanden bij thuiszorgaanbieders.
+(Ingezonden 6 juni 2008); Antwoord</item>
+         <item attribuut="Bestand">24Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR32255</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van uitzending Nova 'Fraude in de thuiszorg' (4
+juni 2008), over bestuurders van thuiszorgorganisaties die niet integer zijn
+omgesprongen met publieke middelen (AWBZ-gelden).</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Fraude)
+Gezondheidszorg (Maatschappelijke
+gezondheidszorg)
+Gezondheidszorg (Zorginstellingen)
+Welzijn (Gezinsverzorging)</item>
+         <item attribuut="Trefwoorden">Ambtsmisdrijven
+Fraude
+Thuiszorg</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 2606, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070822130</item>
+         <item attribuut="Afkomstig_van">Volksgezondheid, Welzijn en Sport (VWS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Wolbert</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-06-11</item>
+         <item attribuut="Datum_indiening">2008-06-06</item>
+         <item attribuut="Document-id">KVR32255</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc=""/>
+      <footer firstpaginanummer="5249" allpagenumbers="5249 5250" vetnummer="2070822130" code="0708tkkvr2606" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR32255" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2606" onderwerp="" indiendatum="2008-06-6">
+         <vrager partij="PvdA" oorsprong="parlement">Wolbert</vrager>
+         <vraagt-aan>de staatssecretaris van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2008-06-11">
+         <antwoorder functie="staatssecretaris" ministerie="Volksgezondheid, Welzijn en Sport">Bussemaker</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Hebt u kennisgenomen van de tv-uitzending over thuiszorgorganisaties? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wat vindt u van de suggestie die daarin wordt gedaan dat bestuurders van betrokken thuiszorginstellingen niet integer zijn omgesprongen met publieke middelen? </vraag>
+      <vraag nummer="3">Deelt u de mening dat dit type incidenten het vertrouwen van burgers in publieke instellingen ondermijnt? </vraag>
+      <vraag nummer="4">Bent u van mening, gezien alle discussies die worden gevoerd over medewerkers in de zorg, dat deze incidenten juist demotiveren, in plaats van dat ze wervend en stimulerend zijn? </vraag>
+      <vraag nummer="5">Deelt u de opvatting dat sturen op vrijwillige verbetering van good governance effectief is voor goedwillende bestuurders en instellingen, maar niet toereikend is voor degenen niet integer zijn? </vraag>
+      <vraag nummer="6">Deelt u de mening dat versterking van het toezicht noodzakelijk is om dit soort incidenten in de toekomst te voorkómen? </vraag>
+      <vraag nummer="7">Wat vindt u, met de wetenschap van nu, van het onderzoek van de Nederlandse Zorgautoriteit (Nza) uit februari 2007, waarvan de conclusie destijds was, «dat niet is gebleken dat in de thuiszorg AWBZ-gelden niet aan de beoogde doelen worden besteed»? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"/>
+         <noot nummer="1" datum="2008-06-4" bron="Uitzending Nova " titel="Fraude in de thuiszorg">Uitzending Nova «Fraude in de thuiszorg», 4 juni 2008</noot>
+         <noot nummer="2">Website ministerie VWS</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Op grond van eerder onderzoek van de Nederlandse Zorgautoriteit (NZa) naar vermeende ongeoorloofde praktijken bij een thuiszorginstelling in het noorden van het land is geconcludeerd dat er geen sprake was van niet integer omgaan met publieke middelen. Als niettemin door de FIOD-ECD aanleiding wordt gezien voor nader onderzoek naar de handelwijzen binnen bepaalde thuiszorgorganisaties of als zelfs wordt overgegaan tot gerechtelijke vervolging van bestuurders van vermeende frauduleuze instellingen, en die vervolging zou tot een veroordeling leiden, pas dan acht ik redenen aanwezig om dergelijke bewoordingen te hanteren. </antwoord>
+      <antwoord nummer="3">Helaas is het zo dat dit type incidenten – u stelt dat terecht – de sector als geheel in een slecht daglicht plaatst. Dat is des te schrijnender als wordt bedacht dat de tegenhanger daarvan – in honderden instellingen die AWBZ-zorg leveren wordt rechtmatig en doelmatig zorg geleverd van goede kwaliteit tegen alleszins redelijke tarieven door gemotiveerd personeel aan cliënten die daarover uitermate te spreken zijn – geen of nauwelijks media-aandacht krijgt. Overigens is het de vraag of «het vertrouwen van burgers» in publieke instellingen en dat zijn er veel meer dan alleen in de zorg hierdoor ernstig wordt geschaad. Dat neemt niet weg dat ik van oordeel ben dat elk misbruik van publieke middelen dient te worden tegengegaan. Dat betekent dat ter voorkoming daarvan het nodige wordt gedaan in de regels ter verantwoording van de besteding van publieke middelen in de AWBZ (het Maatschappelijk jaardocument zorg, controle in het kader van de bekostiging), in het toezicht op Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden instellingen die in dit publieke domein opereren door regels over good governance en dat als ultimum remedium uiteraard de weg van de strafvervolging openstaat als mocht worden geconstateerd dat er onoirbare handelingen met publieke middelen zijn verricht. </antwoord>
+      <antwoord nummer="4">Medewerkers in de zorg kiezen hun loopbaan meestal op basis van intrinsieke motivatie voor het vak. Naar mijn idee kiezen medewerkers in de zorg vaak voor het helpen van mensen. Beeldvorming over werken in de zorg is hierbij van belang. Maar waarschijnlijk zal een enkele instelling waarbij er mogelijk sprake is dat bestuurders niet integer zijn omgesprongen met publieke middelen niet de motivatie van zorgmedewerkers zodanig schaden dat ze een andere loopbaan verkiezen. </antwoord>
+      <antwoord nummer="5 en 6">Het toezicht op de zorg, zowel inhoudelijk als financieel, is afdoende. Gelukkig kan ik constateren dat het overgrote deel van de instellingen zich geheel conform de geldende wet- en regelgeving gedraagt en verantwoordt. Raden van Bestuur en Raden van Toezicht zijn in zeer hoge mate integer in hun handelen. Niet voor niets heeft men zich vrijwillig geschaard achter de Governance Code. Het toezicht loopt langs verschillende kanalen. De NZa houdt toezicht op de naleving van de WMG regels. Met betrekking tot de casus van de thuiszorginstelling in het noorden van het land heeft de NZa geconcludeerd dat er geen overtreding van de WMG regels is geweest; de juiste prestaties zijn geleverd en tarieven zijn in rekening gebracht. De IGZ houdt toezicht op de kwaliteit van zorg. De kwaliteit van zorg is in de genoemde casus ook niet in het geding. De beleidsregels tot behoud van waarde van onroerende zaken voor zorg zijn overigens alleen van toepassing op intramurale instellingen; er is bij thuiszorginstellingen dus geen rol voor het College sanering zorginstellingen (CSZ). Op dit moment zijn het OM en Fiod-ECD nog aan zet in de genoemde casus. Het is aan de raad van bestuur van de betreffende instelling om eventueel de voormalige bestuursvoorzitter aan te spreken en actie wegens bestuurdersaansprakelijkheid te starten. Ik hecht eraan te melden dat het toezicht goed geregeld is. Tegen kwaadwillende bestuurders resteert echter in het uiterste geval slechts repressief ingrijpen. </antwoord>
+      <antwoord nummer="7">De NZa heeft in de tweede helft van 2006 het vraagstuk uitgebreid onderzocht op verzoek van mijn ambtsvoorganger. Bij dat onderzoek heeft de NZa destijds ook de FIOD-ECD en het functioneel parket betrokken. Uit dat onderzoek dat op 16 februari 2007 aan uw Kamer is aangeboden, bleek dat er geen overtreding van de WMG had plaatsgevonden en tevens dat aan de zorgplicht en aan doelmatige en rechtmatige uitvoering van de AWBZ was voldaan. Op dit moment heb ik geen informatie dat deze conclusie van de NZa zou moeten worden herzien. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

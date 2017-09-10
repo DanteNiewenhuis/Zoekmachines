@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Zo neen, waarom niet?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Schippers (VVD) aan de minister van Volksgezondheid,
+Welzijn en Sport over de inzet van Team Resource Management in ziekenhuizen.
+(Ingezonden 24 juni 2008)</item>
+         <item attribuut="Bestand">18Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823590</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van artikel 'Medische missers na menselijke
+vergissingen' in de Volkskrant van 17 juni 2008, en de mogelijkheid van TRM,
+een teamtraining die gebaseerd is op de Crew Resource Management (CRM),
+waarmee in de luchtvaart goede resultaten zijn behaald.</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Geneeskunde)
+Gezondheidszorg (Medische ethiek)
+Gezondheidszorg (Zorginstellingen)
+Inkomen en rechtspositie (Personeelsbeleid)</item>
+         <item attribuut="Trefwoorden">Geneeskunde
+Medische ethiek
+Personeelsbeleid
+Ziekenhuizen</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823590, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823590</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Schippers</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-24</item>
+         <item attribuut="Document-id">V070823590</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823590" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823590" onderwerp="" indiendatum="2008-06-24">
+         <vrager partij="VVD" oorsprong="parlement">Schippers</vrager>
+         <vraagt-aan>de minister van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met het artikel «Medische missers na menselijke vergissingen»? <voetnoot nummer="1"/>Deelt u de conclusie van het aangehaalde onderzoek dat «bij veel medische missers menselijke vergissingen een rol speelden»? </vraag>
+      <vraag nummer="2">Bent u voorts bekend met Team Resource Management (TRM), een teamtraining die gebaseerd is op de Crew Resource Management (CRM) training waarmee in de luchtvaart goede resultaten zijn behaald? </vraag>
+      <vraag nummer="3" voetnoot="2">Bent u tevens bekend met het rapport «To err is human»? <voetnoot nummer="2"/>Deelt u de conclusie van dit rapport dat de observationele studie van werkzaamheden op de Operatie Kamer heeft geleid tot de conclusie dat piloten en artsen met dezelfde soort interpersonele problemen te maken hebben? </vraag>
+      <vraag nummer="4">Bent u van mening dat, om de doelstelling te halen om het aantal vermijdbare fouten in de curatieve zorg is in 2011 met 50 procent te laten dalen een cultuurverandering noodzakelijk is? </vraag>
+      <vraag nummer="5">Zou TRM naar uw mening een mogelijke rol kunnen spelen binnen het veiligheidsprogramma «Voorkom schade, werk veilig» om te komen tot de genoemde reductie van 50%? Welke alternatieven zijn er volgens u om deze reductie te halen? </vraag>
+      <vraag nummer="6" voetnoot="3">Bent u van mening dat op basis van ervaringen in Nederland en het buitenland met teamtrainingen <voetnoot nummer="3"/>TRM, net als CRM in de luchtvaart, een nuttig hulpmiddel kan zijn om deze cultuurverandering te realiseren? Zo neen, waarom niet? </vraag>
+      <vraag nummer="7">Indien u van mening bent dat TRM een nuttig hulpmiddel kan zijn tegen medische missers na menselijke vergissingen, bent u dan bereid om mogelijkheden te bekijken om TRM toe te passen in Nederlandse ziekenhuizen? Zo ja, op welke wijze? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-17" bron="de Volkskrant">de Volkskrant, 17 juni 2008</noot>
+         <noot nummer="2">To err is human, Helmreich R.L.e.a., Institute of Medicine, 1999</noot>
+         <noot nummer="3">Voor Groot Brittannië zie: Team Resource Management, Project Reports, NHS 2003. Voor Nederland: Sinds 2003 heeft Professor D. Tibboel succes gehad met de implementatie van CRM op de kinder IC van het Sophia Kinderziekenhuis.Deze proef werd uitgevoerd met behulp van het Centrum voor Mens en Luchtvaart van de Koninklijke Luchtmacht</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="12">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Thieme (PvdD) aan de ministers van Volksgezondheid,
+Welzijn en Sport en van Landbouw, Natuur en Voedselkwaliteit over nieuwe
+gevallen van Q-koorts besmettingen bij mensen in Brabant. (Ingezonden 9 mei
+2008); Antwoord</item>
+         <item attribuut="Bestand">61Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR32219</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een artikel in het Agrarisch Dagblad van 7
+mei 2008
+over nieuwe gevallen van Q-koorts besmettingen bij mensen in Brabant. De
+indiener vraagt aan de ministers op welke wijze zij willen veranderen dat
+economische motieven een proactief preventiebeleid wat betreft voor de mens
+besmettelijke dierziekten in de weg staan.</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Ziekten en ziektepreventie)
+Veeteelt (Organische mest)</item>
+         <item attribuut="Trefwoorden">Noord-Brabant
+Preventieve gezondheidszorg
+Veeziekten</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 2573, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070819880</item>
+         <item attribuut="Afkomstig_van">Volksgezondheid, Welzijn en Sport (VWS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdD">Thieme</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-05-29</item>
+         <item attribuut="Datum_indiening">2008-05-09</item>
+         <item attribuut="Document-id">KVR32219</item>
+         <item attribuut="Omvang">3 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc=""/>
+      <footer firstpaginanummer="5277" allpagenumbers="5277 5278 5279" vetnummer="2070819880" code="0708tkkvr2573" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR32219" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2573" onderwerp="" indiendatum="2008-05-9">
+         <vrager partij="PvdD" oorsprong="parlement">Thieme</vrager>
+         <vraagt-aan>de ministers van Volksgezondheid, Welzijn en Sport en van Landbouw, Natuur en Voedselkwaliteit</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2008-05-29">
+         <antwoorder functie="minister" ministerie="Volksgezondheid, Welzijn en Sport">Klink</antwoorder>
+         <mede-antwoorder>de minister van Landbouw, Natuur en Voedselkwaliteit</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="12">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht «GGD bezorgd over nieuwe gevallen Q-koorts in Brabant»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Deelt u de zorgen van de GGD in Oss over de gevolgen van de Q-koorts voor de volksgezondheid? Zo ja, op welke wijze gaat u besmettingen tegen? Zo neen, waarom niet? </vraag>
+      <vraag nummer="3">Kunt u aangeven welke resultaten het onderzoek van de Gemeentschappelijke Gezondheidsdienst (GGD), Gezondheidsdienst voor Dieren (GD) en het RIVM in samenwerking met de Voedsel- en Warenautoriteit (VWA) naar besmettingsbronnen en risicofactoren van Q-koorts heeft opgeleverd? </vraag>
+      <vraag nummer="4" voetnoot="2">Kunt u aangeven of u nog steeds van mening bent dat de ongebruikelijke toename van Q-koorts over zijn hoogtepunt heen lijkt te zijn? <voetnoot nummer="2"/>Zo ja, waar blijkt dat uit? Zo neen, welke toename verwacht u, en welke maatregelen gaat u nemen om </vraag>
+      <vraag nummer="5" voetnoot="2">Kunt u aangeven of u nog steeds geen instrumenten in handen heeft om verspreiding van Q-koorts onder dieren te voorkomen? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="6" voetnoot="2">Kunt u aangeven of er nog steeds geen algemene, doeltreffende maatregelen kunnen worden genomen om besmetting van mensen tegen te gaan? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="7">Acht u het nog steeds waarschijnlijk dat de volksgezondheid geen grote risico’s loopt als gevolg van dier op mens besmettingen met Q-koorts? Zo neen, kunt u dit toelichten? </vraag>
+      <vraag nummer="8">Bent u nog steeds van mening dat klimaatverandering heeft geleid tot verschuivende grenzen van habitats voor dierziekten en dat daarnaast een grote toename van de wereldwijde handel heeft plaatsgevonden waardoor de kans op insleep van ziekten uit (sub)tropische landen toeneemt? Zo ja, deelt u de mening dat hierdoor het risico van uitbraken van de voor mensen besmettelijke dierziekten in de (intensieve) veehouderij ook verder zullen toenemen? Zo ja, welke conclusies verbindt u daaraan voor de toekomst van de (intensieve) veehouderij in Nederland? Zo neen, waarom niet? </vraag>
+      <vraag nummer="9">Deelt u de mening dat veehouderij een belangrijke medeveroorzaker is van klimaatverandering en van handelsstromen en om die reden eerder ingeperkt dan gestimuleerd zou moeten worden? Zo ja, op welke termijn en op welke wijze wilt u werken aan een sanering van de grootschalige Nederlandse veehouderij en de daarmee samenhangende grootschalige transportbewegingen? Zo neen, waarom niet? </vraag>
+      <vraag nummer="10">Vindt u het tijdig signaleren van (nieuwe) dierziekten door middel van risicogebaseerde monitoringsprogramma’s afdoende om mensen en dieren te beschermen tegen besmettingen met Q-koorts en andere dierziekten? Zo ja, waarom? Hoeveel besmettingen moeten er plaatsvinden voordat monitoring wordt omgezet in preventie van de insleep van (nieuwe) dierziekten? Zo neen, welke andere maatregelen gaat u nemen en binnen welke termijn? </vraag>
+      <vraag nummer="11">Kunt u aangeven op welke wijze economische criteria worden afgewogen tegenover volksgezondheids- en diergezondheidscriteria als het gaat om het nemen van maatregelen tegen dierziektenuitbraken en besmettingen van mensen met dierziekten? </vraag>
+      <vraag nummer="12">Heeft u de indruk dat economische motieven een proactief preventiebeleid wat betreft voor de mens besmettelijke dierziekten in de weg staan? Zo ja, op welke wijze wilt u dit veranderen en binnen welke termijn? Zo neen, waarom niet? Waar blijkt dat uit in de keuze van maatregelen om verdere toename van de verspreiding van dierziekten te voorkomen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2008-05-7" bron="Agrarisch Dagblad">Agrarisch Dagblad, 7 mei 2008</noot>
+         <noot nummer="2" documenttype="Kamervragen" documentjaargang="2007-2008" documentnummer="344">Aanhangsel Handelingen, vergaderjaar 2007–2008, nr.344.</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="12">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Vooralsnog is er dit jaar geen sprake van een uitbraak van Q-koorts zoals dit in 2007 het geval was in Noord-Brabant. Wel worden er – in het hele land – meer gevallen gemeld dan in de jaren daarvoor. Het is aannemelijk dat dit ook een gevolg is van de aandacht die er is geweest voor Q-koorts; in de medische sector wordt nu eerder dan voorheen aan Q-koorts gedacht en specifieke diagnostiek daarvoor verricht. Onlangs is een cluster van Q-koorts patiënten in een GGZ-instelling in Nijmegen vastgesteld (per 16-5-2008 13 bevestigde en 17 mogelijke patiënten). Dit betreft echter hoogstwaarschijnlijk een lokaal cluster, waarbij vooralsnog alleen cliënten en medewerkers van de betreffende instelling Q-koorts hebben opgelopen. Ik heb geen aanleiding om mij op dit moment meer zorgen te maken dan voorheen. In mijn antwoorden op uw eerdere vragen over Q-koorts (2007-2008, nr. 377 en 2007–2008, nr. 2235) heb ik u geïnformeerd over het tegengaan van besmettingen. </antwoord>
+      <antwoord nummer="3">Over de ingezette onderzoeken heb ik u reeds geïnformeerd (29 april 2008). Uit onderzoek naar de Q-koorts uitbraak in 2007 blijkt dat de verspreiding van de bacterie die Q-koorts veroorzaakt heeft, waarschijnlijk plaatsgevonden heeft via de lucht. Daarnaast werd direct contact met mest, hooi en stro als risicofactor gevonden. Het uitzonderlijke warme weer vorig voorjaar en de daarmee Uit het onderzoek naar besmettingsbronnen en risicofactoren van Q-koorts op 13 melkgeitenbedrijven in 2007 door de Gezondheidsdienst voor Dieren en het RIVM komt naar voren dat humane gevallen van Q-koorts in de regio Herpen zich hebben voorgedaan binnen een straal van 5 kilometer tot het dichtstbijzijnde geitenbedrijf met klinische Q-koorts en dat de gemiddelde afstand van een humaan geval tot een willekeurig geitenbedrijf met een onbekende Q-koortsstatus ruim 12 kilometer is. Andere mogelijke bronnen die een rol kunnen spelen bij de de verspreiding van Q-koorts onder mensen zijn in dit onderzoek niet betrokken geweest. De aanbevelingen uit dit onderzoek naar verder onderzoek worden door de Gezondheidsdienst voor Dieren en het RIVM momenteel uitgevoerd. De resultaten uit dit onderzoek worden eind dit jaar en begin volgend jaar verwacht. </antwoord>
+      <antwoord nummer="4">De uitbraak die in 2007 werd waargenomen is over het hoogtepunt heen. Hieronder treft u een figuur die de epidemische curve van Q-koorts meldingen in Nederland sinds juni 2003 toont. Naar verwachting zal het aantal meldingen van Q-koorts bij de mens blijvend hoger zijn dan voor 2007 als gevolg van de toegenomen alertheid voor Q koorts bij de mens. Figuur. Aantal meldingen van Q-koorts sinds juni 2003 naar maand en jaar van eerste ziektedag (indien de eerste ziektedag onbekend was is de datum van vaststellen van de verwekker genomen). (RIVM/Centrum Infectieziektebestrijding, 14-05-2008) </antwoord>
+      <antwoord nummer="5">Naast hygiënemaatregelen, waar u eerder over heb geïnformeerd (2007–2008, nr 2235), zijn er nog geen nieuwe, adequate interventiemaatregelen om verspreiding tussen dieren of tussen bedrijven te voorkomen. Lopend onderzoek moet dit jaar leiden tot een beter inzicht in de risicofactoren. In Frankrijk en Denemarken wordt geëxperimenteerd met een in Frankrijk ontwikkeld vaccin. Deze ontwikkelingen worden nauwlettend gevolgd. </antwoord>
+      <antwoord nummer="6">Zie de antwoorden op uw eerdere vragen (2007-2008, nr. 2235). </antwoord>
+      <antwoord nummer="7">Een uitbraak van Q-koorts zoals die in 2007 is nooit eerder gezien in Nederland. Die uitbraak is aanleiding geweest om hygiënemaatregelen te inventariseren, diverse onderzoeken in te zetten, zorgverleners te informeren en betere gegevensuitwisseling tussen de veterinaire en de medische sector tot stand te brengen. Dit alles om meer inzicht te krijgen in de ziekte en de overdracht te beperken. Ik zie vooralsnog geen aanleiding om te spreken van grote risico’s voor de volksgezondheid, wel volg ik nauwlettend – met mij collega van LNV – de situatie. </antwoord>
+      <antwoord nummer="8" voetnoot="1">Ja. Voorbeelden hiervan zijn blauwtong – overigens niet besmettelijk voor de mens – dat tot voor kort niet in Nederland voorkwam en het West Nile Fever in de Verenigde Staten dat met muggenlarven mogelijk in partijen oude autobanden uit besmette gebieden is geïntroduceerd. Vooral veranderingen in het voorkomen van vectorgebonden aandoeningen lijken geassocieerd te zijn met klimaatveranderingen. Het RIVM heeft hier in 2007 onderzoek naar verricht. <voetnoot nummer="1"/>Op dit moment is er geen aanleiding om te constateren dat juist de voor de mens besmettelijke dierziekten in de veehouderij zullen toenemen. </antwoord>
+      <antwoord nummer="9">Ik verwijs voor het antwoord op deze vraag naar de toekomstvisie op de veehouderij die mijn collega van LNV in januari naar uw Kamer heeft gestuurd. (2007-2008, 28 973, nr.18) Daarin zijn de uitdagingen voor de veehouderij en de beleidsinzet van de Minister van LNV neergelegd. </antwoord>
+      <antwoord nummer="10">Het tijdig signaleren van (nieuwe) dierziekten is in Nederland een continu proces. Signalering is gebaseerd op monitoringsprogramma’s en early warningsystemen op zowel het terrein van volksgezondheid als dat van diergezondheid. Momenteel heeft een nog betere uitwisseling tussen deze twee gebieden de aandacht van mij en mijn collega van LNV. In de Nationale Agenda diergezondheid, die op 12 oktober 2007 (2007-2008, 28 286, nr. 76 ) door mijn collega van LNV aan u is verzonden, wordt uitgebreid ingegaan op de verschillende aspecten van uw vraag. </antwoord>
+      <antwoord nummer="11">Bij het bepalen van maatregelen bij een uitbraak vindt altijd een afweging plaats tussen dier- en volksgezondheidscriteria en economische criteria. Als een bedreiging van volks- of diergezondheid groot is, zullen eerder ingrijpende, kostbare maatregelen getroffen worden dan als dat niet het geval is. Zo zijn zeer ingrijpende maatregelen in de veehouderij genomen en vele miljarden euro’s besteed aan de BSE-bestrijding. In mijn antwoord op uw vragen over een mysterieuze zenuwziekte bij medewerkers van slachterijen (16 mei 2008) heb ik u een lijst gegeven met opkomende zoönotische ziekteverwekkers die voor Nederland mogelijk van belang kunnen worden. In het betreffende onderzoek wordt ook gekeken naar de prioriteit. Voor deze prioritering wordt een multcriteria analyse ontwikkeld. Ook in Europa is men bezig dergelijke methodes te ontwikkelen om een objectievere afweging te kunnen maken bij de bestrijding van besmettelijke dierziekten. </antwoord>
+      <antwoord nummer="12">Mijn collega van LNV en ik zijn het erover eens dat dierziekten die een gevaar vormen voor de volksgezondheid snel opgespoord en aangepakt moeten worden en dat insleep van deze ziekten – indien mogelijk – voorkomen moet worden. Door meer samenwerking tussen de veterinaire en de medische sector door bijvoorbeeld gegevensuitwisseling, gezamenlijk onderzoek en informatievoorziening vanuit de medische sector aan de veehouderij en vice versa, zorgen we ervoor dat een ziekte die in Nederland binnen is gekomen, zo snel mogelijk wordt aangepakt. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1">Staat van Infectieziekten 2006, RIVM / Centrum voor Infectieziektebestrijding, http://www.rivm.nl/bibliotheek/rapporten/210211002.pdf</noot>
+      </noten>
+   </antwoorden>
+</kvr>

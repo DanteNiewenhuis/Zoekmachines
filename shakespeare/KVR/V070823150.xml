@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="bewezen ondeugdelijk slot?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Kuiken (PvdA) aan de minister van Binnenlandse Zaken
+en Koninkrijksrelaties over de aanpak van fietsdiefstal door middel van
+moedersleutels. (Ingezonden 18 juni 2008)</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823150</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van bericht (Algemeen Dagblad, 9 juni 2008)
+over een
+toename van het aantal fietsendiefstallen met behulp van moedersleutels, in
+het licht van het streven naar verdere afname van
+fietsdiefstal
+zoals verwoord in het coalitieakkoord. Indiener bepleit het onmogelijk maken
+van
+verkoop van moedersleutels door de vakhandel aan particulieren en een minder
+diefstalgevoelige distributie van vervangende sleutels.</item>
+         <item attribuut="Rubriek">Bedrijfsleven en industrie (Midden- en
+kleinbedrijf)
+Criminaliteit en openbare orde (Criminaliteitsbestrijding en
+-preventie)
+Verkeer, vervoer en waterstaat (Fietsen)</item>
+         <item attribuut="Trefwoorden">Criminaliteitsbestrijding
+Detailhandel
+Fietsen</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823150, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823150</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Kuiken</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-18</item>
+         <item attribuut="Document-id">V070823150</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823150" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823150" onderwerp="" indiendatum="2008-06-18">
+         <vrager partij="PvdA" oorsprong="parlement">Kuiken</vrager>
+         <vraagt-aan>de minister van Binnenlandse Zaken en Koninkrijksrelaties</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht «Dure fietssloten met loper gekraakt»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Herkent u de geschetste situatie, dat er een toename is in het aantal fietsdiefstallen met behulp van moedersleutels? </vraag>
+      <vraag nummer="3">Is bekend hoe groot de totale omvang is van het verschijnsel? Bedreigt het de verdere afname van fietsdiefstal conform het coalitieakkoord? </vraag>
+      <vraag nummer="4">Bent u bereid bij gemeenten en politie aan te dringen op extra voorlichting aan het publiek over het goed op slot zetten van de fiets (met twee sloten en aan een vast object) en op extra controles op fietsdiefstal en verkoop van gestolen fietsen, in het bijzonder in plaatsen waar groepen dieven met moedersleutels actief zijn? </vraag>
+      <vraag nummer="5">Vindt een deel van de diefstal plaats met moedersleutels, die door de vakhandel zijn doorverkocht aan particulieren? Zo ja, is deze verkoop wettelijk toegestaan? Zo ja, bent u bereid deze verkoop in de toekomst onmogelijk te maken? </vraag>
+      <vraag nummer="6">Bent u bereid bij de rijwielhandel aan te dringen op een ander, minder diefstalgevoelige wijze van distributie van vervangende sleutels, zodat moedersleutels niet meer ontvreemd of verkocht kunnen worden? </vraag>
+      <vraag nummer="7">Is het waar dat vooral fietsen met een aantal specifieke typen sloten het doelwit zijn van diefstal met moedersleutels? Zo ja, heeft u een duidelijk beeld van het aantal kwetsbare sloten dat in gebruik is en van het aantal keren dat deze zwakte gebruikt wordt bij het stelen van een fiets? </vraag>
+      <vraag nummer="8">Is voor fietseigenaren goed na te gaan of hun slot ook kwetsbaar is voor deze nieuwe vorm van diefstal? </vraag>
+      <vraag nummer="9">Bent u bereid met de betreffende slotenfabrikanten in overleg te treden en bij hen aan te dringen op betere voorlichting naar hun klanten en indien van toepassing een 100% vergoeding bij vervanging van een </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-9" bron="Algemeen Dagblad">Algemeen Dagblad, 9 juni 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

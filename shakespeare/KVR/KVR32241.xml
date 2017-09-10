@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Van der Ham (D66) aan de minister van Economische
+Zaken over de prijsindexcijfers van CBS. (Ingezonden 14 april 2008); Antwoord</item>
+         <item attribuut="Bestand">26Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR32241</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een artikel in NRC Handelsblad van 9 april
+2008 over het gebruik of misbruik van CBS-cijfers. Indiener vraagt zich af hoe
+dit spoort met het overheidsbeleid inzake consumentenzaken. Hij wil dat de
+overheid optreedt tegen misbruik en dat het publieke toezicht op
+bedrijfsgedrag jegens consumenten wordt verbeterd.</item>
+         <item attribuut="Rubriek">Consument (Consumentenprijzen)
+Handel en economie (Prijsindexcijfers)</item>
+         <item attribuut="Trefwoorden">CBS
+Consumenten
+Prijsindexcijfers
+Statistiek</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 2595, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070817490</item>
+         <item attribuut="Afkomstig_van">Economische Zaken (EZ)</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Van der Ham</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-06-02</item>
+         <item attribuut="Datum_indiening">2008-04-14</item>
+         <item attribuut="Document-id">KVR32241</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc=""/>
+      <footer firstpaginanummer="5327" allpagenumbers="5327 5328" vetnummer="2070817490" code="0708tkkvr2595" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR32241" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2595" onderwerp="" indiendatum="2008-04-14">
+         <vrager partij="D66" oorsprong="parlement">Van der Ham</vrager>
+         <vraagt-aan>de minister van Economische Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2 juni 2008, zie ook Aanhangsel Handelingen nr. 2350, vergaderjaar 2007–2008">
+         <antwoorder functie="staatssecretaris" ministerie="Economische Zaken">Heemskerk</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Financiën</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met het artikel «List en bedrog met prijsindexcijfers van CBS»? <voetnoot nummer="1"/>Spoort de beschreven dooltocht langs Consumentenautoriteit, NMA en FIOD-ECD met uw beleidsoogmerken inzake consumentenzaken? Zo ja, wat heeft de burger dan aan dat beleid? Zo neen, wat gaat u tegen herhaling doen? </vraag>
+      <vraag nummer="2">Deelt u het standpunt van het CBS dat «wij ons niet mengen in het gebruik of misbruik van CBS cijfers door private ondernemingen of particulieren?» Wat kan en moet de overheid doen om te waken tegen misbruik? Wat bent u van plan terzake te verbeteren? </vraag>
+      <vraag nummer="3">Deelt u het standpunt van zowel Consumentenautoriteit als NMA en FIOD-ECB dat zij aan de burger die een mogelijk misbruik meldt geen informatieplicht hebben over de procesgang en de uitkomsten van de melding? Zo ja, past dit in het regeringsbeleid ter versterking van de communicatie met de burger? Zo neen, wat bent u van plan te doen? </vraag>
+      <vraag nummer="4">Spoort naar uw mening de opvatting van de FIOD-ECD dat een klachtmelding van een onderneming niet valt onder zijn taken, hoewel die op zijn website staan genoemd als onder meer «de bescherming van de consument» en «het waarborgen van een integer beroeps- en bedrijfsleven»? Zo ja, kunt u dit uitleggen? Zo neen, wat gaat u ertegen doen? </vraag>
+      <vraag nummer="5">Acht u verbetering van het publieke toezicht op bedrijfsgedrag jegens consumenten ueberhaupt mogelijk zonder extra belastinguitgaves? Zo ja, wat stelt u voor? Zo neen, moet de consument derhalve zijn illusie van publiek toezicht afleren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2008-04-9" bron="NRC">NRC, 9 april 2008</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ik ben bekend met het artikel «List en bedrog met prijsindexcijfers van CBS». Het uitgangspunt van het consumentenbeleid is dat consumenten in de eerste plaats zelf verantwoordelijk zijn voor het oplossen van geschillen met bedrijven (zie Kamerstukken II 2004–2005, 27 879, nr. 11, p. 3 en Kamerstukken II 2005–2006, 30 411, nr. 3, p. 6). Om ervoor te zorgen dat de consument goed geïnformeerd is over zijn rechten en plichten én dat meldingen van consumenten snel bij de juiste toezichthouder terechtkomen, is het centrale informatieloket ConsuWijzer opgericht. De Consumentenautoriteit (CA), de NMa – en de OPTA – bedienen de consument primair via ConsuWijzer. ConsuWijzer is voor consumenten het eerste aanspreekpunt voor vragen, meldingen en klachten op het gebied van consumentenbescherming, mededinging en telecommunicatie. Voor de CA, NMa en OPTA is ConsuWijzer een belangrijke bron van signalen over mogelijke misstanden op de markt. Uitgangspunt is dat toezichthouders meldingen alleen in behandeling kunnen nemen voor zover zij bevoegd zijn (zie ook recente kamervragen 2070817700 van het lid Van Vroonhoven-Kok, ingezonden 15 april 2008). Daarnaast is het, gegeven de beperkte capaciteit, niet mogelijk op elk signaal actie te ondernemen. Derhalve stellen de CA en de NMa jaarlijks hun prioriteiten voor handhaving vast. Deze worden gecommuniceerd in hun Agenda’s. De Agenda van de CA heb ik uw Kamer aangeboden bij brief van 18 januari 2008 (Kamerstukken II 2007–2008, 27 879, nr. 17). De aandachtsgebieden van de NMa zijn Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden uw Kamer bij de aanbieding van het jaarverslag over 2007 bij brief van 9 april 2008 (Kamerstukken II 2007–2008, 31 200 XIII, nr. 51) aangeboden. De signalen die bij ConsuWijzer binnenkomen, vormen een belangrijke bron om deze prioriteiten te identificeren. Ook informatie uit andere bronnen, onder meer signalen van andere toezichthouders, consumentenorganisaties, buitenlandse toezichthouders en media, wordt daarbij meegenomen. Daarnaast worden ook de betrokken maatschappelijke organisaties over deze prioriteiten geconsulteerd alvorens deze worden vastgesteld. De aandachtsgebieden in de Agenda’s worden uiteindelijk aan de hand van een aantal criteria vastgesteld. Zo betrekt de CA in haar beoordeling de omvang van de schade voor consumenten, het effect op het consumentenvertrouwen en de gevolgen voor de markt. In (individuele) zaken die geen collectieve inbreuk vormen op het gebied van het consumentenrecht is – conform de Wet handhaving consumentenbescherming – de CA niet bevoegd. De NMa kijkt bij de vaststelling van haar aandachtsgebieden onder andere naar het marktgedrag, de betrokken marktstructuur en het economisch en maatschappelijk belang van de mogelijke inbreuk. Ook de FIOD-ECD stelt jaarlijks zijn prioriteiten vast in overleg met alle opdrachtgevers en het Openbaar Ministerie. Die afspraken worden vastgelegd in het Handhavingsarrangement. Als een melding of klacht bij de FIOD-ECD binnenkomt, wordt deze beoordeeld op aanknopingspunten voor het starten van een strafrechtelijk onderzoek en wordt gekeken of dit past binnen de afspraken in het Handhavingsarrangement. </antwoord>
+      <antwoord nummer="2">Het CBS zorgt voor betrouwbare statistische informatie voor beleid, praktijk en wetenschap en publiceert deze informatie op de website (www.cbs.nl) of anderszins. De informatie is voor iedereen toegankelijk en te gebruiken. Het is voor de overheid ondoenlijk om elk individueel gebruik van officiële cijfers door private ondernemingen of particulieren te monitoren. Zoals is vermeld in het antwoord op vraag 1, kunnen toezichthouders alleen optreden indien een eventuele overtreding binnen hun toezichtstaken valt. Er zijn mij overigens geen andere gevallen van misbruik van de prijsindexcijfers van het CBS bekend dan het in het krantenartikel genoemde geval. Het verbod op oneerlijke handelspraktijken, als bedoeld in de artikelen 5 en 6 van de Richtlijn nr. 2005/29/EG betreffende oneerlijke handelspraktijken van ondernemingen jegens consumenten op de interne markt (PbEU L 2005, nr. 149), is bij onjuist gebruik van CBS-cijfers wellicht relevant. Het wetsvoorstel ter implementatie van deze richtlijn ligt momenteel ter behandeling in de Eerste Kamer. De CA zal na de inwerkingtreding van dit wetsvoorstel bevoegd zijn om handhavend op te treden tegen oneerlijke handelspraktijken. </antwoord>
+      <antwoord nummer="3">De CA, de NMa en de FIOD-ECD streven er naar waar mogelijk transparant te zijn in reacties op meldingen. ConsuWijzer reageert als informatieloket van onder meer de CA en de NMa op elke melding door middel van een standaardreactie en stuurt de ontvangen meldingen door aan de desbetreffende toezichthouder in de vorm van een signaalrapportage. Ook de FIOD-ECD stuurt een reactie aan burgers die een melding doen, waarin wordt bericht dat de melding in behandeling is genomen. De in het onderhavige geval gegeven reactie door de betrokken toezichthouders moet worden bezien in de context waarin de melding is gedaan. De CA, de NMa en de FIOD- ECD kunnen naar aanleiding van een melding besluiten om tot onderzoek over te gaan. Niet iedere melding leidt echter tot onderzoek (zie antwoord op vraag 1). De CA, de NMa en de FIOD-ECD berichten de melder niet of zij naar aanleiding van een melding actie zullen ondernemen, aangezien dit een eventueel onderzoek naar een mogelijke overtreding kan schaden. Daarnaast dient een toezichthouder geen informatie naar buiten te brengen die mogelijk schadelijk is voor een onderneming, zo lang de gegrondheid van de klacht niet aanstonds en zonder onderzoek duidelijk is (zie uitspraak van de voorzieningenrechter van de rechtbank ’s-Gravenhage, 8 mei 2007 onder nummer LJN BA4603). ConsuWijzer heeft de standaardreactie aangepast teneinde melders beter te informeren over de afhandeling van hun klacht of melding. Burgers worden langs verschillende kanalen geïnformeerd over acties ondernomen door de betrokken toezichthouders. Indien een onderzoek heeft geresulteerd in actie in handhavende zin, dan wordt dat in de meeste gevallen openbaar gemaakt. Ook wordt in het jaarbericht van ConsuWijzer verslag gedaan van de door hem ontvangen meldingen en van de acties die de betrokken toezichthouders op basis hiervan hebben genomen. Daarnaast stellen de CA, de NMa en de Belastingdienst jaarlijks een jaarverslag op waarin de handhavingsresultaten worden gerapporteerd. </antwoord>
+      <antwoord nummer="4">Zoals recentelijk is toegelicht in de brief van de Minister van Justitie van 7 april 2008 (Beleidskaderbrief BPD-en, Kamerstukken II, 17 050, nr. 354), richten de activiteiten van de FIOD-ECD zich op het strafrechtelijk tegengaan van fiscale, douane- en financieel-economische fraude, het waarborgen van een integer beroeps- en bedrijfsleven en de bestrijding van de georganiseerde criminaliteit. Binnen de uitvoering van deze taakopdracht wordt dan ook in voorkomende gevallen gebruik gemaakt van meldingen van ondernemingen en burgers. Omdat de tekst op de website van het Ministerie van Financiën over de FIOD-ECD aanleiding geeft tot misverstanden, zal deze op korte termijn worden aangepast. </antwoord>
+      <antwoord nummer="5">Zoals in het antwoord op vraag 1 is aangegeven, is publiek toezicht mogelijk, maar zal dit plaatsvinden binnen de grenzen van de bevoegdheden en de beschikbare capaciteit van de desbetreffende toezichthouders. Het is in de eerste plaats aan de consument om tot een oplossing te komen met het bedrijf. De individuele consument kan hierbij gebruik maken van praktisch advies en informatie over zijn rechten, verstrekt door ConsuWijzer (zie ook het antwoord op vraag 2 met betrekking tot de richtlijn oneerlijke handelspraktijken). </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

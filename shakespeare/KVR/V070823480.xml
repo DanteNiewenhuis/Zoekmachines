@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Pakistan?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van de leden Van Gennip, Ferrier en Çörüz (allen CDA) aan de
+ministers van Buitenlandse Zaken en voor Ontwikkelingssamenwerking over de
+mensenrechtensituatie in Pakistan. (Ingezonden 24 juni 2008)</item>
+         <item attribuut="Bestand">18Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823480</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding bericht van Human Rights Watch (Trouw, 17 juni
+2008)
+dat een kwart van de Pakistaanse gevangenen, circa 7000 mensen, de doodstraf
+wacht. Indieners wijzen op het Nederlands beleid voor wereldwijde afschaffing
+van de doodstraf, en bepleiten een dialoog met de nieuwe Pakistaanse
+regering.</item>
+         <item attribuut="Rubriek">Staats- en bestuursrecht (Grondrechten)</item>
+         <item attribuut="Trefwoorden">Mensenrechten
+Pakistan</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823480, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823480</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Van Gennip</persoon>
+            <persoon partij="CDA">Ferrier</persoon>
+            <persoon partij="CDA">Çörüz</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-24</item>
+         <item attribuut="Document-id">V070823480</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823480" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823480" onderwerp="" indiendatum="2008-06-24">
+         <vrager partij="CDA" oorsprong="parlement">Van Gennip</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Ferrier</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Çörüz</vrager>
+         <vraagt-aan>de ministers van Buitenlandse Zaken en voor Ontwikkelingssamenwerking</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met de verklaring van Human Rights Watch dat een kwart van de Pakistaanse gevangenen, ongeveer 7.000 mensen, de doodstraf wacht? Klopt dit bericht? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hebt u reeds uw afkeuring over het opleggen van de doodstraf aan de Pakistaanse autoriteiten overgebracht, aangezien wereldwijze afschaffing van de doodstraf een van de hoofdpunten is van het Nederlands buitenlans beleid? Hebt u daarbij ook uw afschuw uitgesproken over deze grote aantallen? Zo neen, waarom niet? Zo ja, wat was daarop de reactie van de Pakistaanse autoriteiten? </vraag>
+      <vraag nummer="3">Bent u bereid in EU-verband er bij de Pakistaanse autoriteiten op aan te dringen een moratorium op de doodstraf in te stellen? Zo neen, waarom niet? </vraag>
+      <vraag nummer="4">Op welke wijze wilt u de dialoog met de nieuwe Pakistaanse regering vormgeven, met name in het kader van onze OS-relatie met Pakistan maar ook met het oog op onze (militaire) betrokkenheid in Afghanistan, als de nieuwe regering vasthoudt aan dergelijk onacceptabel beleid? Op welke wijze wilt u met de nieuwe regering van Pakistan de dialoog aangaan over de opbouw van een rechtsstaat, inclusief een levende civil society, een betrouwbare rechtsgang, inclusief rechten voor verdachten en veroordeelden en brede vrijheid van meningsuiting? </vraag>
+      <vraag nummer="5">Kunt u, in vervolg op de antwoorden op de vragen «over aanklachten tegen mensenrechtenverdedigers in Pakistan» aangeven welke concrete stappen u gaat nemen, als onderdeel van de mensenrechtenstrategie, ter bescherming van mensenrechtenverdedigers in </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="2"/>
+         <noot nummer="1" datum="2008-06-17" bron="Trouw">Trouw, 17 juni 2008</noot>
+         <noot nummer="2" documenttype="Kamervragen" documentnummer="2357" documentjaargang="2007-2008">Aanhangsel Handelingen, nr.2357, vergaderjaar 2007–2008.</noot>
+      </noten>
+   </antwoorden>
+</kvr>

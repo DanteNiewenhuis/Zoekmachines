@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="de VS is?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Van Velzen (SP) aan de minister van Defensie over
+veiligheidsrisico's door de aanwezigheid van Amerikaanse kernwapens op de
+Luchtmachtbasis Volkel. (Ingezonden 24 juni 2008)</item>
+         <item attribuut="Bestand">18Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823580</item>
+         <item attribuut="Inhoud">Vragen over een rapport van de Amerikaanse luchtmacht waarin
+geconcludeerd wordt dat de aanwezigheid van Amerikaanse kernwapens in Europa
+een veiligheidsrisico is.</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Veiligheid)
+Veiligheidsbeleid en defensie (Luchtmacht)
+Veiligheidsbeleid en defensie (Militair
+materieel)</item>
+         <item attribuut="Trefwoorden">Kernwapens
+Luchtmacht
+Openbare orde en veiligheid
+Verenigde Staten</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823580, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823580</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Van Velzen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-24</item>
+         <item attribuut="Document-id">V070823580</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823580" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823580" onderwerp="" indiendatum="2008-06-24">
+         <vrager partij="SP" oorsprong="parlement">Van Velzen</vrager>
+         <vraagt-aan>de minister van Defensie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Wat is uw reactie op het Amerikaanse luchtmacht rapport waarin geconcludeerd wordt dat de aanwezigheid van Amerikaanse kernwapens in Europa een veiligheidsrisico is? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Deelt u de conclusies van de onderzoekers dat er een veiligheidsrisico kleeft aan de aanwezigheid van kernwapens op onder andere de Nederlandse luchtmachtbasis Volkel? Zo ja, welke risico’s zijn dit en welke maatregelen gaat u treffen? </vraag>
+      <vraag nummer="3">Wanneer hebben deze onderzoeken in Nederland plaatsgevonden? Is er een verslag van de bevindingen van dit onderzoek opgesteld? Bent u bereid om dit verslag met de Kamer te delen? Zo neen, op welke wijze bent u op de hoogte gesteld van de bevindingen van deze onderzoeken? </vraag>
+      <vraag nummer="4">Deelt u de conclusies van de onderzoekers dat er op de verschillende militaire bases in Europa waar Amerikaanse kernwapens staan, risico’s gelopen worden doordat er reparatie nodig is van verschillende onderdelen van de kernwapentaak zoals de beveiligingssystemen, de omheining en de verlichting? Zo neen, waarom niet? </vraag>
+      <vraag nummer="5">Welke tekortkomingen zijn er exact op de luchtmachtbasis Volkel geconstateerd? </vraag>
+      <vraag nummer="6" voetnoot="2">Deelt u de mening dat de conclusie van dit rapport strijdig is met verklaringen van de NAVO als zou de opslag veilig zijn? <voetnoot nummer="2"/>Zo ja, op basis waarvan werd er geconcludeerd dat deze opslag veilig is? Zo neen, waarom niet? </vraag>
+      <vraag nummer="7">Deelt u de mening dat de beste oplossing voor dit veiligheidsprobleem het terugsturen van de Amerikaans kernkoppen naar </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" titel="Most">FAS Strategic Security Blog – http://www.fas.org/blog/ssp – USAF Report: «Most» Nuclear Weapon Sites In Europe Do Not Meet US Security Requirements Kristensen June 19, 2008</noot>
+         <noot nummer="2" titel="Today, the remaining gravity bombs associated with DCA [Dual-Capable Aircraft] are stored safely in very few storage sites under highly secure conditions">http://www.nato.int/issues/nuclear/sec-environment.html NATO fact sheet January 2008 «Today, the remaining gravity bombs associated with DCA [Dual-Capable Aircraft] are stored safely in very few storage sites under highly secure conditions»</noot>
+      </noten>
+   </antwoorden>
+</kvr>

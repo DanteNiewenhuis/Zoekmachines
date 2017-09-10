@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="van dien? Zo neen, waarom niet?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Leijten (SP) aan de staatssecretaris van
+Volksgezondheid, Welzijn en Sport over de schaarste in de AWBZ-budgetten in
+Drenthe. (Ingezonden 19 juni 2008)</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823320</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van de uitspraken van de directeur van het
+Jannes van der Steenhuis, die aangeeft dat het schaarse budget aanleiding kan
+geven voor ontslag van personeel.</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Algemeen)
+Gezondheidszorg (Zorgverzekeringen)</item>
+         <item attribuut="Trefwoorden">AWBZ
+Gezondheidszorg</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823320, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823320</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Leijten</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-19</item>
+         <item attribuut="Document-id">V070823320</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823320" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823320" onderwerp="" indiendatum="2008-06-19">
+         <vrager partij="SP" oorsprong="parlement">Leijten</vrager>
+         <vraagt-aan>de staatssecretaris van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Wat is uw reactie op de uitspraken van de directeur van het Jannes van der Steenhuis, die aangeeft dat het schaarse budget aanleiding kan geven voor ontslag van personeel? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Wat is uw reactie op de uitspraken van mevrouw R. van het Achmea Zorgkantoor, dat ook na de herverdelingsronde per 1 juli a.s. de problemen niet zijn opgelost en dat zij zorgstops en wachtlijsten waarschijnlijk acht? Kunt de Kamer inzicht geven in de herverdeling van de middelen? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Erkent u haar conclusie dat het budget in de AWBZ te krap is om de huidige vraag naar zorg te beantwoorden? Zo ja, welke maatregelen gaat u treffen om er voor zorg te dragen dat er geen wachtlijsten en zorgstops ontstaan en iedereen de zorg krijgt waar recht op is conform de AWBZ? Zo neen, waarom niet? </vraag>
+      <vraag nummer="4">Onderschrijft u het feit dat schaarste in de thuiszorg en in de verpleeg- en verzorgingshuizen op dit moment wordt veroorzaakt door een tekort in het budget, en ziet u in dat deze schaarste een negatief effect kan hebben op de arbeidsmarkt en het aantrekken van voldoende personeel? Zo ja, welke maatregelen gaat u treffen om er voor zorg te dragen dat mensen door gebrek aan middelen de zorg uit gejaagd worden of worden gedwongen voor een lager salaris te gaan werken? Zo neen, waarom niet? </vraag>
+      <vraag nummer="5">Bent u bereid het AWBZ-budget, indien herschikking van de middelen per 1 juli 2008 plaatsvindt, dusdanig bij te stellen zodat er sprake kan zijn van het vervullen van de zorgplicht door zorgkantoren en zorgaanbieders in plaats van het huidige verdelen van de schaarste met alle gevolgen </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" weblink="http://www.rtvdrenthe.nl/761e2b9b-2602-4484-98bd-7f9c0000bf01.aspx?NewsID=24538">http://www.rtvdrenthe.nl/761e2b9b-2602-4484-98bd-7f9c0000bf01.aspx?NewsID=24538</noot>
+         <noot nummer="2">Aanhangel Handelingen nr.2318, vergaderjaar 2007–2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

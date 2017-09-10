@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="waarom niet?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Roemer (SP) aan de minister en de staatssecretaris
+van Verkeer en Waterstaat over het inzetten van te klein treinmaterieel op de
+Maaslijn. (Ingezonden 24 juni 2008)</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823700</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een anonieme melding van een personeelslid
+van Veolia over het inzetten van te klein treinmaterieel op de Maaslijn in
+relatie tot de veiligheid op het spoor.</item>
+         <item attribuut="Rubriek">Verkeer, vervoer en waterstaat (Spoorwegen)
+Verkeer, vervoer en waterstaat
+(Verkeersveiligheid)</item>
+         <item attribuut="Trefwoorden">Spoorwegen
+Verkeersveiligheid</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823700, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823700</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Roemer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-24</item>
+         <item attribuut="Document-id">V070823700</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823700" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823700" onderwerp="" indiendatum="2008-06-24">
+         <vrager partij="SP" oorsprong="parlement">Roemer</vrager>
+         <vraagt-aan>de minister en de staatssecretaris van Verkeer en Waterstaat</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Bent u bekend met de bijgevoegde anonieme melding van een personeelslid van Veolia? Wat vindt u van deze melding? </vraag>
+      <vraag nummer="2">Hebt u na het in ontvangst nemen van deze melding reeds actie ondernomen? Zo ja, welke actie? Zo neen, waarom niet en gaat er dan in de toekomst nog actie ondernomen worden? </vraag>
+      <vraag nummer="3">Wat zijn de instructies voor het personeel in dit soort situaties? Is het toegestaan bij een overvolle trein een station zonder te stoppen te passeren? En is het toegestaan uit veiligheidsoverwegingen een trein dan op te heffen of niet door te rijden? </vraag>
+      <vraag nummer="4">Wat vindt u ervan dat in situatie als deze – waarin de machinist concludeert dat het onverantwoord is om door te rijden – de machinist door de Regie opgedragen wordt om door te rijden? </vraag>
+      <vraag nummer="5">Hoe kan het zo zijn dat de manager veiligheid van Veolia personeel instrueert om niet door te rijden wanneer het de situatie niet vertrouwt, maar dat in de praktijk wanneer zo een situatie zich voordoet, het personeel gesommeerd wordt door te rijden? </vraag>
+      <vraag nummer="6">Onderschrijft u de stelling, dat het hier een structureel probleem betreft? Zo ja, wat gaat u hier aan doen? Zo neen, welke informatie brengt u tot dit inzicht? </vraag>
+      <vraag nummer="7">Ziet u een verband tussen situaties als deze – overvolle treinen en inzet van te weinig materieel – en de invoering van marktwerking in het spoorpersonenvervoer? Zo ja, wat gaat u hieraan doen? Zo neen, </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

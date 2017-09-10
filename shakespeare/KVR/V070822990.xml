@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="aanvaarden van nevenfuncties?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van de leden Van Raak en Van Velzen (beiden SP) aan de minister
+president, minister van Algemene Zaken over de nevenfuncties van de
+staatssecretaris van Defensie. (Ingezonden 16 juni 2008)</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070822990</item>
+         <item attribuut="Inhoud">Indieners vragen onder meer of het klopt dat de staatssecretaris van
+Defensie de regels voor nevenfuncties heeft overtreden door de
+minister-president geen toestemming te vragen voor het aanvaarden van een
+functie bij de Public Space Foundation, een denktank die zich wil mengen in
+discussies over het functioneren van de publieke sector en van publieke
+diensten.</item>
+         <item attribuut="Rubriek">Staats- en bestuursrecht (Ministeries)
+Staats- en bestuursrecht (Regering)</item>
+         <item attribuut="Trefwoorden">Defensie (ministerie)
+Nevenfuncties
+Staatssecretarissen</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070822990, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070822990</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Van Raak</persoon>
+            <persoon partij="SP">Van Velzen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-16</item>
+         <item attribuut="Document-id">V070822990</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070822990" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070822990" onderwerp="" indiendatum="2008-06-16">
+         <vrager partij="SP" oorsprong="parlement">Van Raak</vrager>
+         <vrager partij="SP" oorsprong="parlement">Van Velzen</vrager>
+         <vraagt-aan>de minister president, minister van Algemene Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1" voetnoot="1">Klopt het dat de staatssecretaris van Defensie de regels voor nevenfuncties heeft overtreden door u geen toestemming te vragen voor het aanvaarden van een functie bij de Public Space Foundation, een denktank die zich wil mengen in discussies over het functioneren van de publieke sector en van publieke diensten? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Klopt het dat de Public Space Foundation is opgericht op initiatief van een voormalige werkgever van de staatssecretaris van Defensie? </vraag>
+      <vraag nummer="3">Hoe kwalificeert u het optreden van de staatssecretaris van Defensie? </vraag>
+      <vraag nummer="4">Acht u het wenselijk dat ministers en staatssecretarissen lid zijn van organisaties die zich willen mengen in de publieke meningsvorming over het publieke bestuur? </vraag>
+      <vraag nummer="5">Waarom acht u het wenselijk dat de Nationaal Coördinator Terrorismebestrijding lid is van Public Space Foundation? </vraag>
+      <vraag nummer="6">Waarom acht u het wenselijk dat de voorzitter van de VNG lid is van Public Space Foundation? </vraag>
+      <vraag nummer="7">Kunt u een volledig overzicht geven van alle nevenfuncties van alle ministers en staatssecretarissen? </vraag>
+      <vraag nummer="8">Welke maatregelen neemt u om in de toekomst te voorkomen dat ministers en staatssecretarissen u geen toestemming vragen voor het </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-12" bron=", www.nrc.nl" titel="Jack de Vries overtrad regels nevenfuncties">«Jack de Vries overtrad regels nevenfuncties», www.nrc.nl, 12 juni 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

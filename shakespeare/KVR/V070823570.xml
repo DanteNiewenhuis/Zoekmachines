@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="regering in deze?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van de leden Koopmans, Schinkelshoek en Van Haersma Buma (allen
+CDA) aan de ministers van Verkeer en Waterstaat, van Binnenlandse Zaken en
+Koninkrijksrelaties en van Justitie over de invoering van kentekenparkeren in
+Amsterdam Slotervaart. (Ingezonden 24 juni 2008)</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823570</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van artikel 'Amsterdam voert betalen met
+kenteken
+in' in
+De Telegraaf van 19 juni 2008. Hoe is de bescherming van persoonsgegevens
+geregeld bij de kentekenregistratie?</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Persoonsregistratie en
+identificatie)
+Geld- en kapitaalmarkt (Betalingsverkeer)
+Staats- en bestuursrecht (Privacy)
+Verkeer, vervoer en waterstaat (Motorrijtuigen)
+Verkeer, vervoer en waterstaat
+(Verkeersveiligheid)</item>
+         <item attribuut="Trefwoorden">Elektronisch betalingsverkeer
+Kentekens
+Parkeren
+Persoonsregistratie
+Privacy</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823570, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823570</item>
+         <item attribuut="Indiener">
+            <persoon partij="VragenvandeledenKoopmans,SchinkelshoekenVanHaersmaBuma(allen">Koopmans</persoon>
+            <persoon partij="VragenvandeledenKoopmans,SchinkelshoekenVanHaersmaBuma(allen">Schinkelshoek</persoon>
+            <persoon partij="CDA">Van Haersma Buma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-24</item>
+         <item attribuut="Document-id">V070823570</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823570" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823570" onderwerp="" indiendatum="2008-06-24">
+         <vrager partij="VragenvandeledenKoopmans,SchinkelshoekenVanHaersmaBuma(allen" oorsprong="parlement">Koopmans</vrager>
+         <vrager partij="VragenvandeledenKoopmans,SchinkelshoekenVanHaersmaBuma(allen" oorsprong="parlement">Schinkelshoek</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Van Haersma Buma</vrager>
+         <vraagt-aan>de ministers van Verkeer en Waterstaat, van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebt u kennisgenomen van de invoering van kentekenparkeren in Amsterdam Slotervaart? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Heeft de deelgemeente Slotervaart of de Gemeente Amsterdam advies gevraagd aan het college Bescherming Persoonsgevens over hoe en op welke wijze de privacy van gebruikers geregeld is? </vraag>
+      <vraag nummer="3">Op welke wijze kunnen opsporingsorganisaties gebruik maken van de databases, die ontstaan door de kentekenregistratie bij het parkeren? </vraag>
+      <vraag nummer="4">Bent u betrokken bij het opstellen van de richtlijnen kentekenregistratie door het CBP en wat is de visie van de </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-19" bron="De Telegraaf" titel="Amsterdam voert betalen met kenteken in">De Telegraaf, 19 juni 2008: «Amsterdam voert betalen met kenteken in»</noot>
+      </noten>
+   </antwoorden>
+</kvr>

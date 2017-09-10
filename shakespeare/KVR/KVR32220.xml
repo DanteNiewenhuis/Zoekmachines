@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van de leden Ten Hoopen, Omtzigt en Schinkelshoek (allen CDA)
+aan de ministers van Economische Zaken, van Financiën en van Binnenlandse
+Zaken en Koninkrijksrelaties over een auto met chauffeur voor ambtenaren.
+(Ingezonden 9 april 2008); Antwoord</item>
+         <item attribuut="Bestand">24Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR32220</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een artikel in HP/De Tijd van 4 april 2008
+over een
+auto met chauffeur voor ambtenaren. De indieners vragen aan de ministers of
+zij bereid zijn te bevorderen dat het goede voorbeeld van het ministerie van
+Economische Zaken navolging krijgt en wat hun visie is op het instellen van
+een rijksbrede chauffeurspool waarop topambtenaren in het kader van het
+dienstbelang een beroep kunnen doen.</item>
+         <item attribuut="Rubriek">Staats- en bestuursrecht (Ministeries)
+Verkeer, vervoer en waterstaat (Motorrijtuigen)</item>
+         <item attribuut="Trefwoorden">Ministeries
+Motorrijtuigen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 2574, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070817150</item>
+         <item attribuut="Afkomstig_van">Binnenlandse Zaken en Koninkrijksrelaties (BZK)</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Ten Hoopen</persoon>
+            <persoon partij="CDA">Omtzigt</persoon>
+            <persoon partij="CDA">Schinkelshoek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-05-29</item>
+         <item attribuut="Datum_indiening">2008-04-09</item>
+         <item attribuut="Document-id">KVR32220</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc=""/>
+      <footer firstpaginanummer="5281" allpagenumbers="5281 5282" vetnummer="2070817150" code="0708tkkvr2574" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR32220" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2574" onderwerp="" indiendatum="2008-04-9">
+         <vrager partij="CDA" oorsprong="parlement">Ten Hoopen</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Omtzigt</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Schinkelshoek</vrager>
+         <vraagt-aan>de ministers van Economische Zaken, van Financiën en van Binnenlandse Zaken en Koninkrijksrelaties</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="29 mei 2008, zie ook Aanhangsel Handelingen nr. 2175, vergaderjaar 2007–2008">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken en Koninkrijksrelaties">Ter Horst</antwoorder>
+         <mede-antwoorder>de ministers van Economische Zaken en van Financiën</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Is het waar dat bij 13 ministeries meer dan 100 ambtenaren (en militairen) over een auto met chauffeur beschikken? Is het waar dat daarmee niet altijd een direct dienstbelang is gemoeid (bijv. woon- werkverkeer)? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Kunt u motiveren waarom ook ambtenaren onder het niveau van de secretaris-generaal een dienstauto met chauffeur hebben, ook als daarmee niet een direct dienstbelang is gemoeid (bijv. woon- werkverkeer)? </vraag>
+      <vraag nummer="3">Wat zijn de totale kosten hiervan en hoe kijkt u tegen deze uitgavenpost aan in het licht van de door het kabinet opgelegde taakstelling voor de ministeries? Gaat dit gebruik van dienstauto’s niet ten koste van het streven naar duurzame mobiliteit? Welke alternatieven heeft u onderzocht? </vraag>
+      <vraag nummer="4">Is het waar dat topambtenaren van het ministerie van Economische Zaken gebruik maken van auto’s uit een pool? Bent u bereid te bevorderen dat dit goede voorbeeld van het ministerie van Economische Zaken navolging krijgt en wat is uw visie op het instellen van een rijksbrede chauffeurspool waarop topambtenaren in het kader van het dienstbelang een beroep kunnen doen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2008-04-4" bron="HP/De Tijd">HP/De Tijd, 4 april 2008</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 en 2">Het is correct dat bij alle ministeries van oudsher hoge ambtenaren vanaf de functie van DG (vanaf salarisniveau 19 of een vergelijkbare functie), de zogenaamde «vervoersgerechtigden», recht hebben op een auto met chauffeur. Naast de diverse dienstreizen, geldt dit ook voor het woon-werkverkeer. Gelet op de drukke agenda’s en de grote hoeveelheid uren die deze topambtenaren doorgaans maken, is er m.i. zeker sprake van een dienstbelang wanneer zij hun reistijd van en naar hun werk optimaal benutten, bijvoorbeeld door het lezen van stukken, het voeren van telefoongesprekken, etc. (vaak ook met een gerubriceerd karakter, zodat dit niet in het openbaar vervoer gedaan kan worden). In enkele gevallen kunnen overigens ook veiligheidsoverwegingen een bepalende factor zijn. Opgemerkt moet overigens worden dat niet alle vervoersgerechtigden ook daadwerkelijk gebruik maken van dit recht, maar soms zelf voorzien in het reizen van de woning naar het werk. </antwoord>
+      <antwoord nummer="3">Een overzicht van de totale kosten is niet eenduidig te geven vanwege de gevarieerdheid aan inzetmogelijkheden van de chauffeurs (o.a. door poolvorming, zie ook verdere beantwoording). Wel kan ik melden dat de kosten van een gemiddelde leaseauto circa € 1500 per maand bedragen (incl. brandstof) en de kosten per jaar van een chauffeur € 63.251,77 (incl. werkgeverskosten en berekend op maximum functieschaal). Bij de ministeries die al over een pool beschikken (zie ook vraag 4), worden de chauffeurs tevens ingezet om andere vervoersaanvragen binnen het desbetreffende ministerie uit te voeren. Hiermee wordt terughoudend omgegaan. Bij het gebruik van een dienstauto worden afwegingen gemaakt als tijd, bereikbaarheid van de bestemming met het openbaar vervoer en veiligheidsbelang. Wanneer auto’s worden aangeschaft gebeurt dit conform de Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden rijksnormeringen en de milieu standaarden die daarbij door de collega’s van VenW en VROM zijn voorgeschreven. </antwoord>
+      <antwoord nummer="4">De topambtenaren bij EZ maar ook bij zes andere ministeries maken inderdaad gebruik van auto’s en chauffeurs uit een pool. In de praktijk komt het erop neer dat er dan niet langer sprake is van een directe koppeling van chauffeur en de vervoersgerechtigde, maar dat elke beschikbare chauffeur binnen een ministerie de vervoersgerechtigde kan rijden. Dit vergroot het gebruik van de auto en de inzet van de chauffeur. Poolvorming is uit overwegingen van efficiëntie dan ook zeker aan te bevelen. In het kader van rijksbrede poolvorming kan ik u meedelen dat er in oktober 2007 bij BZK/Justitie een pilot van start is gegaan om te komen tot een bredere rijkschauffeurspool. De uitkomsten van deze pilot zijn relevant voor nadere beleidsvorming op dit onderwerp. Een gezamenlijke rijksbrede chauffeurspool zal overigens ook een bijdrage kunnen leveren aan de invulling van de opgelegde taakstelling, zowel materieel als personeel (zie vraag 3). </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

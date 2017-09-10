@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="en Arbeidsmarkt?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Ortega-Martijn (ChristenUnie) aan de minister van
+Economische Zaken over de Taskforce Technologie, Onderwijs, Arbeidsmarkt.
+(Ingezonden 24 juni 2008)</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823510</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding persbericht EZ over instelling Taskforce
+Technologie,
+Onderwijs, Arbeidsmarkt. Indiener wil weten op welke manier het bedrijfsleven
+betrokken wordt bij de in het coalitieakkoord afgesproken gerichte aanpak van
+het gesignaleerde oplopende tekort aan technici en technologen.</item>
+         <item attribuut="Rubriek">Arbeid (Arbeidsmarkt)</item>
+         <item attribuut="Trefwoorden">Arbeidsmarkt</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823510, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823510</item>
+         <item attribuut="Indiener">
+            <persoon partij="ChristenUnie">Ortega-Martijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-24</item>
+         <item attribuut="Document-id">V070823510</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823510" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823510" onderwerp="" indiendatum="2008-06-24">
+         <vrager partij="ChristenUnie" oorsprong="parlement">Ortega-Martijn</vrager>
+         <vraagt-aan>de minister van Economische Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Bent u op de hoogte van het bericht «Kamminga voorzitter Taskforce Technologie, Onderwijs, Arbeidsmarkt»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Klopt het daarin vermelde feit dat u deze Taskforce heeft gevraagd om een oplossing te zoeken voor het tekort aan arbeidskrachten in de techniek? </vraag>
+      <vraag nummer="3">Hoe verhoudt zich dit tot de afspraak in het coalitieakkoord dat het oplopende tekort aan technici én technologen vraagt om een gerichte aanpak? Richt de Taskforce zich ook op het zoeken van een oplossing voor het tekort aan technologen? </vraag>
+      <vraag nummer="4">Kunt u uiteenzetten hoe het bedrijfsleven de leidende rol krijgt in de opzet van de landelijke Taskforce en de regionale Taskforces, zoals in het beleidsprogramma 2007–2011 wordt gesteld? </vraag>
+      <vraag nummer="5">Op welke wijze wordt invulling gegeven aan het onderwerp Arbeidsmarkt in de taakopdracht van de Taskforce Technologie, Onderwijs </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" weblink="http://www.ez.nl/Actueel/Pers_en_ nieuwsberichten/Nieuwsberichten_2008/Juni_2008/Kamminga_voorzitter_Taskforce_Technologie_Onderwijs_Arbeidsmarkt?rid= home">http://www.ez.nl/Actueel/Pers_en_ nieuwsberichten/Nieuwsberichten_2008/Juni_2008/Kamminga_voorzitter_Taskforce_Technologie_Onderwijs_Arbeidsmarkt?rid= home</noot>
+      </noten>
+   </antwoorden>
+</kvr>

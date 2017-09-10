@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="zorgen over de veiligheid?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Roemer (SP) aan de minister van Verkeer en
+Waterstaat over de onveilige landingsbaan bij vliegveld Rotterdam Airport.
+(Ingezonden 24 juni 2008)</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823490</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding bericht op Arrow Classic Rock (radio), 18 juni
+2008,
+dat de start- en landingsbaan bij Rotterdam Airport momenteel onveilig is.
+Indiener vraagt zich af op grond van welke criteria besloten is om de
+betreffende
+aannemer het onderhoud te laten verrichten. Waarom is de luchthaven nog open,
+terwijl de baan niet veilig is?</item>
+         <item attribuut="Rubriek">Verkeer, vervoer en waterstaat
+(Luchtvaartterreinen)</item>
+         <item attribuut="Trefwoorden">Luchthavens</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823490, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823490</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Roemer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-24</item>
+         <item attribuut="Document-id">V070823490</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823490" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823490" onderwerp="" indiendatum="2008-06-24">
+         <vrager partij="SP" oorsprong="parlement">Roemer</vrager>
+         <vraagt-aan>de minister van Verkeer en Waterstaat</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="15">
+      <vraag nummer="1" voetnoot="1">Wat is uw mening over het bericht dat de start- en landingsbaan bij Rotterdam Airport momenteel onveilig is? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Klopt het dat onlangs een aannemer de start- en landingsbaan op Rotterdam Airport in het kader van onderhoud heeft aangepast? </vraag>
+      <vraag nummer="3">Kunt u aangeven aan de hand van welke criteria besloten is om dit onderhoud door deze aannemer te laten verrichten? Hoe hoog zijn de kosten hiervan? Is hierbij sprake geweest van een openbare aanbesteding? Is er gekeken of de aannemer voldoende toegerust was voor de specifieke situatie op Rotterdam Airport? </vraag>
+      <vraag nummer="4">Klopt het dat er slechts een onderdeel van de baan in onderhoud is geweest en de rest van de baan nog onderhouden moet worden? </vraag>
+      <vraag nummer="5">Klopt het dat momenteel de anti-sliplaag bij de start- en landingsbaan ontbreekt? Zo ja, kunt u aangeven waarom dit zo is en in hoeverre dit nog veilig is? </vraag>
+      <vraag nummer="6">Klopt het dat er momenteel markeringen langs de baan ontbreken of zelfs volkomen afwezig zijn? Zo ja, kunt u dit toelichten? </vraag>
+      <vraag nummer="7">Kunt u aangeven waarom de baan gesloten is tussen zonsondergang en zonsopgang? </vraag>
+      <vraag nummer="8">Kunt u aangeven of piloten momenteel goed op de instrumenten kunnen landen of dat dit enkel op zicht dient te gebeuren? Kunnen hierdoor alle piloten en toestellen nog wel veilig landen? </vraag>
+      <vraag nummer="9">Klopt het dat de vliegtuigen momenteel gebruik moeten maken van de gehele lengte van de start- en landingsbaan? Zo ja, kunt u dit toelichten? </vraag>
+      <vraag nummer="10">Klopt het dat de centerline niet over de gehele lengte van de start- en landingsbaan aanwezig is? Zo ja, kunt u dit toelichten? </vraag>
+      <vraag nummer="11">Kunt u aangeven of de baan voldoet aan alle verplichtingen in het kader van de veiligheid? Kunt u uw antwoord toelichten? </vraag>
+      <vraag nummer="12">Bent u bereid uw Inspectie Verkeer en Waterstaat naar de start- en landingsbaan van Rotterdam Airport te laten kijken en ons een afschrift van het rapport hiervan te doen toekomen? </vraag>
+      <vraag nummer="13">Waarom is Rotterdam Airport nog open terwijl de veiligheid in het geding is? </vraag>
+      <vraag nummer="14">Welke maatregelen gaat u nemen om starten en landen op Rotterdam Airport veiliger te maken? </vraag>
+      <vraag nummer="15">Kunt u deze vragen zo spoedig mogelijk beantwoorden gezien de </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-18" bron="Arrow Classic Rock, Wake up call">Arrow Classic Rock, Wake up call, 18 juni 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

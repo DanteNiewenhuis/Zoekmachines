@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="voorstelde?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Kant (SP) aan de minister van Volksgezondheid,
+Welzijn en Sport over een fonds voor geneesmiddelen. (Ingezonden 16 juni
+2008)</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070822920</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding uitspraak directeur geneesmiddelen Ministerie
+VWS
+(Trouw, 12 juni 2008) die pleit voor onafhankelijk fonds voor
+geneesmiddelenonderzoek, waaruit commercieel onaantrekkelijke studies kunnen
+worden betaald. Indiener refereert aan voorstellen hiertoe uit de
+initiatiefnota 'Vijfentwintig Geneesmiddelen' van de SP (Kamerstuk 30842, nr.
+2). Indiener wil informatie over constructies over dergelijke fondsen die in
+bijvoorbeeld Italië al bestaan. Indiener herhaalt het idee uit de nota
+'Ongemakkelijke Minnaars' van de SP (juni 2001) over een fonds voor het
+ontwikkelen van geneesmiddelen voor ontwikkelingslanden, waarbij de industrie
+enkele procenten van hun omzet of marketingbudget bijdragen.</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Geneesmiddelen)
+Ontwikkelingssamenwerking (Algemeen)
+Wetenschap en technologie (Toegepast onderzoek)</item>
+         <item attribuut="Trefwoorden">Geneesmiddelen
+Ontwikkelingssamenwerking
+Toegepast onderzoek</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070822920, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070822920</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Kant</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-16</item>
+         <item attribuut="Document-id">V070822920</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070822920" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070822920" onderwerp="" indiendatum="2008-06-16">
+         <vrager partij="SP" oorsprong="parlement">Kant</vrager>
+         <vraagt-aan>de minister van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Wat is uw mening over de uitspraak van de directeur geneesmiddelen VWS, over een onafhankelijk fonds voor geneesmiddelenonderzoek, waaruit commercieel onaantrekkelijke studies kunnen worden betaald? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Wilt u in dit verband ook nog eens ingaan op de voorstellen die de SP hiertoe deed in haar initiatiefnota vijfentwintig geneesmiddelen? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Welke onderzoeken bedoelt uw directeur geneesmiddelen precies als hij het heeft over moeilijk te financieren onderzoek waarvoor een oplossing voor moet worden gezocht? </vraag>
+      <vraag nummer="4">Deelt u de mening dat er ook andere redenen kunnen zijn om een onafhankelijk fonds te starten, zoals bijvoorbeeld tijdens het rondetafelgesprek op 25 april 2005 naar voren kwam betreffende postmarketing onderzoek? </vraag>
+      <vraag nummer="5">Kunt u de Kamer informatie doen toekomen over de constructie in Italië en in andere landen waar een dergelijk fonds is opgericht, en kunt u daarbij ook beschrijven om welk onderzoek het precies gaat? </vraag>
+      <vraag nummer="6">Wat vindt u van het idee een onafhankelijk fonds op te zetten voor het ontwikkelen van medicijnen voor ontwikkelingslanden, waarbij aan de industrie jaarlijks enkele procenten van hun omzet of marketingbudget bijdragen, zoals de SP al eerder </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="3"/>
+         <noot nummer="1" datum="2008-06-12" bron="Trouw">Trouw, 12 juni 2008</noot>
+         <noot nummer="2">Vijfentwintig medicijnen tegen te grote macht van de farmaceutische industrie, initiatiefnota SP 2005 (Kamerstuk 30 842, nr.2, vergaderjaar 2005–2006)</noot>
+         <noot nummer="3" bron="Ongemakkelijke minnaars">Ongemakkelijke minnaars, Tweede-Kamerfractie Nota SP, juni 2001</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="arbiedsvoorwaarden?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Leijten (SP) aan de staatsecretaris van
+Volksgezondheid, Welzijn en Sport over het personeelstekort in de thuiszorg.
+(Ingezonden 19 juni 2008)</item>
+         <item attribuut="Bestand">23Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823350</item>
+         <item attribuut="Inhoud">Gevraagd wordt onder meer naar de gevolgen van het personeelstekort in
+de thuiszorg voor de zorg aan de cliënten.</item>
+         <item attribuut="Rubriek">Arbeid (Werknemers)
+Gezondheidszorg (Maatschappelijke
+gezondheidszorg)</item>
+         <item attribuut="Trefwoorden">Thuiszorg
+Werknemers</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823350, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823350</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Leijten</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-19</item>
+         <item attribuut="Document-id">V070823350</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="2" vetnummer="" code="0708tkkvl2070823350" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823350" onderwerp="" indiendatum="2008-06-19">
+         <vrager partij="SP" oorsprong="parlement">Leijten</vrager>
+         <vraagt-aan>de staatsecretaris van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="11">
+      <vraag nummer="1" voetnoot="1">Wat is uw reactie op de uitkomsten van het onderzoek dat het afgelopen half jaar is verricht bij 7 zorgaanbieders in de Randstad? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Erkent u de problemen die bestaan bij deze thuiszorgaanbieders? Welke gevolgen hebben de tekorten aan personeel voor de zorg aan de cliënten? Erkent u dat door deze problemen mensen eerder zullen moeten worden opgenomen in een verzorgings- of verpleeghuis, mantelzorgers nog meer belast zullen worden en mensen in gevaarlijke situaties kunnen terecht komen? Zo ja, welke maatregelen gaat u treffen dat mensen de zorg krijgen die ze nodig hebben en die geïndiceerd is? Zo neen, waarom niet? </vraag>
+      <vraag nummer="3">Bent u bereid onderzoek te doen naar de situatie bij alle andere thuiszorgaanbieders in Nederland, zodat er een duidelijk beeld komt van het totale aanbod van zorg op dit moment? Zo ja, wanneer kan de Kamer de uitkomsten van dit onderzoek tegemoet zien? Zo neen, waarom niet? </vraag>
+      <vraag nummer="4">Wat heeft het structurele personeeltekort in de thuiszorg voor gevolgen voor de cliënten deze zomer tijdens de vakantieperiode? Kunt u garanderen dat mensen de noodzakelijke zorg blijven krijgen? Zo ja, hoe? Zo neen, waarom niet? </vraag>
+      <vraag nummer="5">Bent u op de hoogte dat cliënten van thuiszorgorganisatie brieven krijgen waarin zij op de hoogte worden gebracht van het feit dat zij deze zomer minder, of enkele weken, geen zorg kunnen krijgen omdat er geen vervanging is om de vakanties van het vaste personeel op te vangen? Zo ja, wat is hierop uw reactie? Zo neen, waarom niet? </vraag>
+      <vraag nummer="6">Welke maatregelen gaat u treffen om alvast op de korte termijn, het liefst deze zomer, er voor te zorgen dat het imago van het werken in de thuiszorg verbetert? </vraag>
+      <vraag nummer="7">Erkent u dat thuiszorginstellingen moeten beschikken over voldoende financiële middelen om goede arbeidsvoorwaarden en vaste dienstverbanden aan te kunnen bieden? Worden zorginstellingen op dit moment voldoende in staat gesteld hun mensen fatsoenlijk te betalen, en hebben zij voldoende toekomstperspectief om vaste dienstverbanden te geven? Zo ja, kunt u dit toelichten? Zo neen, welke maatregelen gaat u treffen om er voor zorg te dragen dat alvast het huidige personeel in de thuiszorg behouden kan worden, en het aantrekkelijker wordt in de zorg te werken? </vraag>
+      <vraag nummer="8" voetnoot="2">Bent u op de hoogte van het grote verschil in beloningen van werkers in de zorg, en erkent u dat deze verschillen een negatief effect hebben op de carrièrekansen en perspectief van mensen in de zorg? Erkent u de meerwaarde van het behouden van mensen met veel kennis en ervaring, door ze de mogelijkheid te bieden deze in te zetten op een afdeling als leidinggevende en/of eerste verantwoordelijke, en bent u het eens dat dit ook zal moeten worden gewaardeerd in het salaris? Welke maatregelen gaat u treffen om het maken van een carrière in de zorg aantrekkelijk te houden? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="9">Bent u bereid, nu blijkt dat ondanks dat de CAO VenV is afgesloten er grote problemen zijn met het aantrekken en behouden van personeel in de zorg, met bonden en werkgeversorganisaties aan tafel te gaan en alle huidige problemen die invloed hebben op de arbeidsmarkt, zowel in de thuiszorg als in de verpleeg- en verzorgingssector te bundelen, te analyseren en maatregelen te treffen die de sector in staat stelt om volgend jaar een goede CAO af te spreken, die kan bijdragen de huidge problemen op te lossen? Zo ja, wanneer gaat u daar mee starten en wanneer kunt u de Kamer hierover informeren? Zo neen, waarom niet? </vraag>
+      <vraag nummer="10">Bent u van mening dat het een goede ontwikkeling is dat de mensen op de werkvloer misschien wel de door u gewenste «meer contacturen» maken waardoor straks de instelling meer geld krijgt omdat er meer contacturen gedraaid worden, maar dat voor het kunnen maken van meer contacturen met hun cliënten de uitvoerenden salaris moeten inleveren? Welke maatregelen gaat u treffen om te voorkomen dat de ambitie ten koste gaat van het salaris van het personeel in de zorg? </vraag>
+      <vraag nummer="11">Erkent u dat bij fusies, overnames en eventuele faillissementen die door het ingezette beleid inmiddels realiteit zijn geworden, het van groot belang is dat het personeel voor de zorg behouden moet worden? Zo ja, bent u bereid wettelijk te regelen dat in deze situaties het personeel het werk altijd volgt zonder veranderingen in salaris en/of </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" weblink="http://www.tvvonline.nl/nieuws/id864-Personeelstekort_thuiszorg_groot_probleem.html">http://www.tvvonline.nl/nieuws/id864-Personeelstekort_thuiszorg_groot_probleem.html</noot>
+         <noot nummer="2" weblink="http://www.tvvonline.nl/nieuws/id869-Enorme_salarisverschillen_in_zorg.html">http://www.tvvonline.nl/nieuws/id869-Enorme_salarisverschillen_in_zorg.html</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="daarmee omgegaan?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van de leden Kuiken en Van Dam (beiden PvdA) aan de ministers
+van Buitenlandse Zaken en van Binnenlandse Zaken en Koninkrijksrelaties over
+activiteiten van de CIA op Nederlands grondgebied. (Ingezonden 16 juni
+2008)</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823000</item>
+         <item attribuut="Inhoud">Indieners vragen naar aanleiding van een bericht in De Telegraaf van
+12 juni 2008 of het waar is, dat in 2005 de toenmalige 'station chief' van de
+CIA in Nederland vervangen is? Zo ja, hield dit verband met een conflict met
+de Nederlandse autoriteiten? Zo ja, is dit inderdaad 'zorgvuldig buiten de
+publiciteit gehouden', en waarom?</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Inlichtingen- en
+veiligheidsdiensten)
+Internationale betrekkingen (Overig)</item>
+         <item attribuut="Trefwoorden">Inlichtingen- en veiligheidsdiensten
+Internationale betrekkingen
+Verenigde Staten</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823000, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823000</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Kuiken</persoon>
+            <persoon partij="PvdA">Van Dam</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-16</item>
+         <item attribuut="Document-id">V070823000</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823000" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823000" onderwerp="" indiendatum="2008-06-16">
+         <vrager partij="PvdA" oorsprong="parlement">Kuiken</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Van Dam</vrager>
+         <vraagt-aan>de ministers van Buitenlandse Zaken en van Binnenlandse Zaken en Koninkrijksrelaties</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht «Spionagerel met VS»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is het bericht waar dat in 2005 de toenmalige «station chief» van de CIA in Nederland vervangen is? Zo ja, hield dit verband met een conflict met de Nederlandse autoriteiten? Zo ja, is dit inderdaad «zorgvuldig buiten de publiciteit gehouden» en waarom? </vraag>
+      <vraag nummer="3">Welke afspraken zijn er met de Amerikaanse regering over activiteiten van de CIA en andere Amerikaanse (inlichtingen)diensten op Nederlands grondgebied? Op welke manier gaat u normaliter met schending van deze afspraken om? </vraag>
+      <vraag nummer="4">Met welke andere buitenlandse (inlichtingen)diensten zijn er afspraken over activiteiten op Nederlands grondgebied? Betreft het daarbij structurele afspraken en activiteiten of incidentele? </vraag>
+      <vraag nummer="5">Was er in dit geval, zoals het artikel suggereert, sprake van activiteiten van de CIA in Nederland die niet waren aangemeld volgens de daarvoor geldende regels? Zo ja, wat heeft u hiertegen ondernomen? </vraag>
+      <vraag nummer="6">Heeft u protest aangetekend bij de Amerikaanse regering tegen de gang van zaken? </vraag>
+      <vraag nummer="7">Klopt het dat de voorzitter van de Commissie van Toezicht betreffende de Inlichtingen- en Veiligheidsdiensten (CTIVD) heeft bevestigd dat «de kwestie is opgelost door de vervanging van de CIA-chef?» Zo ja, hoe beoordeelt u de bijdrage van deze voorzitter aan het genoemde artikel? </vraag>
+      <vraag nummer="8">Zijn er rond die tijd en sindsdien meer incidenten geweest met Amerikaanse overheidsinstanties die buiten de gemaakte afspraken activiteiten hebben ontplooid op Nederlands grondgebied? Zo ja, bent u bereid de Kamer daarover, desnoods vertrouwelijk, te informeren? </vraag>
+      <vraag nummer="9">Zijn er bij u concrete gevallen bekend van niet toegestane activiteiten van andere buitenlandse (inlichtingen)diensten en zo ja, hoe is </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-12" bron="De Telegraaf">De Telegraaf, 12 juni 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

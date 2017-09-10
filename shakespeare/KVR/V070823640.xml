@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="onderzoeken?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Van Haersma Buma (CDA) aan de minister van Justitie
+over de extreem rechtse organisatie Blood &amp; Honour. (Ingezonden 24 juni
+2008)</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823640</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van berichtgeving op de radio op 22 juni 2008
+(De andere wereld op zondagmorgen, IKON radio 1) over de extreem rechtse
+organisatie Blood &amp; Honour. De indiener vraagt aan de minister of de nieuwe
+informatie die in deze uitzending is gepresenteerd voor het Openbaar
+Ministerie aanleiding is de strafwaardigheid van de website te
+onderzoeken.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening
+(Netwerken)
+Staats- en bestuursrecht (Grondrechten)
+Strafrecht en strafprocesrecht (Vervolging)</item>
+         <item attribuut="Trefwoorden">Discriminatie
+Internet
+Strafvervolging</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823640, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823640</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Van Haersma Buma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-24</item>
+         <item attribuut="Document-id">V070823640</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823640" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823640" onderwerp="" indiendatum="2008-06-24">
+         <vrager partij="CDA" oorsprong="parlement">Van Haersma Buma</vrager>
+         <vraagt-aan>de minister van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Herinnert u zich uw antwoord op de Kamervragen, van 22 juni 2007 <voetnoot nummer="1"/>over het aan banden leggen van de extreem rechtse organisatie Blood &amp; Honour? </vraag>
+      <vraag nummer="2" voetnoot="2">Hebt u kennisgenomen van de radio uitzending <voetnoot nummer="2"/>over de neonazistische website landstorm-records.org, waar blijkens deze uitzending Blood &amp; Honour achter zit? </vraag>
+      <vraag nummer="3">Is de nieuwe informatie die in deze uitzending is gepresenteerd voor het Openbaar Ministerie aanleiding de strafwaardigheid van de website te onderzoeken? </vraag>
+      <vraag nummer="4">Is de gepresenteerde informatie tevens aanleiding opnieuw de mogelijkheid van een vordering tot ontbinding van Blood &amp; Honour te </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" documenttype="Kamervragen" documentnummer="148" documentjaargang="2007-2008">Aanhangsel Handelingen, nr.148, vergaderjaar 2007–2008.</noot>
+         <noot nummer="2" datum="2008-06-22" bron="De andere wereld op zondagmorgen, IKON radio 1">De andere wereld op zondagmorgen, IKON radio 1, 22 juni 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

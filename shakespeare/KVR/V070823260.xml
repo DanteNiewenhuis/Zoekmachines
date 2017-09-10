@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Nederlandse bijdrage daaraan?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van de leden Van Gennip en Knops (beiden CDA) aan de ministers
+van Buitenlandse Zaken en van Defensie over de EUFOR-missie in Tsjaad en de
+Centraal Afrikaanse Republiek. (Ingezonden 18 juni 2008)</item>
+         <item attribuut="Bestand">18Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823260</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van artikel 'EUFOR-soldaten onder vuur in
+Tsjaad' op
+website www.limburger.nl van 14 juni 2008. Hoe verhoudt zich deze situatie
+tot de stelling dat de rebellen zich niet tegen EUFOR zullen keren?</item>
+         <item attribuut="Rubriek">Veiligheidsbeleid en defensie (Militairen)
+Veiligheidsbeleid en defensie (NAVO)</item>
+         <item attribuut="Trefwoorden">Centraal-Afrikaanse Republiek
+NAVO
+Tsjaad</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823260, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823260</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Van Gennip</persoon>
+            <persoon partij="CDA">Knops</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-18</item>
+         <item attribuut="Document-id">V070823260</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823260" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823260" onderwerp="" indiendatum="2008-06-18">
+         <vrager partij="CDA" oorsprong="parlement">Van Gennip</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Knops</vrager>
+         <vraagt-aan>de ministers van Buitenlandse Zaken en van Defensie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht «EUFOR-soldaten onder vuur in Tsjaad»? <voetnoot nummer="1"/>Kunt u bevestigingen dat een dergelijk vuurgevecht heeft plaatsgevonden? </vraag>
+      <vraag nummer="2" voetnoot="2 3">Hoe verhoudt deze situatie zich tot uw antwoord op vraag 46 e.v. waarin u stelt dat de rebellen zich niet tegen EUFOR zullen keren omdat de rebellengroepen geen baat hebben bij een confrontatie met EUFOR Tchad/RCA, mede om dat hun gevechtskracht zwakker is <voetnoot nummer="2"/>of met de stelling van de minister van Buitenlandse Zaken dat de rebellen EUFOR niet zouden aanvallen vanwege de krachtsverschillen en dat de rebellen ook hadden aangegeven EUFOR ongemoeid te laten of het citaat van de minister van Defensie dat «de EU-militairen worden ingezet in een gebied waar zij, voor zover wij op grond van onze inlichtingen weten, geen mikpunt van agressie zijn». <voetnoot nummer="3"/>
+      </vraag>
+      <vraag nummer="3">Wat betekent dit vuurgevecht voor de uitgangspunten van de missie en de Nederlandse bijdrage daaraan? Waren de inlichtingen, waarop u uw stelling baseerde dat de rebellen niet zouden aanvallen, adequaat? </vraag>
+      <vraag nummer="4" voetnoot="4">Kent u het bericht «Opstandelingen Tsjaad veroveren tweede stad»? <voetnoot nummer="4"/>Kunt u bevestigen dat opstandelingen in Tsjaad de stad Am Dam hebben veroverd op de regeringstroepen van Déby en ook de stad Goz Beida gedurende enige tijd hebben bezet? Kunt u in algemene zin aangeven of de rebellen terrein winnen op de regering Déby? </vraag>
+      <vraag nummer="5" voetnoot="5">Wat betekent dit voor uw antwoord op vraag 164, waarin u zegt dat in de planning van de operatie niet is vooruitgelopen op een val van de regering Déby? <voetnoot nummer="5"/>Acht u het momenteel wel verstandig om deze mogelijkheid in de militaire planning mee te nemen? </vraag>
+      <vraag nummer="6">Wat betekent een eventuele opmars van de rebellen voor de uitgangspunten van de missie en de </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-14" bron="www.limburger.nl">www.limburger.nl, 14 juni 2008</noot>
+         <noot nummer="2">Antwoord op lijst van commissievragen, Kamerstuk 29 521, nr.61</noot>
+         <noot nummer="3" datum="2008-03-25" bron="Verslag Algemeen Overleg van">Verslag Algemeen Overleg van, 25 maart 2008</noot>
+         <noot nummer="4" datum="2008-06-15" bron="www.bndestem.nl">www.bndestem.nl, 15 juni 2008</noot>
+         <noot nummer="5">Antwoord op lijst van commissievragen, Kamerstuk 29 521, nr.61</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="van dit programma?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van de leden Ten Broeke en Zijlstra (beiden VVD) aan de
+staatssecretaris van Buitenlandse Zaken over de verstrekking van fruit aan
+scholieren op basis van besluitvorming door de Europese Commissie. (Ingezonden
+20 juni 2008)</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823360</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding bericht (Metro, 16 juni 2008) over plan
+Europese
+Commissie om in 2009 een bedrag van
+90 miljoen euro vrij te maken ten behoeve van het
+uitdelen van fruit aan scholieren in de EU. Indieners vinden dit een
+'dirigistische' manier van afzetbevordering en een afwijking van de traditie
+van consumentenvrijheid (die voorlichting en advies van de overheid over
+consumptie niet uitsluit).</item>
+         <item attribuut="Rubriek">Basisonderwijs (Leerlingen)
+Beroepsonderwijs en volwasseneneducatie
+(Leerlingen)
+Consument (Algemeen)
+Landbouw (Landbouwproducten)
+Speciaal onderwijs (Leerlingen)
+Voortgezet onderwijs (Leerlingen)</item>
+         <item attribuut="Trefwoorden">Consumenten
+Europese Commissie
+Fruit
+Leerlingen</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823360, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823360</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Ten Broeke</persoon>
+            <persoon partij="VVD">Zijlstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-20</item>
+         <item attribuut="Document-id">V070823360</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823360" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823360" onderwerp="" indiendatum="2008-06-20">
+         <vrager partij="VVD" oorsprong="parlement">Ten Broeke</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Zijlstra</vrager>
+         <vraagt-aan>de staatssecretaris van Buitenlandse Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Heeft u kennisgenomen van het voornemen van de Europese Commissie om in 2009 90 miljoen euro vrij te maken ten behoeve van het uitdelen van fruit aan scholieren in de Europese Unie? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Gaat het daarbij wellicht ook om (een dirigistische vorm van) afzetbevordering? Zo ja, waarom is dat dan niet terug te vinden in de berichtgeving? </vraag>
+      <vraag nummer="3">Wordt van de lidstaten verwacht dat ook zij voor dit programma gelden beschikbaar stellen en worden de bijdragen afgestemd op de draagkracht van de betreffende lidstaten resp. regio’s? </vraag>
+      <vraag nummer="4">Meent u dat dit voornemen van de Europese commissie in overeenstemming is met het subsidiariteitsbeginsel resp. met de bevoegdheden van de nationale overheden ten aanzien van (o.m.) de beleidsterreinen volksgezondheid en onderwijs? Zo ja, kunt u dat dan toelichten? Is de nationale overheid niet in staat dergelijke beslissingen zelf te nemen ten aanzien van de eigen scholen? Zo neen, waarom niet? Is dit voornemen van de Europese commissie in lijn met een Europese Unie die de nationale beleidsvrijheid respecteert? Zo ja, kunt u dat dan toelichten? </vraag>
+      <vraag nummer="5">Wat is uw mening over het EU-brede dirigistische karakter van dit voornemen en het afwijken van de traditionele consumentenvrijheid in de EU waarbij er sowieso alle ruimte is voor voorlichting en advisering door overheden omtrent de voors en tegens van consumptiepatronen? </vraag>
+      <vraag nummer="6">Wat is uw mening over het feit dat vanwege draagkracht de bijdragen vanuit lidstaten resp. regio’s voor dit programma uiteen zullen lopen? In hoeverre zullen daarbij lidstaten resp. regio’s van een lagere bijdrage profiteren terwijl diezelfde regio’s resp. lidstaten ook reeds baat hebben bij de afzet van hun fruit door middel </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-16" bron="Metro">Metro, 16 juni 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

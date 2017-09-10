@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="kunnen rond krijgen?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Jansen (SP) aan de minister voor Wonen, Wijken en
+Integratie over de afhandeling van aanvragen voor koopsubsidie. (Ingezonden 17
+juni 2008)</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823030</item>
+         <item attribuut="Inhoud">Vragen over de claim van uitvoeringsorganisatie SenterNovem om
+aanvragen
+Koopsubsidie 2008 binnen vier weken te behandelen, terwijl in de Wet
+bevordering eigen woningbezit is bepaald dat de minister van WWI binnen twee
+weken een beslissing neemt over een aanvraag voor een primaire toekenning.
+Indiener wil weten hoeveel mensen een aanvraag hebben ingediend en in hoeveel
+gevallen de wettelijke behandeltermijn is overschreden.</item>
+         <item attribuut="Rubriek">Volkshuisvesting (Koopwoningen)
+Volkshuisvesting (Subsidies)</item>
+         <item attribuut="Trefwoorden">Koopwoningen
+Subsidies</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823030, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823030</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Jansen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-17</item>
+         <item attribuut="Document-id">V070823030</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823030" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823030" onderwerp="" indiendatum="2008-06-17">
+         <vrager partij="SP" oorsprong="parlement">Jansen</vrager>
+         <vraagt-aan>de minister voor Wonen, Wijken en Integratie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Waarom claimt uitvoeringsorganisatie SenterNovem een behandeltermijn van vier weken voor de afhandeling van aanvragen Koopsubsidie 2008, terwijl in de Wet bevordering eigenwoningbezit is bepaald dat u binnen twee weken een beslissing neemt over een aanvraag voor een primaire toekenning? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hoeveel personen hebben sinds 1 januari 2008 een aanvraag ingediend voor Koopsubsidie 2008? </vraag>
+      <vraag nummer="3">In hoeveel van deze gevallen werd de wettelijke behandeltermijn van twee weken overschreden? </vraag>
+      <vraag nummer="4">In hoeveel van deze gevallen werd de door SenterNovem gestelde behandeltermijn van vier weken overschreden? </vraag>
+      <vraag nummer="5">In hoeveel van deze gevallen hebben de aanvragers die te lang moesten wachten op hun beschikking geen gebruik kunnen maken van de toegewezen koopsubsidie, omdat inmiddels het voorlopig koopcontract was ontbonden wegens overschrijding van de termijn om de financiering te regelen? </vraag>
+      <vraag nummer="6">Bent u bereid om zo snel mogelijk een eind te maken aan deze subsidiebureaucratie, zodat de aanvragers van koopsubsidie voortaan hun financiering wel tijdig </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1">Wet bevordering eigenwoningbezit, artikel 43, eerste lid</noot>
+      </noten>
+   </antwoorden>
+</kvr>

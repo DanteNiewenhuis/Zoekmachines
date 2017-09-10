@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van de leden Omtzigt en Van Hijum (beiden CDA) aan de minister
+en staatssecretaris van Sociale Zaken en Werkgelegenheid over de
+eigenrisicodrager voor de WGA (Ingezonden 14 mei 2008); Antwoord</item>
+         <item attribuut="Bestand">24Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR32265</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van berichten op het internet over de
+eigenrisicodrager voor de WGA. De indieners vragen aan de minister en
+staatssecretaris of er voor hun reden is voor overleg met het Verbond van
+Verzekeraars, tot aanpassing van de wetgeving of tot verscherping van het
+toezicht naar aanleiding van de gesignaleerde berichten.</item>
+         <item attribuut="Rubriek">Arbeid (Werkgevers)
+Sociale zekerheid (Arbeidsongeschiktheidsvoorzieningen
+(Ziektewet, WAO, IOAW, IOAZ, WAZ, WAJONG))
+Sociale zekerheid (Sociale verzekeringspremies)</item>
+         <item attribuut="Trefwoorden">Arbeidsongeschiktheidsverzekeringen
+Sociale verzekeringspremies
+Werkgevers</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 2616, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070820100</item>
+         <item attribuut="Afkomstig_van">Sociale Zaken en Werkgelegenheid (SZW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Omtzigt</persoon>
+            <persoon partij="CDA">Van Hijum</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-06-03</item>
+         <item attribuut="Datum_indiening">2008-05-14</item>
+         <item attribuut="Document-id">KVR32265</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc=""/>
+      <footer firstpaginanummer="5271" allpagenumbers="5271 5272" vetnummer="2070820100" code="0708tkkvr2616" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR32265" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2616" onderwerp="" indiendatum="2008-05-14">
+         <vrager partij="CDA" oorsprong="parlement">Omtzigt</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Van Hijum</vrager>
+         <vraagt-aan>de minister en staatssecretaris van Sociale Zaken en Werkgelegenheid</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2008-06-3">
+         <antwoorder functie="minister" ministerie="Sociale Zaken en Werkgelegenheid">Donner</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="10">
+      <vraag nummer="1">Is het u bekend dat er op internet op diverse plaatsen wordt gemeld dat werkgevers die eigenrisicodrager voor de WGA willen worden alleen een verzekering hoeven af te sluiten voor hun werknemers met een dienstverband voor onbepaalde tijd? (www.kluwersalarisadministratie.nl en www.wegeon.nl) </vraag>
+      <vraag nummer="2">Is het waar dat werkgevers verplicht zijn om ervoor te zorgen dat al hun werknemers, tijdelijk en vast, in voltijd en in deeltijd verzekerd zijn voor arbeidsongeschiktheid. Immers een (arbeids)ongeval kan eenieder overkomen? </vraag>
+      <vraag nummer="3">Staat het verzekeraars en tussenpersonen vrij om polissen aan te bieden voor de private WGA, waaronder alleen mensen met een vast contract vallen? </vraag>
+      <vraag nummer="4">Hoe verhoudt de mededeling op de genoemde websites zich tot de regeling in de WIA, die inhoudt dat een eigenrisicodrager aansprakelijk is voor alle WGA-uitkeringen die op grond van de wet voor zijn rekening komen? Kan een eigenrisicodrager de aansprakelijkheid voor werknemers met een arbeidsovereenkomst voor bepaalde duur uitsluiten? </vraag>
+      <vraag nummer="5">Op grond van artikel 40 van de wet financiering sociale verzekeringen moet de eigenrisicodrager een schriftelijke garantie overleggen waarin de verzekeraar zich verplicht alle verplichtingen uit het eigenrisicodragen na te komen, indien de eigenrisicodrager dat zelf niet doet of niet (meer) kan doen. Mag de verzekeraar die garantie beperken tot de verplichtingen ten aanzien van WGA-uitkeringen voor werknemers met een dienstverband voor onbepaalde tijd? </vraag>
+      <vraag nummer="6">Als het UWV op de eigenrisicodrager een WGA-uitkering verhaalt voor een werknemer met een dienstverband voor bepaalde tijd, die niet onder de verzekeringsdekking valt, kan de werkgever deze vordering dan altijd afwijzen en (laten) doorsturen naar de verzekeraar die de garantstelling heeft afgegeven? Zijn hieraan extra kosten of boetes verbonden? </vraag>
+      <vraag nummer="7">Kan de verzekeraar in zo’n geval de vordering van het UWV later alsnog verhalen op de eigenrisicodrager, omdat het risico niet onder de verzekeringsdekking viel? Zo ja, in hoeverre kunnen eigenrisicodragers dan toch in de problemen komen doordat zij de WGA-lasten niet kunnen betalen, terwijl bij het tot stand komen van de WIA ervan is uitgegaan dat door de garantiestelling geen ongewenste financiële effecten voor (kleine) bedrijven kunnen optreden? </vraag>
+      <vraag nummer="8">De melding dat een eigenrisicodrager alleen werknemers met een dienstverband voor onbepaalde tijd hoeft te verzekeren lijkt te zijn gebaseerd op de veronderstelling dat werknemers met een dienstverband voor bepaalde tijd altijd onder het Vangnet Ziektewet vallen en daardoor hun WGA-uitkering nooit voor rekening van de eigenrisicodrager kan komen? In hoeverre is die veronderstelling waar en ook waterdicht? Is het niet zo dat het UWV bij een ziekmelding van een werknemer met een arbeidsovereenkomst voor bepaalde tijd altijd eerst moet toetsen of er, ook gelet op de Wet Flex en Zekerheid, op werkgever geen plicht tot loondoorbetaling rust en pas bij ontbreken daarvan een Ziektewetuitkering kan worden toegekend? </vraag>
+      <vraag nummer="9">In hoeverre leidt het aanbieden van verzekeringen eigenrisicodragen voor alleen werknemers met een dienstverband voor onbepaalde tijd tot een verstoring van het tussen UWV en de verzekeraars afgesproken level playing field, nu het UWV op Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden grond van de WIA wel alle werknemers moet verzekeren en ook voor alle werknemers premie moet heffen, ongeacht of ze een arbeidsovereenkomst voor bepaalde tijd of voor onbepaalde tijd hebben? </vraag>
+      <vraag nummer="10">Is er voor u reden voor overleg met het Verbond van Verzekeraars, tot aanpassing van de wetgeving of tot verscherping van het toezicht naar aanleiding van de gesignaleerde berichten? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="8">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Werknemers zijn van rechtswege verplicht verzekerd tegen het risico op arbeidsongeschiktheid, ongeacht of zij werkzaam zijn bij een werkgever die publiek verzekerd is of eigenrisicodrager is. </antwoord>
+      <antwoord nummer="3">Ja. </antwoord>
+      <antwoord nummer="4 en 5">Nee, de garantie mag niet worden beperkt tot een bepaalde groep werknemers. De garantie strekt zich uit tot alle verplichtingen die voortvloeien uit het zelf dragen van het risico. Daarmee strekt de garantie zich uit tot alle werknemers voor wie de werkgever eigenrisicodrager is. Aangezien van te voren niet vaststaat welke werknemers in de WGA komen en ten laste van welk fonds de WGA-uitkering komt, moet de garantie zo opgesteld zijn dat ze alle werknemers dekt die het aangaat. Op het moment waarop een werknemer recht krijgt op een WGA-uitkering, stelt het UWV vast of dit een werknemer is van wie de WGA-uitkering ten laste van de eigenrisicodrager komt of ten laste van een fonds. Er kan geen garantie worden overlegd waarin bij voorbaat werknemers van een bepaalde afdeling of werknemers met een bepaald contract buiten de garantie vallen, want pas op het moment van de WGA-intrede staat vast of ze onder de verplichtingen die voortvloeien uit het eigenrisicodragen (en daarmee ook de garantie) vallen of niet. </antwoord>
+      <antwoord nummer="6 en 7">De werknemer die bij afloop van een tijdelijk dienstverband ziek is, heeft meestal recht op ziekengeld op grond van de ZW. De WGA-uitkeringen aan werknemers, die uit de dienstbetrekking waaruit de WGA-uitkering is ontstaan recht hadden op ziekengeld, worden door UWV niet verhaald op een werkgever die eigenrisicodrager is voor het WGA-risico. Er treden dan ook geen ongewenste financiële effecten op voor bedrijven. De garantiestelling moet conform artikel 40 van de Wfsv betrekking hebben op alle verplichtingen die voortvloeien uit het eigenrisicodragen. </antwoord>
+      <antwoord nummer="8">De WGA-lasten van werknemers die uit de dienstbetrekking waaruit de WGA-uitkering is ontstaan recht hadden op een ZW-uitkering, vallen buiten het eigenrisicodragen en worden doorbelast via de sectorpremie die alle werkgevers (publiek verzekerden en eigenrisicodragers) betalen. Over het algemeen betreft dit tijdelijke dienstverbanden en uitzendkrachten. In die zin is de in de vraagstelling genoemde veronderstelling waar. Zij is echter niet waterdicht. Het is immers denkbaar dat werknemers op het moment van intreden van ziekte een tijdelijk dienstverband hebben, maar gedurende de ziekteperiode alsnog een vast dienstverband krijgen. </antwoord>
+      <antwoord nummer="9">De garantiestelling waarop verzekeraars aangesproken worden, heeft betrekking op alle verplichtingen die voortvloeien uit het eigenrisicodragen voor de WGA, ongeacht de polisvoorwaarden. In de commerciële tariefstelling kunnen verzekeraars de premie stellen zoals ze wenselijk achten en daarbij ook de berekening gebruiken die ze willen. Dit doet echter niet af aan het uiteindelijke onderliggende risico, voortkomend uit de afgegeven garantiestelling, dat ze lopen en dat zal uiteindelijk hun premiestelling bepalen. </antwoord>
+      <antwoord nummer="10">Nee. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

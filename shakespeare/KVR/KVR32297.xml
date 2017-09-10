@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van de leden Jansen en Poppe (beiden SP) aan de minister voor
+Wonen, Wijken en Integratie over woningcorporatie Woonbron die letterlijk en
+figuurlijk financieel het schip in is gegaan. (Ingezonden 29 april 2008
+); Antwoord</item>
+         <item attribuut="Bestand">18Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR32297</item>
+         <item attribuut="Inhoud">Is het toegestaan dat een sociale verhuuder investeert in een project,
+dat bestaat uit het grootste hotel van Rotterdam, een congrescentrum, drie
+restaurants en een theater?</item>
+         <item attribuut="Rubriek">Bedrijfsleven en industrie (Investeringen)
+Volkshuisvesting (Huurwoningen)</item>
+         <item attribuut="Trefwoorden">Investeringen
+Woningbouwverenigingen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 2644, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070819470</item>
+         <item attribuut="Afkomstig_van">Wonen, Wijken en Integratie (WWI)</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Jansen</persoon>
+            <persoon partij="SP">Poppe</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-06-09</item>
+         <item attribuut="Datum_indiening">2008-04-29</item>
+         <item attribuut="Document-id">KVR32297</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc=""/>
+      <footer firstpaginanummer="5333" allpagenumbers="5333" vetnummer="2070819470" code="0708tkkvr2644" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR32297" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2644" onderwerp="" indiendatum="2008-04-29">
+         <vrager partij="SP" oorsprong="parlement">Jansen</vrager>
+         <vrager partij="SP" oorsprong="parlement">Poppe</vrager>
+         <vraagt-aan>de minister voor Wonen, Wijken en Integratie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2008-06-9">
+         <antwoorder functie="minister" ministerie="Wonen, Wijken en Integratie">Vogelaar</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Heeft u kennisgenomen van de artikelen «Corporatie steekt miljoenen in schip», «Besmette boot» en «Een dure boot»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Is het op basis van het Besluit Beheer Sociale Huursector (BBSH) toegestaan dat een sociale verhuurder investeert in dit project, dat bestaat uit het grootste hotel van Rotterdam, een congrescentrum, drie restaurants en een theater? Zo ja, vindt u het maatschappelijk verantwoord en acceptabel dat een woningcorporatie via een omweg <voetnoot nummer="2"/>een dusdanig groot financieel risico neemt in een project dat niet behoort tot haar kerntaken? </vraag>
+      <vraag nummer="3">Bent u bereid de corporatie aan te spreken op het afwijken van haar maatschappelijke taken volgens het bestel? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2008-04-19" bron="Financieel Dagblad">Financieel Dagblad, 19 april 2008</noot>
+         <noot nummer="2">100% Woonbrondochter De Rotterdam b.v</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Woonbron heeft de SS Rotterdam in 2005 gekocht voor het creëren van bijzondere huisvestingsvormen voor mensen met een tijdelijke huisvestingsbehoefte, of huisvesting van jongeren die ondertussen (op het schip) hun vak leren. Het schip is ook van aanzienlijke betekenis voor het Pact op Zuid, in welk kader de gemeente, woningcorporaties en projectontwikkelaars vele miljarden investeren. Woonbron heeft daarbij de voorfinanciering op zich genomen voor de Rederij Rotterdam B.V. Dit past binnen de kaders van het BBSH. Woonbron heeft – ook eerder – aangegeven na de ontwikkelfase slechts proportioneel aan haar kerntaken eigenaar te willen zijn. Nu de ontwikkelfase wordt afgesloten zal dat ook werkelijk ingevuld moeten worden. Dus de dochteronderneming van Woonbron, De Rederij waarin het schip is ondergebracht, zal nu ook – deels – een andere eigenaar moeten krijgen. De financiële consequenties van de voorfinanciering hebben de aandacht van het Waarborgfonds Sociale Woningbouw en het Centraal Fonds Volkshuisvesting, die mij hierover informeren. </antwoord>
+      <antwoord nummer="3">Woonbron is in deze niet afgeweken van de kaders van het BBSH. Ik behoef de corporatie hier dan ook niet op aan te spreken. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

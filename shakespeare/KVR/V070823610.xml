@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="(vraagnummer 2070823560)." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van de leden Kuiken en Roefs (beiden PvdA) aan de ministers van
+Binnenlandse Zaken en Koninkrijksrelaties, van Justitie en van Verkeer en
+Waterstaat over de aanpak van wateroverlast door snelle vaartuigen.
+(Ingezonden 24 juni 2008)</item>
+         <item attribuut="Bestand">18Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823610</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van bericht 'Lefgozer kan op het water zijn
+gang
+gaan' in Nederlands Dagblad van 17 juni 2008, over speedboten, waterscooters
+en jetski's die overlast veroorzaken. Tevens vragen over doden en vermisten
+door ongelukken met speedboten (website nu.nl).
+
+Deze vragen dienen ter
+aanvulling op eerdere vragen ter zaken van de leden de Rouwe en Haverkamp
+(beiden CDA), ingezonden 24 juni 2008.</item>
+         <item attribuut="Rubriek">Strafrecht en strafprocesrecht (Misdrijven)
+Strafrecht en strafprocesrecht (Straffen)
+Strafrecht en strafprocesrecht (Vervolging)
+Verkeer, vervoer en waterstaat (Vaarveiligheid)
+Verkeer, vervoer en waterstaat (Verkeersdelicten)
+Vrijetijdsbesteding (Recreatie)</item>
+         <item attribuut="Trefwoorden">Pleziervaart
+Straffen
+Vaarveiligheid
+Verkeersdelicten</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823610, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823610</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Kuiken</persoon>
+            <persoon partij="PvdA">Roefs</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-24</item>
+         <item attribuut="Document-id">V070823610</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823610" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823610" onderwerp="" indiendatum="2008-06-24">
+         <vrager partij="PvdA" oorsprong="parlement">Kuiken</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Roefs</vrager>
+         <vraagt-aan>de ministers van Binnenlandse Zaken en Koninkrijksrelaties, van Justitie en van Verkeer en Waterstaat</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1">Kent u het bericht «Lefgozer kan op het water zijn gang gaan»? </vraag>
+      <vraag nummer="2" voetnoot="1">Deelt u de mening dat wateroverlast van snelle vaartuigen (speedboten, waterscooters en jetski’s), gelet op recente (dodelijke) incidenten <voetnoot nummer="1"/>en de toekomende drukte op het water, een strengere aanpak rechtvaardigt? Zo neen, waarom niet? Zo ja, welke maatregelen neemt u tegen de wateroverlast van snelle vaartuigen? </vraag>
+      <vraag nummer="3">Is het waar dat de politie bij geconstateerde overtredingen, bestuurders van snelle vaartuigen, alleen kan bekeuren bij een staandehouding? Vindt u dit een wenslijk gegeven? Zo neen, welke maatregel bent u van plan te nemen? </vraag>
+      <vraag nummer="4">Hoeveel snelle vaartuigen zijn er momenteel bij de KLPD geregistreerd? Hoeveel vaartuigen zijn daadwerkelijk actief in gebruik? Indien hier een verschil tussen bestaat, wat is daarvoor de verklaring? </vraag>
+      <vraag nummer="5">Is het waar dat het ontbreken van een duidelijk registratie- en identificatiesysteem een groot probleem is bij zowel de staandehouding als ook bij de onduidelijkheid over het aantal in gebruik zijnde snelle vaartuigen? </vraag>
+      <vraag nummer="6">Is het waar dat het Europese Voertuig Identificatie Systeem (EVI) het mogelijk maakt om tot een goed registratie- en identificatiesysteem te komen? </vraag>
+      <vraag nummer="7">Wat zijn de uitkomsten van het haalbaarheidsonderzoek van de RDW en de KLPD naar de toepassing van het EVI op snelle vaartuigen om zo tot een duidelijk registratie- en identificatiesysteem te komen. Is de regering voornemers het EVI in Nederland in te voeren? Zo neen, waarom niet? </vraag>
+      <vraag nummer="8">Is het waar dat de politie bij een ernstige overtreding en gevaarzetting niet de mogelijkheid heeft om het vaarbewijs in te nemen? Vindt u dit een wenselijke situatie? Zo neen, wat bent u van plan hieraan te gaan doen? Toelichting Deze vragen dienen ter aanvulling op eerdere vragen ter zake van de leden De Rouwe en Haverkamp (beiden CDA), ingezonden 24 juni 2008 </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-17" bron="Nederlands Dagblad">Nederlands Dagblad, 17 juni 2008</noot>
+         <noot nummer="2" titel="Dode en vermisten door ongelukken speedboten">«Dode en vermisten door ongelukken speedboten», http://www.nu.nl/news/1602340/10/rss/Vermiste_na_speedbootongeval.html</noot>
+      </noten>
+   </antwoorden>
+</kvr>

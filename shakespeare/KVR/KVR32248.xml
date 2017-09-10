@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="6">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van de leden Van Heugten en Joldersma (beiden CDA) aan de
+ministers voor Wonen, Wijken en Integratie, van Justitie en van Financiën over
+de aanpak van huurfraude. (Ingezonden 9 mei 2008); Antwoord</item>
+         <item attribuut="Bestand">24Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR32248</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een bericht in TROS opgelicht van 6 mei
+2008 over de aanpak van huurfraude. De indieners vragen aan de ministers hoe
+zij denken over het aanleggen van een zwarte lijst waarin chronisch
+frauderende huurders vermeld worden en die bijvoorbeeld bij de griffie van de
+rechtbank van het arrondissement waaronder de woning valt, is in te
+zien.</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Criminaliteitsbestrijding en
+-preventie)
+Criminaliteit en openbare orde (Fraude)
+Volkshuisvesting (Woninghuren)</item>
+         <item attribuut="Trefwoorden">Criminaliteitsbestrijding
+Fraude
+Woninghuren</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 2602, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070819910</item>
+         <item attribuut="Afkomstig_van">Wonen, Wijken en Integratie (WWI)</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Van Heugten</persoon>
+            <persoon partij="CDA">Joldersma</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-06-03</item>
+         <item attribuut="Datum_indiening">2008-05-09</item>
+         <item attribuut="Document-id">KVR32248</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc=""/>
+      <footer firstpaginanummer="5341" allpagenumbers="5341 5342" vetnummer="2070819910" code="0708tkkvr2602" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR32248" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2602" onderwerp="" indiendatum="2008-05-9">
+         <vrager partij="CDA" oorsprong="parlement">Van Heugten</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Joldersma</vrager>
+         <vraagt-aan>de ministers voor Wonen, Wijken en Integratie, van Justitie en van Financiën</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2008-06-3">
+         <antwoorder functie="minister" ministerie="Wonen, Wijken en Integratie">Vogelaar</antwoorder>
+         <mede-antwoorder>de ministers van Justitie en van Financiën</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van de toenemende huurfraudepraktijken, waarbij verhuurders van woningen voor grote bedragen gedupeerd worden door huurders die met list en bedrog tijdenlang geen huur betalen en moeilijk uit de woning te zetten zijn, zoals aan de orde gesteld in de uitzending van TROS Opgelicht? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Vindt u dat de verhuurder nu, net als de huurder, wettelijk voldoende beschermd is tegen wanbetaling en schade aan de verhuurde woning, dit met het oog op een goed werkende woningmarkt, waarbij het aantrekkelijk zou moeten zijn om leegstaande woningen zo veel mogelijk ook te huur aan te bieden? </vraag>
+      <vraag nummer="3">Wat valt er te doen aan huurfraudeurs die met smoesjes en trucjes in staat zijn rechtbankprocedures te frustreren en te vertragen en zo uitzetting ontlopen of bemoeilijken? </vraag>
+      <vraag nummer="4">Wat vindt u van de suggestie om voor dit soort huurfraude een meldlijn te openen? </vraag>
+      <vraag nummer="5">Ziet u mogelijkheden om de FIOD in te schakelen om deze huurfraudeurs aan te pakken? </vraag>
+      <vraag nummer="6">Hoe denkt u over het aanleggen van een zwarte lijst waarin chronisch frauderende huurders vermeld worden en die bijvoorbeeld bij de griffie van de rechtbank van het arrondissement waaronder de woning valt, is in te zien? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2008-05-6" bron="TROS opgelicht">TROS opgelicht, 6 mei 2008</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Ja, ik heb kennis genomen van de betreffende uitzending. </antwoord>
+      <antwoord nummer="2">Ja, ik ben van mening dat de verhuurder wettelijk voldoende bescherming wordt geboden. Wanneer sprake is van wanbetaling, dan kan de verhuurder de huurovereenkomst opzeggen omdat «de huurder zich niet heeft gedragen zoals een goed huurder betaamt». De verhuurder kan de huurovereenkomst ook ontbinden op grond van het door de huurder tekortschieten in de nakoming van zijn verplichtingen (wanprestatie). Dit kan reeds bij een huurachterstand van twee maanden. Ontbinding van een huurovereenkomst van gebouwen kan alleen via de rechter. Dit heeft te maken met het bijzondere karakter van met name woonruimte. De rechter maakt een belangenafweging waarbij het gewicht van de tekortkoming wordt afgewogen tegen het woonbelang van de huurder. Het is ook mogelijk om (vooruitlopend op de behandeling van de zaak) in kort geding een ontruimingsvonnis te vragen. Op deze manier is een verhuurder in die zin beschermd tegen wanbetaling, dat hij de huurovereenkomst kan beëindigen en de huurder de woning uit kan laten zetten. Een vordering op de (ex)huurder met betrekking tot niet betaalde huur blijft ook na uitzetting bestaan. Desalniettemin doet een verhuurder er goed aan dergelijke situaties te voorkomen door een gedegen onderzoek te doen naar de achtergrond van de huurder, alvorens de woning te verhuren. Mocht onverhoopt blijken dat een huurder gebruik maakt van valse inkomensverklaringen dan wel andere verrichtingen pleegt die als strafbare feiten zijn te kwalificeren, dan kan de verhuurder daarvan aangifte doen. Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden Ter voorkoming van betalingsachterstanden kan een verhuurder bedingen dat de huur via automatische incasso betaald wordt. Ook is het mogelijk om bij aanvang van de huur een waarborgsom te laten betalen. Een waarborgsom van rond 2 maal de maandhuur wordt over het algemeen als redelijk gezien. In principe dient een verhuurder bij het einde van de huur rente te betalen over een ingehouden waarborgsom, voorzover de waarborgsom niet gebruikt is ter dekking van vorderingen op de huurder. Uiteraard is het ook zaak bij het onstaan van betalingsachterstanden snel te reageren door de benodigde procedures in gang te zetten, zoals het doen van een aanmaning, het inschakelen van een incassobureau en eventueel de gang naar de rechter, teneinde deze betalingsachterstand niet te laten oplopen. Wanneer een huurder schade aanbrengt aan het gehuurde, dan is deze op grond van de normale regeling van het BW aansprakelijk voor de daardoor veroorzaakte kosten. </antwoord>
+      <antwoord nummer="3">Het is mogelijk dat de huurder, voordat de ontbinding is gevorderd, een zogenoemd zuiveringsaanbod doet: een aanbod om de achterstallige huur en kosten te betalen. In dat geval is ontbinding niet mogelijk. Dit geldt ook wanneer de huurder de huur niet betaalt op grond van een opschortingsbevoegdheid, omdat de verhuurder ook een deel van zijn verplichtingen niet nakomt. Indien van dergelijke omstandigheden sprake is, dan zal een rechter daar rekening mee houden. Ook kan de rechter, alvorens een ontbinding uit te spreken, de huurder een termijn van ten hoogste een maand toestaan om alsnog aan zijn verplichtingen te voldoen. Wanneer de verhuurder van mening is dat de huurder gebruik maakt van smoesjes en trucjes om de rechtbankprocedure te frustreren en te vertragen, dan moet hij dit signaleren en de rechter om actie vragen. Het is aan de rechter om in een concreet geval te beoordelen of van een dergelijke situatie sprake is. </antwoord>
+      <antwoord nummer="4">Het is mij onduidelijk wat met een dergelijke meldlijn beoogd wordt. Indien sprake is van een situatie van wanbetaling en schade, dan is dit een civielrechtelijke kwestie, waarbij de benadeelde partij zich tot de rechter zal moeten wenden. </antwoord>
+      <antwoord nummer="5">De activiteiten van de Belastingdienst/FIOD-ECD richten zich op het strafrechtelijk tegengaan van fiscale-, douane- en financieel-economische fraude, het waarborgen van een integer beroeps- en bedrijfsleven en de bestrijding van de georganiseerde criminaliteit. Deze werkzaamheden zijn recentelijk toegelicht in de brief van de Minister van Justitie van 7 april 2008 (Beleidskaderbrief Bijzondere Opsporingsdiensten, TK 17 050, nr. 354). Binnen deze werkzaamheden stelt de FIOD-ECD jaarlijks zijn prioriteiten vast in overleg met alle opdrachtgevers en het Openbaar Ministerie. Die afspraken worden vastgelegd in een Handhavingsarrangement. De aanpak van huurfraude valt daar niet binnen. </antwoord>
+      <antwoord nummer="6">Indien partijen willen overgaan tot het aanleggen van een zwarte lijst, dan dienen zij zich te beseffen dat hierop de privacywetgeving (Wet bescherming persoonsgegevens) van toepassing is, en dat elk voornemen daartoe moet worden voorgelegd aan het College bescherming persoonsgegevens. Ik zie geen rol voor de overheid bij het aanleggen van zwarte lijsten. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

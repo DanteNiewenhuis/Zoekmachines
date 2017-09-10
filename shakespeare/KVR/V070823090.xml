@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="andere vergelijkbare centra?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Kamp (VVD) aan de minister voor Wonen Wijken en
+Integratie over statushouders die in afwachting van een woning een cursus
+Voorbereidende Inburgering volgen. (Ingezonden 17 juni 2008)</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823090</item>
+         <item attribuut="Inhoud">Indiener vraagt de minister of er in het asielzoekerscentrum te
+Dronten statushouders verblijven die op toewijzing van een woning wachten, en
+of zij in afwachting van die woning mogelijk geen cursussen inburgering kunnen
+volgen, omdat de minister de financiering van die cursussen heeft
+stopgezet.</item>
+         <item attribuut="Rubriek">Beroepsonderwijs en volwasseneneducatie
+(Volwasseneneducatie)
+Cultuur en taal (Nederlandse taal)
+Staats- en bestuursrecht (Vreemdelingenrecht)
+Welzijn (Minderheden)</item>
+         <item attribuut="Trefwoorden">Maatschappij en samenleving
+Nederlandse taal
+Volwasseneneducatie
+Vreemdelingen</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823090, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823090</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Kamp</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-17</item>
+         <item attribuut="Document-id">V070823090</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823090" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823090" onderwerp="" indiendatum="2008-06-17">
+         <vrager partij="VVD" oorsprong="parlement">Kamp</vrager>
+         <vraagt-aan>de minister voor Wonen Wijken en Integratie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Verblijven er in het asielzoekerscentrum te Dronten, gericht op oriëntatie en inburgering, statushouders in afwachting van de toewijzing van een woning? </vraag>
+      <vraag nummer="2">Duurt de toewijzing van een woning in de regel een aantal maanden? </vraag>
+      <vraag nummer="3">Klopt het dat in de periode tussen het verlenen van de verblijfsvergunning en het toewijzen van de woning een cursus Voorbereidende Inburgering wordt aangeboden? </vraag>
+      <vraag nummer="4">Is het waar dat per 1 september 2008 deze cursussen worden beëindigd omdat u de financiering ervan heeft stopgezet? </vraag>
+      <vraag nummer="5">Deelt u de opvatting dat het jammer zou zijn om een periode van een aantal maanden niet te benutten voor inburgering? </vraag>
+      <vraag nummer="6">Bent u bereid deze voorziening verder in stand te houden voor het asielzoekerscentrum in Dronten en de </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

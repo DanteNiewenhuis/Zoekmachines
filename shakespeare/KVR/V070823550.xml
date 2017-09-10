@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="willen of kunnen certificeren?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van de leden Kuiken (PvdA), Tang (PvdA), Omtzigt (CDA) en
+Haverkamp (CDA) aan de staatssecretaris van Financiën en de minister van
+Economische Zaken over de reorganisatie van de douane. (Ingezonden 24 juni
+2008)</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823550</item>
+         <item attribuut="Inhoud">Vragen over verplaatsing van alle douanekantoren naar de buitengrenzen
+(Schiphol en Rotterdam) en gevolgen voor o.a. de concurrentiepositie van
+Nederland en de kwaliteit van het douanetoezicht.</item>
+         <item attribuut="Rubriek">Handel en economie (Douane)</item>
+         <item attribuut="Trefwoorden">Douane</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823550, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823550</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Kuiken</persoon>
+            <persoon partij="PvdA">Tang</persoon>
+            <persoon partij="CDA">Omtzigt</persoon>
+            <persoon partij="CDA">Haverkamp</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-24</item>
+         <item attribuut="Document-id">V070823550</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823550" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823550" onderwerp="" indiendatum="2008-06-24">
+         <vrager partij="PvdA" oorsprong="parlement">Kuiken</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Tang</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Omtzigt</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Haverkamp</vrager>
+         <vraagt-aan>de staatssecretaris van Financiën en de minister van Economische Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Klopt het dat in het kader van de reorganisatie van de douane alle douanekantoren naar de buitengrenzen (Schiphol en Rotterdam) worden verplaatst? Is deze verplaatsing noodzakelijk in het kader van afspraken die in de EU gemaakt zijn om buitengrenzen te bewaken of liggen er andere argumenten aan ten grondslag? Zo ja welke argumenten zijn dit? </vraag>
+      <vraag nummer="2">Hoe gaan andere landen om met de implementatie van deze afspraken? Klopt het dat ondermeer Duitsland er juist niet voor heeft voor gekozen om alle douanekantoren naar de buitengrenzen te verplaatsen? Zo ja, waarom maakt Nederland die keuze dan wel? </vraag>
+      <vraag nummer="3">Welke invloed heeft verplaatsing naar de buitengrenzen op de concurrentiepositie van Nederland? Zullen niet meer bedrijven er voor kiezen om niet Nederland, maar bijvoorbeeld Duitsland als doorvoerhaven te kiezen omdat daar de binnenlandse douanekantoren wel (gedeeltelijk) gehandhaafd blijven? </vraag>
+      <vraag nummer="4">Is er inzicht in de aard en omvang van bedrijven die door verplaatsing naar de buitengrenzen nadelig worden getroffen? Zo neen, bent u voornemens om dit inzichtelijk te maken indien dit niet het geval is waarom niet? </vraag>
+      <vraag nummer="5">Kan bij het veranderende, meer geautomatiseerde, douanetoezicht gegarandeerd worden dat de kwaliteit op peil blijft? Zo ja, op welke wijze garandeert u dit en zo neen, wat gaat u doen om dit wel te garanderen? Is bekend wat de invloed van de automatisering en verplaatsing naar de buitengrenzen zal zijn op ondermeer de voedselveiligheid en criminaliteit? Zo ja, wat is deze invloed? </vraag>
+      <vraag nummer="6">Is de capaciteit van bijvoorbeeld de scanners in de Rotterdamse haven voldoende om de controle adequaat uit te kunnen voeren en op een gelijk niveau te houden met de fysieke controle door douanebeambten? </vraag>
+      <vraag nummer="7">Hoe draagt u er zorg voor dat het voor kleine bedrijven geen onevenredig grote belasting is om zich te certificeren voor het douanetoezicht? Wat betekent dit voor de administratieve lasten van een klein bedrijf ten opzichte van de huidige situatie? Hoe groot is de groep van bedrijven die zich niet </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

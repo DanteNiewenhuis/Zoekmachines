@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="toelichten?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Gesthuizen (SP) aan de staatssecretaris van
+Economische Zaken over het nieuwsitem op radio Rijnmond over onbeheerd
+achtergelaten post. (Ingezonden 18 juni 2008)</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823230</item>
+         <item attribuut="Inhoud">Vragen over het door een postbedrijf (Sandd, red.)
+onbeheerd achterlaten in de openbare ruimte van poststukken
+van meer dan 50 gram die bestemd zijn voor verzending. Is dit wettelijk
+toegestaan, kan de OPTA hier tegen optreden en wat zijn de gevolgen bij
+liberalisering van de markt voor poststukken onder de 50 gram?</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening
+(Post)
+Criminaliteit en openbare orde (Fraude)
+Handel en economie (Economische delicten)
+Handel en economie (Mededinging)
+Staats- en bestuursrecht (Privacy)</item>
+         <item attribuut="Trefwoorden">Ambtsmisdrijven
+Mededinging
+Posterijen
+Privacy</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823230, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823230</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Gesthuizen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-18</item>
+         <item attribuut="Document-id">V070823230</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823230" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823230" onderwerp="" indiendatum="2008-06-18">
+         <vrager partij="SP" oorsprong="parlement">Gesthuizen</vrager>
+         <vraagt-aan>de staatssecretaris van Economische Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Bent u op de hoogte van het feit dat post die bestemd is voor verzending onbeheerd wordt achtergelaten in de openbare ruimte? <voetnoot nummer="1"/>Acht u dit wenselijk? </vraag>
+      <vraag nummer="2">Is het wettelijk toegestaan om poststukken van meer dan 50 gram die bestemd zijn voor verzending onbeheerd achter te laten in de openbare ruimte? Zo ja, bent u van plan om de betreffende wetgeving hierop aan te passen? Zo neen, kan de OPTA hiertegen optreden? </vraag>
+      <vraag nummer="3">Is, indien de markt voor poststukken onder de 50 gram ook wordt geliberaliseerd, er wet- en regelgeving die verbiedt dat postbedrijven poststukken van welk willekeurig gewicht dan ook onbeheerd in de openbare ruimte achterlaten? Kunt u uw antwoord </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-16" bron="Radiouitzending op Radio Rijnmond">Radiouitzending op Radio Rijnmond, 16 juni 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

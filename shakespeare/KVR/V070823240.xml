@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="ondervinden?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van de leden Aptroot en Snijder-Hazelhoff (beiden VVD) aan de
+ministers van Landbouw, Natuur en Voedselkwaliteit en van Economische Zaken
+over het gebruik van bacteriofagen in de strijd tegen Listeria. (Ingezonden 18
+juni 2008)</item>
+         <item attribuut="Bestand">18Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823240</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van artikel 'Brussel speelt met
+volksgezondheid' van
+Paul Eras (Staatscourant 113 van 16 juni 2008, p.2), over o.a. belemmering
+door de EU van de veelbelovende inzet van de bacteriofaag uit het middel
+Listex als technologische hulpstof in de voedselketen.</item>
+         <item attribuut="Rubriek">Bedrijfsleven en industrie (Industrie)
+Consument (Levensmiddelenkeuring)
+Consument (Voedings- en productveiligheid)
+Gezondheidszorg (Ziekten en ziektepreventie)
+Landbouw (Bestrijdingsmiddelen)
+Veeteelt (Zuivel)</item>
+         <item attribuut="Trefwoorden">Bestrijdingsmiddelen
+Kaas
+Levensmiddelenkeuring
+Preventieve gezondheidszorg</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823240, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823240</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Aptroot</persoon>
+            <persoon partij="VVD">Snijder-Hazelhoff</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-18</item>
+         <item attribuut="Document-id">V070823240</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823240" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823240" onderwerp="" indiendatum="2008-06-18">
+         <vrager partij="VVD" oorsprong="parlement">Aptroot</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Snijder-Hazelhoff</vrager>
+         <vraagt-aan>de ministers van Landbouw, Natuur en Voedselkwaliteit en van Economische Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met het artikel van Paulus Eras «Brussel speelt met de volksgezondheid»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hoe vaak komt het voor dat bedrijven in Nederland producten uit de schappen moeten halen vanwege de bacterie Listeria monocytogenes? Kunt u inzicht geven in de problemen die het bedrijfsleven ondervindt bij de export van producten naar derde landen die een zeer restrictief beleid voeren ten aanzien van Listeria? Kunt u inzicht geven in de economische schade die bedrijven hierdoor ondervinden? </vraag>
+      <vraag nummer="3">Welk beleid wordt er gevoerd ten aanzien van de bacterie Listeria monocytogenes, gegeven het feit dat het aantal doden de afgelopen vijf jaar in Nederland verviervoudigd en in de Europese Unie bijna verdrievoudigd is? Kunt u tevens inzicht geven in de kosten voor het bedrijfsleven die hiermee gepaard gaan? </vraag>
+      <vraag nummer="4">Klopt het dat zowel het ministerie van Economische Zaken als de Europese Unie financieel hebben bijgedragen aan de ontwikkeling van bacteriofagen in het kader van het bestrijden van probleembacteriën? Zo ja, kunt u inzicht geven in deze bijdragen per onderzoeksprogramma? </vraag>
+      <vraag nummer="5">Hoe kunt u verklaren dat er enerzijds door overheden wordt geïnvesteerd in een technologie om probleembacteriën aan te pakken en, wanneer deze technologie kan worden ingezet, de toepassing door de EU wordt gefrustreerd? </vraag>
+      <vraag nummer="6">Deelt u de mening dat de bacteriofaag uit het middel Listex een veilig micro-organisme betreft dat kan worden aangemerkt als een technologische hulpstof in de voedselketen in de zin van richtlijn 89/107/EEG, zodat deze is vrijgesteld? Zo neen, hoe moeten de positieve veiligheidsbeoordelingen van Food and Drug Administration (FDA) en United States Department of Agriculture (USDA) en de goedkeuring van Certificatie Biologische Productie (Skal), die het middel zelfs heeft goedgekeurd voor gebruik als technologische hulpstof in ecologische producten, dan worden uitgelegd? Zo ja, hoe verhoudt uw mening zich tot de benadering van de Europese Unie ten aanzien van het middel Listex zoals omschreven in het artikel? Wat gaat u ondernemen om duidelijkheid te scheppen over de status van het middel Listex? </vraag>
+      <vraag nummer="7">Bent u bekend met het voorstel van de Europese Commissie om onder voorwaarden de import van met chloor behandeld kippenvlees uit de Verenigde Staten toe te staan? Deelt u de mening dat de veelbelovende inzet van bacteriofagen tegen schadelijke bacteriën als Listeria, Campylobacter, MRSA en Salmonella wenselijker is dan aspecifieke behandelingen, zoals het behandelen van kippenvlees met chloor? Zo neen, kunt u hier een onderbouwing voor geven en geeft u hiermee aan dat u chemische behandeling van voedselproducten prefereert boven biologische behandeling? Zo ja, hoe gaat u zich ervoor inzetten om te voorkomen dat nieuw ontwikkelde toepassingen van bacteriofagen dezelfde belemmeringen </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-16" bron="Staatscourant van">Staatscourant van, 16 juni 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

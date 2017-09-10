@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="komen?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen aan het lid Vermeij (PvdA) aan de ministers van
+Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Justitie naar
+aanleiding van een pleidooi voor een integriteitstoets voor
+projectontwikkelaars aan wie bouwgrond wordt uitgegeven. (Ingezonden 17 juni
+2008)</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823060</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding interview met Amsterdamse wethouder Van
+Poelgeest (NRC
+Handelsblad, 12 juni 2008). Indiener stelt dat de problemen rond het bedrijf
+Living City illustreren dat de gemeente Amsterdam, en de overheid in het
+algemeen, 'niet altijd  weet met wie er allemal zaken worden gedaan nadat de
+grond is uitgegeven'. Is de door Van Poelgeest gesuggereerde
+'integriteitstoets
+voor projectontwikkelaars aan wie bouwgrond wordt uitgegeven'
+een effectief middel om malafide grondtransacties tegen te gaan?</item>
+         <item attribuut="Rubriek">Handel en economie (Economische delicten)
+Ruimtelijke ordening en infrastructuur
+(Grondverwerving)
+Staats- en bestuursrecht (Gemeenten)</item>
+         <item attribuut="Trefwoorden">Economische delicten
+Gemeenten
+Grondverwerving
+Onroerende zaken</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823060, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823060</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Vermeij</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-17</item>
+         <item attribuut="Document-id">V070823060</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823060" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823060" onderwerp="" indiendatum="2008-06-17">
+         <vrager partij="PvdA" oorsprong="parlement">Vermeij</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Bent u op de hoogte van het interview met de Amsterdamse wethouder Van Poelgeest? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Deelt de mening dat de problemen rond het bedrijf Living City illustreren dat de gemeente Amsterdam (lees: de Nederlandse overheid in het algemeen) «niet altijd weet met wie er allemaal zaken worden gedaan nadat de grond is uitgegeven»? Zo neen, waarom niet? </vraag>
+      <vraag nummer="3">Acht u een instrument als een door Van Poelgeest gesuggereerde «integriteitstoets voor projectontwikkelaars aan wie bouwgrond wordt uitgegeven» een effectief middel om malafide grondtransacties tegen te gaan? Zo neen, waarom niet? </vraag>
+      <vraag nummer="4">Deelt u de mening dat een dergelijke integriteitstoets landelijk ingevoerd zou moeten worden? Zo neen, waarom niet? Zo ja, welke initiatieven kunnen we op welke termijn van u verwachten om tot zo’n toets te </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-12" bron="NRC Handelsblad">NRC Handelsblad, 12 juni 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

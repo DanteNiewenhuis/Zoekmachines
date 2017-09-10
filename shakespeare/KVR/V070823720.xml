@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="onzekerheid te verkeren?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Agema (PVV) aan de minister van Volksgezondheid,
+Welzijn en Sport over het bericht dat er drie tegenstrijdige adviezen liggen
+met betrekking tot Bodyscans. (Ingezonden 24 juni 2008)</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823720</item>
+         <item attribuut="Inhoud">Vragen over het bericht in EenVandaag van 22 juni 2008 dat er drie
+tegenstrijdige adviezen liggen met betrekking tot Bodyscans.</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Ziekten en ziektepreventie)</item>
+         <item attribuut="Trefwoorden">Medische keuringen
+Preventieve gezondheidszorg</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823720, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823720</item>
+         <item attribuut="Indiener">
+            <persoon partij="PVV">Agema</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-24</item>
+         <item attribuut="Document-id">V070823720</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823720" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823720" onderwerp="" indiendatum="2008-06-24">
+         <vrager partij="PVV" oorsprong="parlement">Agema</vrager>
+         <vraagt-aan>de minister van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met de tv-uitzending <voetnoot nummer="1"/>over bodyscans? </vraag>
+      <vraag nummer="2">Deelt u de mening dat mensen altijd de gelegenheid moeten hebben een bodyscan te laten doen als zij dat zelf graag willen? Zo neen, waarom niet? </vraag>
+      <vraag nummer="3">Deelt u voorts de mening dat het altijd beter is om zeker te weten of je iets mankeert of niet in plaats van in </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-22" bron="EenVandaag">EenVandaag, 22 juni 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

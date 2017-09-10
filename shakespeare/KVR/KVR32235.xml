@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="8">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van de leden De Rooij en Jasper van Dijk (beiden SP) aan de
+staatssecretaris van Onderwijs, Cultuur en Wetenschap, mw. Van
+Bijsterveldt-Vliegenthart, over het competentieleren in het MBO. (Ingezonden
+31 maart 2008); Antwoord</item>
+         <item attribuut="Bestand">24Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR32235</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een artikel in het NRC van 28 maart 2008
+over het competentieleren in het MBO. De indieners vragen aan de
+staatssecretaris of zij bereid is de invoering van het competentiegericht
+onderwijs over te laten aan de docenten en instellingen zelf en af te zien van
+invoering zo lang er geen aantoonbaar draagvlak is onder het
+onderwijspersoneel.
+</item>
+         <item attribuut="Rubriek">Beroepsonderwijs en volwasseneneducatie (Onderwijsmethoden en
+-middelen)
+Beroepsonderwijs en volwasseneneducatie
+(Onderwijspersoneel)</item>
+         <item attribuut="Trefwoorden">Kwaliteit van het beroepsonderwijs en de
+volwasseneneducatie
+Mbo
+Onderwijsmethoden</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 2589, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070816110</item>
+         <item attribuut="Afkomstig_van">Onderwijs, Cultuur en Wetenschap (OCW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">De Rooij</persoon>
+            <persoon partij="SP">Jasper van Dijk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-06-02</item>
+         <item attribuut="Datum_indiening">2008-03-31</item>
+         <item attribuut="Document-id">KVR32235</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc=""/>
+      <footer firstpaginanummer="5315" allpagenumbers="5315 5316" vetnummer="2070816110" code="0708tkkvr2589" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR32235" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2589" onderwerp="" indiendatum="2008-03-31">
+         <vrager partij="SP" oorsprong="parlement">De Rooij</vrager>
+         <vrager partij="SP" oorsprong="parlement">Jasper van Dijk</vrager>
+         <vraagt-aan>de staatssecretaris van Onderwijs, Cultuur en Wetenschap, mw. Van Bijsterveldt-Vliegenthart,</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2 juni 2008, zie ook Aanhangsel Handelingen nr. 2375, vergaderjaar 2007–2008">
+         <antwoorder functie="staatssecretaris" ministerie="Onderwijs, Cultuur en Wetenschap">Van Bijsterveldt-Vliegenthart</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1" voetnoot="1">Wat is uw oordeel over het bericht «Op het mbo gaat onderwijschaos gewoon door»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hoe oordeelt u over het discussiestuk van het ROC Horizon College met de strekking dat «leraren met een onderwijsbevoegdheid eruit gaan en vervangen worden door goedkope instructeurs op mbo-niveau»? </vraag>
+      <vraag nummer="3">Wat gaat u ondernemen om te voorkomen «dat onderwijs in vakkennis wordt afgeschaft en vervangen door instructies in vaardigheden waar het bedrijfsleven op dat moment behoefte aan heeft»? </vraag>
+      <vraag nummer="4">Houdt u met betrekking tot de aanstelling van lager opgeleide docenten vast aan de autonomie van de MBO-scholen of bent u bereid om dit proces van downgrading tegen te gaan met concrete maatregelen? Wilt u exact aangeven wat hierin uw politieke stellingname is? </vraag>
+      <vraag nummer="5">Deelt u de mening dat de mbo-brede invoering van het competentiegericht onderwijs in strijd is met het rapport Dijsselbloem, waarin staat dat onderwijsvernieuwingen kleinschalig en evidence based moeten worden ingevoerd? </vraag>
+      <vraag nummer="6">Op wat voor manier is het competentiegericht onderwijs wetenschappelijk onderbouwd? </vraag>
+      <vraag nummer="7">Kunt u zich voorstellen dat veel mbo-docenten zich niet herkennen in «juichende artikelen» over de vernieuwingen in het mbo, wat het cynisme onder docenten eerder versterkt? Wilt u zich inzetten voor een meer evenwichtige voorlichting over de onderwijspraktijk op de ROC’s? </vraag>
+      <vraag nummer="8">Bent u bereid de invoering van het competentiegericht onderwijs over te laten aan de docenten en instellingen zelf en af te zien van invoering zo lang er geen aantoonbaar draagvlak is onder het onderwijspersoneel? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2008-03-28" bron="NRC">NRC, 28 maart 2008</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="8">
+      <antwoord nummer="1">Discussies over het competentiegerichte onderwijs kunnen zinvol zijn. Ik vind het noodzakelijk dat daarbij de feiten bekend zijn en niet met voeten worden getreden, zodat we de discussie voeren over wezenlijke en relevante punten. De implementatie van de competentiegerichte kwalificatiestructuur gaat niet zonder slag of stoot. De keuzes die scholen dienen te maken om kwalitatief goede competentiegerichte opleidingen in te richten, hebben niet alleen consequenties voor de inhoudelijke kant van de opleiding maar raken ook onderwerpen als professionalisering en bedrijfsvoering. Dat weten we al langer en daar is ook naar gehandeld. Scholen voeren tijdens de overgangsperiode gefaseerd competentiegerichte opleidingen in en hebben hiertoe twee jaar extra tijd gekregen. Bij de implementatie van de competentiegerichte Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden kwalificatiestructuur worden zij vraaggericht, tijdelijk én in verhoogde mate ondersteund door MBO 2010. Ik blijf het herhalen; we zijn er nog niet, maar we komen steeds dichter bij ons doel: goed opgeleide mbo’ers die met hun diploma direct aan de slag gaan in een passende baan of verder gaan naar een vervolgopleiding. </antwoord>
+      <antwoord nummer="2">In Nederland hebben we gekozen voor een scheiding tussen wát scholen moeten doen en hóe ze het doen. Het «wat» wordt door de overheid vastgelegd, het «hoe» behoort tot het domein van de scholen. Zij hebben een behoorlijke autonomie bij de inrichting van het onderwijs, met de voorwaarde kwalitatief goede opleidingen te verzorgen die het inspectietoezicht doorstaan. De keuzes over inzet van personeel behoren ook tot de ruimte die mbo-scholen hebben, waarbij zij uiteraard binnen bestaande wet- en regelgeving dienen te handelen. Ik ben van mening, en zo is dat ook uitgedragen in het actieplan Leerkracht van Nederland, dat docenten een heel belangrijke verantwoordelijkheid hebben voor het (verzorgen van het) onderwijs, voor de kwaliteit ervan en voor de betrokkenheid daarbij van andere functionarissen. In de wet is bepaald aan welke kwaliteitseisen die docenten moeten voldoen. Gezien het onderscheid tussen het wat en het hoe, stel ik mij verder terughoudend op als het gaat om de inhoud en de keuzes die vermeld zouden worden in het genoemde discussiestuk van het ROC Horizon College. Wel heb ik voor u geïnformeerd naar de rol van de docenten hierbij. Uit navraag bij het roc blijkt dat het desbetreffende beleidsplan met docenten is besproken in gesprekken op 1 en 7 april jl. en dat het beleidsplan ter instemming wordt voorgelegd aan de formele personeelsvertegenwoordiging. </antwoord>
+      <antwoord nummer="3">Het belang van kennis is van alle tijden. Daarover kan geen misverstand bestaan. Het onderwijs, het bedrijfsleven en de overheid zijn het eens over de drieslag van kennis, vaardigheden en (beroeps)houding. We onderschrijven gezamenlijk het belang en dat blijkt ook uit de kwalificatiedossiers. Scholen zijn verplicht om op basis van deze dossiers hun opleidingen in te richten. Hoe ze dat doen is aan hen. De Inspectie van het Onderwijs beoordeelt of scholen studenten naar behoren opleiden. </antwoord>
+      <antwoord nummer="4">Zie tevens het antwoord op vraag 2. De wet bepaalt aan welke eisen docenten moeten voldoen. Zij kunnen op verschillende manieren het getuigschrift behalen waaruit blijkt dat ze ook feitelijk aan die eisen voldoen (via de initiële lerarenopleiding of via zij-instroom). In die zin kan er dus geen sprake zijn van lager opgeleide docenten. </antwoord>
+      <antwoord nummer="5">De Tweede Kamer heeft mij gevraagd aan te geven in welke mate naar mijn mening het toezichtkader uit het rapport Dijsselbloem van toepassing is op de invoering van competentiegericht onderwijs. Ik zal mijn reactie voor het algemeen overleg op 4 juni a.s. toesturen. De vraag naar kleinschaligheid en evidence based invoering verwijst naar een onderdeel van het toetsingskader. Ik zal deze vraag daarom beantwoorden als onderdeel van mijn reactie op het verzoek van de Tweede Kamer. </antwoord>
+      <antwoord nummer="6">Zie het antwoord op vraag 5. </antwoord>
+      <antwoord nummer="7">Ik heb de artikelen waarnaar verwezen wordt, herlezen en ik kan niet anders dan constateren dat de toon positief-kritisch is. Ik vind de positieve toon passen bij de inzet van de sector; er wórdt hard gewerkt, veel docenten zíjn betrokken bij de onderwijsvernieuwing en studenten zíjn te spreken over competentiegericht onderwijs. Naast de positieve toon is men ook kritisch. Meermalen wordt gesteld dat we er nog niet zijn, dat het urgentiebesef er is, maar ook dat de implementatie van de competentiegerichte kwalificatiestructuur leidt tot andere keuzes waardoor die implementatie een grote operatie is. </antwoord>
+      <antwoord nummer="8">Ik durf de stelling aan dat er draagvlak is voor de competentiegerichte kwalificatiestructuur. De vertaling van de competentiegerichte kwalificatiestructuur naar opleidingen ligt nu al bij de scholen. Scholen hebben extra tijd gekregen en dat was nodig. Maar ik vind ook dat er binnen de scholen prioriteit mag worden gegeven aan het inrichten en verbeteren van competentiegerichte opleidingen. Immers, ons gezamenlijke doel is dat studenten zodanig opgeleid worden dat zij goed voorbereid worden op de arbeidsmarkt of een vervolgopleiding. Dat betekent aandacht voor kennis, vaardigheden én (beroeps)houding. Met alleen kennis en vaardigheden kan niet meer worden volstaan. Vanuit het belang van de student vind ik dan ook dat er een einddatum moet zijn verbonden aan de overgangsperiode zodat scholen daarop kunnen koersen. Via jaarlijkse evaluaties houden we de vinger aan de pols bij deze koers. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

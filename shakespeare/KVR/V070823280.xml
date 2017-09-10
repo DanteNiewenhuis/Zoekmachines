@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="a.s. over Afghanistan?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van de leden Van Gennip en Knops (beiden CDA) aan de ministers
+van Buitenlandse Zaken en van Defensie over de Taliban in Afghanistan.
+(Ingezonden 18 juni 2008)</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823280</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van artikel 'Taliban veroveren dorpern bij
+Kandahar,
+NAVO zint op actie' in Trouw van 17 juni 2008. ook vragen over de bevrijding
+van 400 Talibanstrijders uit de gevangenis in Kandahar en de gevolgen voor de
+veiligheid en imago van de ISAF-troepen.</item>
+         <item attribuut="Rubriek">Veiligheidsbeleid en defensie (NAVO)
+Veiligheidsbeleid en defensie (Oorlogen en
+conflicten)</item>
+         <item attribuut="Trefwoorden">Afghanistan
+NAVO
+Oorlogen</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823280, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823280</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Van Gennip</persoon>
+            <persoon partij="CDA">Knops</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-18</item>
+         <item attribuut="Document-id">V070823280</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823280" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823280" onderwerp="" indiendatum="2008-06-18">
+         <vrager partij="CDA" oorsprong="parlement">Van Gennip</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Knops</vrager>
+         <vraagt-aan>de ministers van Buitenlandse Zaken en van Defensie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Hoe beoordeelt u het bericht «Taliban veroveren dorpen bij Kandahar, NAVO zint op actie» en het feit dat deze verovering plaatsvindt? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Kunt u een brede appreciatie geven van de sterkte van de Taliban op dit moment en uw inschattingen op de middellange termijn, zonodig in vertrouwelijkheid? </vraag>
+      <vraag nummer="3">Kunt u een reactie geven op het feit dat 400 Talibanstrijders uit de gevangenis in Kandahar zijn bevrijd? Hoe was dit mogelijk? Hoe kan een dergelijke grote actie niet tevoren zijn opgemerkt? Wat zegt dit over de inlichtingenpositie van de ISAF-troepen? </vraag>
+      <vraag nummer="4">Deelt u onze zorgen dat bovenstaand bericht de veiligheid en het imago van ISAF niet ten goede komt, terwijl er wel degelijk vooruitgang in Afghanistan is? </vraag>
+      <vraag nummer="5">Wat betekent deze toenemende activiteit van de Taliban in Kandahar voor de buurprovincie Uruzgan? Hebben deze ontwikkelingen direct effect op de Nederlandse militairen in Uruzgan en op de Afghaanse militairen die aanwezig zijn in Uruzgan? Wordt Nederland ook betrokken bij het NAVO offensief in Kandahar? </vraag>
+      <vraag nummer="6">Kunt u deze vragen beantwoorden vóór het algemeen overleg op 2 juli </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-17" bron="Trouw">Trouw, 17 juni 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

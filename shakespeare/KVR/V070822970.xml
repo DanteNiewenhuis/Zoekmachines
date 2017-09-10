@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="verwachten?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Leijten (SP) aan de staatssecretaris van
+Volksgezondheid, Welzijn en Sport over de inkomenspositie en participatie van
+mensen met een verstandelijke beperking. (Ingezonden 16 juni 2008)</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070822970</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een bericht op de website van VGBelang,
+koepel van ouderverenigingen. De Christelijke Hogeschool Ede heeft onderzoek
+gedaan naar inkomenspositie en participatie van verstandelijk gehandicapten.
+Hieruit blijkt onder andere dat veel mensen met een Wajong-uitkering
+incidenteel of structureel financiële steun krijgen uit hun persoonlijk
+netwerk. Indiener vraagt naar de stand van zaken van het beloofde onderzoek
+naar zak- en kleedgeld voor mensen die in een instelling
+wonen. Hij verwijst daarbij naar de brief van de staatssecretaris van VWS d.d.
+20 december 2007 over uniformering eigen bijdrageregelingen AWBZ (kamerstuk
+31294, nr. 5).</item>
+         <item attribuut="Rubriek">Welzijn (Verstandelijk gehandicapten)</item>
+         <item attribuut="Trefwoorden">Verstandelijk gehandicapten</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070822970, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070822970</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Leijten</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-16</item>
+         <item attribuut="Document-id">V070822970</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070822970" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070822970" onderwerp="" indiendatum="2008-06-16">
+         <vrager partij="SP" oorsprong="parlement">Leijten</vrager>
+         <vraagt-aan>de staatssecretaris van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Wat is uw reactie op het onderzoek «Passen en meten of meedoen», naar de inkomenspositie en participatie van mensen met een verstandelijke beperking, uitgevoerd door de Christelijke Hogeschool Ede in opdracht van PhiladelphiaSupport? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wat is uw reactie op de stijging van de eigen bijdrage AWBZ voor mensen met een Wajonguitkering (32%) en mensen met een (gedeeltelijk) inkomen uit arbeid (47%)? </vraag>
+      <vraag nummer="3">Wat is uw oordeel over de uitkomst dat 44% van de Wajonggerechtigden incidenteel of structureel financiële steun ontvangt uit het persoonlijk netwerk? Bent u van mening dat het gewenst is dat mensen afhankelijk zijn van de financiële steun van anderen? Zo ja, bent u van mening dat voor deze groep onafhankelijkheid gewaarborgd is? Zo neen, wat gaat u hieraan doen? </vraag>
+      <vraag nummer="4">Bent u het eens met de aanbeveling dat een persoonlijk netwerk rond mensen belangrijk is? Zo neen, waarom niet? Zo ja, hoe gaat u dit faciliteren? </vraag>
+      <vraag nummer="5">Wordt dit onderzoek ook betrokken bij het onderzoek naar het zak- en kleedgeld voor mensen die in een instelling wonen? Zo neen, waarom niet? Wanneer kan de Kamer de uitkomsten van het onderzoek </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"/>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" weblink="http://www.vgbelang.nl/Nieuws/181">http://www.vgbelang.nl/Nieuws/181</noot>
+         <noot nummer="2" documenttype="Kamerstuk" kamerstuk-id="31 294" documentnummer="5" documentjaargang="2007-2008">Kamerstuk 31 294, nr.5, vergaderjaar 2007–2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

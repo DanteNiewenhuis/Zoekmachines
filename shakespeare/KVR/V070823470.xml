@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="worden, tegen te gaan?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van de leden Fritsma en Madlener (beiden PVV) aan de minister
+voor Wonen, Wijken en Integratie over het pleidooi voor 'Klein Istanboel' in
+grote steden. (Ingezonden 24 juni 2008)</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823470</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding rapport 'Economische kansen van etnische
+diversiteit'
+van het NICIS. Indieners delen de conclusie daarvan dat de vorming van
+monoculturele niet-westerse buurten moet worden voorkomen omdat dit de
+integratie frustreert.</item>
+         <item attribuut="Rubriek">Cultuur en taal (Overig)
+Ruimtelijke ordening en infrastructuur (Steden)</item>
+         <item attribuut="Trefwoorden">Godsdiensten
+Steden</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823470, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823470</item>
+         <item attribuut="Indiener">
+            <persoon partij="PVV">Fritsma</persoon>
+            <persoon partij="PVV">Madlener</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-24</item>
+         <item attribuut="Document-id">V070823470</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823470" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823470" onderwerp="" indiendatum="2008-06-24">
+         <vrager partij="PVV" oorsprong="parlement">Fritsma</vrager>
+         <vrager partij="PVV" oorsprong="parlement">Madlener</vrager>
+         <vraagt-aan>de minister voor Wonen, Wijken en Integratie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Heeft u kennisgenomen van het rapport «Economische kansen van etnische diversiteit» van het NICIS? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Deelt u de mening dat de vorming van monoculturele niet-westerse buurten voorkomen moet worden omdat dit de integratie frustreert? Zo neen, waarom niet? </vraag>
+      <vraag nummer="3">Wat is uw boodschap aan al die autochtone Nederlanders die zich steeds meer vreemde in hun eigen wijk en hun eigen land voelen? </vraag>
+      <vraag nummer="4">Deelt u de mening dat het bizar en volstrekt ongewenst is dat er in Nederland wijken ontstaan waar helemaal niets Nederlands meer aan is? </vraag>
+      <vraag nummer="5">Bent u bereid om alles in het werk te stellen om het ontstaan van islamitische buurten, waar barbaarse opvattingen gemeengoed kunnen </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" weblink="http://www.nicis.nl/nicis/nieuwsopdatum/Integratie/Diversiteit/etnische-diversiteit_1129.html">http://www.nicis.nl/nicis/nieuwsopdatum/Integratie/Diversiteit/etnische-diversiteit_1129.html</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="dit proces te bespoedigen?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Van Velzen (SP) aan de staatssecretaris van Justitie
+over de nazorg aan ex-gedetineerden die na vier jaar nog niet goed is
+geregeld. (Ingezonden 24 juni 2008)</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823710</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een bericht in Binnenlands bestuur van 20
+juni 2008 (week 25, p. 7) over de nazorg aan ex-gedetineerden die na vier jaar
+nog niet goed is geregeld.</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Gevangeniswezen en penitentiair
+recht)
+Criminaliteit en openbare orde (Reclassering)</item>
+         <item attribuut="Trefwoorden">Gedetineerden
+Reclassering</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823710, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823710</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Van Velzen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-24</item>
+         <item attribuut="Document-id">V070823710</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823710" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823710" onderwerp="" indiendatum="2008-06-24">
+         <vrager partij="SP" oorsprong="parlement">Van Velzen</vrager>
+         <vraagt-aan>de staatssecretaris van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1" voetnoot="1">Wat is uw reactie op de constatering dat de nazorg aan ex-gedetineerden vier jaar nadat de minister van Justitie in 2004 besloot dat nazorg aan ex-gedetineerden een taak voor de gemeente is nog steeds niet goed geregeld is? <voetnoot nummer="1"/>Bent u het eens met deze constatering? Zo neen, waarom niet? </vraag>
+      <vraag nummer="2">Klopt de inschatting van de Vereniging Nederlandse Gemeenten (VNG) dat inmiddels grofweg de helft van de gemeenten heeft geregeld dat één persoon verantwoordelijk is voor contact met de hulpverlening? Zo ja, hoe staat het ervoor met die andere helft? </vraag>
+      <vraag nummer="3">Is het waar dat onderzocht is voor welke taken precies de gemeenten verantwoordelijk zijn en welke middelen zij daarvoor nodig hebben, maar dat dit onderzoek niet openbaar wordt gemaakt? Waarom niet? Wanneer gaat dit wel gebeuren? Met welke partijen worden de uitkomsten van dit onderzoek besproken en wat is het vervolgtraject? Bent u bereid dit onderzoek met uw reactie daarop aan de Kamer te zenden? </vraag>
+      <vraag nummer="4">Herinnert u zich de debatten over dit onderwerp, waarin de SP herhaaldelijk bezwaar maakte tegen het delegeren van de nazorg via de Wet maatschappelijke ondersteuning (WMO) aan de gemeenten, en zij het voorstel deed het budget voor ex-gedetineerden te oormerken? Hebt u er zicht op welk bedrag en/of welk percentage van het WMO-budget er in de verschillende gemeenten besteed wordt aan de nazorg voor ex-gedetineerden? </vraag>
+      <vraag nummer="5" voetnoot="1">Is het waar dat de bulk van de gedetineerden kortgestraft is, en dat het de in totaal 183 aangestelde medewerkers maatschappelijke dienstverlening soms aan tijd ontbreekt de kortgestraften te screenen? <voetnoot nummer="1"/>Hoe vaak komt dit voor? Wat gaat u doen om ervoor te zorgen dat iedere gedetineerde onderzocht wordt op de vier leefgebieden (identiteit, inkomen, huisvesting en zorg)? </vraag>
+      <vraag nummer="6">Deelt u de mening dat nazorg aan ex-gedetineerden cruciaal is voor het terugdringen van de recidive? Wat vindt u van het voorstel ex-gedetineerden standaard een half jaar te laten begeleiden door de reclassering? Bent u bereid deze mogelijkheid te onderzoeken? Zo neen, waarom niet? </vraag>
+      <vraag nummer="7">Wat is in uw optiek het essentiële verschil tussen jeugdige ex-gedetineerden, waarvan u wel heeft besloten iedere jeugdige standaard nazorg te gaan bieden, en volwassen ex-gedetineerden? Welke overwegingen spelen hierbij een rol? </vraag>
+      <vraag nummer="8">Wanneer zal de nazorg in alle gemeenten goed geregeld zijn? Welke maatregelen gaat u nemen om </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-20" bron="«Nazorg aan ex-gedetineerden na vier jaar nog niet goed geregeld», Binnenlands bestuur">«Nazorg aan ex-gedetineerden na vier jaar nog niet goed geregeld», Binnenlands bestuur, 20 juni 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

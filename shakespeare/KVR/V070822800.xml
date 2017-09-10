@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="zal u zich hiervoor actief inzetten?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Vendrik (GroenLinks) aan de staatssecretaris van
+Economische Zaken en de minister voor Ontwikkelingssamenwerking over EU
+handelsverdragen met Latijns Amerika. (Ingezonden 13 juni 2008)</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070822800</item>
+         <item attribuut="Inhoud">Vragen over de komende onderhandelingen van de EU met de landen van
+Centraal-
+en Zuid-Amerika. Indiener wijst op de 'keiharde onderhandelingen' van de
+Europese Commissie om zoveel mogelijk vrijhandel te realiseren
+door onder andere in te
+zetten op het liberaliseren van overheidsaanbestedingen.</item>
+         <item attribuut="Rubriek">Bouw (Aanbestedingen)
+Handel en economie (Internationale handel)
+Internationale betrekkingen (Europese Unie)</item>
+         <item attribuut="Trefwoorden">Aanbestedingen
+EU
+Internationale handel
+Midden-Amerika
+Zuid-Amerika</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070822800, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070822800</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Vendrik</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-13</item>
+         <item attribuut="Document-id">V070822800</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070822800" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070822800" onderwerp="" indiendatum="2008-06-13">
+         <vrager partij="GroenLinks" oorsprong="parlement">Vendrik</vrager>
+         <vraagt-aan>de staatssecretaris van Economische Zaken en de minister voor Ontwikkelingssamenwerking</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Bent u ervan op de hoogte dat er in juli 2008 weer onderhandelingen zullen plaatsvinden in Brussel tussen de EU en Centraal Amerika en de Andes? </vraag>
+      <vraag nummer="2">Deelt u de mening dat de Europese Commissie keihard onderhandelt om zoveel mogelijk vrijhandel te realiseren door onder andere in te zetten op het liberaliseren van overheidsaanbestedingen? Kunt u de positie van Nederland voor deze onderhandelingen uiteenzetten? In hoeverre staat u achter de onderhandelingsmethode van de Europese Commissie? </vraag>
+      <vraag nummer="3">Deelt u de mening dat het liberaliseren van overheidsaanbestedingen voor Bolivia, die de overheidsaanbestedingen momenteel gebruikt om haar kleine producenten te ondersteunen bij bijvoorbeeld schoolvoedingsprogramma’s, een negatief effect zal hebben? Deelt u de mening dat de overheid van Bolivia de beleidsruimte moet hebben om haar aanbestedingenbeleid als ontwikkelingsinstrument en/of duurzaamheidsstimulans in te zetten? Zo neen, waarom niet? </vraag>
+      <vraag nummer="4">Bent u op de hoogte van de arbeidsrechten en voornamelijk vakbondsrechten die in Centraal Amerika op grote schaal geschonden worden? Deelt u de mening dat een vrijhandelsverdrag op dit moment ertoe kan leiden dat arbeidsomstandigheden en (duurzame) productie nog verder aangetast worden, door de grotere concurrentie op prijs? Hoe denkt u dit op te kunnen vangen in de handelsverdragen? </vraag>
+      <vraag nummer="5">Deelt u de mening dat wanneer in juli 2008 vrijhandel opnieuw wordt besproken met Centraal Amerika en de Andes hier duidelijke kaders aan moeten worden gesteld, zodat het niet ten koste zal gaan van de (duurzame) ontwikkeling van de landen en de bestrijding van armoede en mensenrechtenschendingen? Hoe </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

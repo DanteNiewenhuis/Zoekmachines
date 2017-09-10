@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Thieme (PvdD) aan de ministers van Landbouw, Natuur
+en Voedselkwaliteit en van Volksgezondheid, Welzijn en Sport over het illegale
+gebruik van antibiotica in de veehouderij. (Ingezonden 17 april 2008); Antwoord</item>
+         <item attribuut="Bestand">23Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR32237</item>
+         <item attribuut="Inhoud">Vragen over het illegale gebruik van antibiotica als groeibevorderaar.
+
+Deze vragen dienen ter aanvulling op eerdere vragen hierover van het lid
+Thieme, ingezonden 12 maart 2008.</item>
+         <item attribuut="Rubriek">Veeteelt (Diergeneesmiddelen)
+Veeteelt (Veehouderij)</item>
+         <item attribuut="Trefwoorden">Diergeneesmiddelen
+Veehouderij</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 2591, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070818170</item>
+         <item attribuut="Afkomstig_van">Landbouw, Natuur en Voedselkwaliteit (LNV)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdD">Thieme</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-06-02</item>
+         <item attribuut="Datum_indiening">2008-04-17</item>
+         <item attribuut="Document-id">KVR32237</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc=""/>
+      <footer firstpaginanummer="5319" allpagenumbers="5319 5320" vetnummer="2070818170" code="0708tkkvr2591" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR32237" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2591" onderwerp="" indiendatum="2008-04-17">
+         <vrager partij="PvdD" oorsprong="parlement">Thieme</vrager>
+         <vraagt-aan>de ministers van Landbouw, Natuur en Voedselkwaliteit en van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2 juni 2008, zie ook Aanhangsel Handelingen nr. 2286, vergaderjaar 2007–2008">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuur en Voedselkwaliteit">Verburg</antwoorder>
+         <mede-antwoorder>de minister van Volksgezondheid, Welzijn en Sport</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Kunt u uiteenzetten op welke wijze het illegale gebruik van antibiotica als groeibevorderaar onderscheiden kan worden van het nog toegestane preventieve gebruik van antibiotica? </vraag>
+      <vraag nummer="2">Kunt u uiteenzetten op welke wijze controle en handhaving plaatsvindt op het illegale gebruik van antibiotica als groeibevorderaar? </vraag>
+      <vraag nummer="3">Kunt u uiteenzetten hoe het mogelijk is dat u kunt controleren of antibiotica illegaal wordt ingezet als groeibevorderaar wanneer in de registratie van het gebruik van antibiotica in de dierhouderij geen onderscheid wordt gemaakt tussen curatief of preventief gebruik van de antibiotica? </vraag>
+      <vraag nummer="4">Kunt u uiteenzetten hoeveel gevallen van illegaal antibioticagebruik in 2007 zijn gerapporteerd en welke sancties zijn opgelegd? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op eerdere vragen terzake van het lid Thieme, ingezonden 12 maart 2008 (vraagnummer 2070814460). </toelichting>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Onderscheid tussen gebruik van antibiotica als groeibevorderaar en als therapeuticum is niet altijd goed mogelijk. De klassieke antimicrobiële groeibevorderaars (de zogenaamde «AMGB’s»), die in lage concentraties aan het voer werden toegevoegd zonder tussenkomst van een dierenarts en die gewoonlijk gedurende de gehele mestperiode aan bijvoorbeeld vleesvarkens of vleeskalveren werden toegediend, zijn per 1 januari 2006 verboden. De Algemene Inspectiedienst (AID) controleert of er na die datum nog diervoeders met AMGB’s worden geproduceerd of aanwezig zijn op bedrijven. Daarnaast is het echter ook mogelijk dat een dierenarts antibiotica in enigerlei vorm toepast of voorschrijft, zonder dat er sprake is van ziekteverschijnselen bij dieren. Of er sprake is van onverantwoord voorschrijven en toepassen, is achteraf zeer moeilijk vast te stellen. </antwoord>
+      <antwoord nummer="2">Controle en handhaving op het illegale gebruik van antibiotica vinden plaats door de AID en de Voedsel en Waren Autoriteit (VWA). Zo wordt door de AID gecontroleerd of er voor gemedicineerde diervoeders vooraf een attest door een dierenarts is verstrekt. Zonder zo’n attest is er sprake van een overtreding. De aanwezigheid van een attest is echter nog geen hard bewijs dat het verstrekte antibioticum niet als groeibevorderaar is ingezet. De VWA controleert aan de slachtlijn, steekproefsgewijs, of er sprake is van aanwezige residuen antibiotica. Als die bij pluimvee aanwezig blijken te zijn zonder dat die op het «ante mortem»-formulier zijn aangegeven, is er sprake van gebruik dat in strijd is met de regelgeving. </antwoord>
+      <antwoord nummer="3">Zie beantwoording vraag 1. Preventief gebruik is in principe iets anders dan gebruik als groeibevorderaar. Als een koppel wordt gemedicineerd, gebeurt dat meestal op een moment, vroeg in een infectie. Dat betekent dat slechts een deel van de dieren ziek zijn en indien de boer vakkundig en oplettend is, is dat vóór er duidelijk uitval door de ziekte optreedt. Dit betekent dat per definitie een deel van een koppel Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden preventief wordt behandeld. De dosering is in die gevallen conform de door de registratieautoriteit toegelaten hoogte en intervallen. Deze vorm van gebruik is niet illegaal. Het verkapte gebruik van therapeutisch geregistreerde middelen als groeibevorderaar betekent in veel gevallen dat middelen in subtherapeutische concentraties door het voer of drinkwater worden toegediend. </antwoord>
+      <antwoord nummer="4">Er zijn in 2007 door de AID geen processen-verbaal opgemaakt van illegaal gebruik van antibiotica. Wel zijn er enkele projecten met in begrip van «quick scans» uitgevoerd in de vleesvarkens- en vleeskalversector, waarbij de uitkomsten lijken te wijzen op veelvuldig gebruik van antibiotica. Over dit veelvuldige gebruik vindt op verschillende bestuurlijke niveaus overleg plaats met de sector om te komen tot een meer verantwoord gebruik. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

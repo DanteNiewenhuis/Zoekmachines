@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="6">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Ouwehand (PvdD) aan de ministers van Landbouw,
+Natuur en Voedselkwaliteit en voor Ontwikkelingssamenwerking over de
+certificering van onverantwoorde soja door de Round Table on Responsible Soy
+(RTRS). (Ingezonden 28 april 2008); Antwoord</item>
+         <item attribuut="Bestand">25Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR32230</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een artikel in Persbericht A-seed van 22
+april 2008
+over de certificering van onverantwoorde soja door de Round Table on
+Responsible Soy (RTRS). De indiener vraagt aan de ministers op welke wijze zij
+ervoor gaan zorgen dat de duurzaamheidscriteria die worden gesteld aan de door
+de RTRS gecertificeerde soja ook daadwerkelijk wat voorstellen en garanderen
+dat bij de productie geen slavernij of verdrijving van land gemoeid is, geen
+aantasting van biodiversiteit plaatsvindt en erosie actief wordt bestreden.
+</item>
+         <item attribuut="Rubriek">Consument (Levensmiddelen)
+Landbouw (Landbouwproducten)
+Ontwikkelingssamenwerking (Algemeen)</item>
+         <item attribuut="Trefwoorden">Landbouwproducten
+Levensmiddelen
+Ontwikkelingssamenwerking</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 2584, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070819380</item>
+         <item attribuut="Afkomstig_van">Landbouw, Natuur en Voedselkwaliteit (LNV)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdD">Ouwehand</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-05-27</item>
+         <item attribuut="Datum_indiening">2008-04-28</item>
+         <item attribuut="Document-id">KVR32230</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc=""/>
+      <footer firstpaginanummer="5305" allpagenumbers="5305 5306" vetnummer="2070819380" code="0708tkkvr2584" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR32230" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2584" onderwerp="" indiendatum="2008-04-28">
+         <vrager partij="PvdD" oorsprong="parlement">Ouwehand</vrager>
+         <vraagt-aan>de ministers van Landbouw, Natuur en Voedselkwaliteit en voor Ontwikkelingssamenwerking</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2008-05-27">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuur en Voedselkwaliteit">Verburg</antwoorder>
+         <mede-antwoorder>de minister voor Ontwikkelingssamenwerking</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Is het waar dat binnen de huidige uitgangspunten van de Round Table on Responsible Soy (RTRS) het gebruik van gentech soja wordt toegestaan? <voetnoot nummer="1"/>Zo ja, op welke wijze heeft u op dit nieuws gereageerd? Zo neen, waarom hebben Niet Gouvernementele Organisaties (NGO’s) dan de noodklok geluid en stellen zij dat de RTRS klaar staat onverantwoorde soja als duurzaam te certificeren? </vraag>
+      <vraag nummer="2">Hoe beoordeelt u de oproep van de NGO’s dat de RTRS onduurzame soja gaat certificeren? </vraag>
+      <vraag nummer="3">Deelt u deze mening dat gentech soja per definitie niet duurzaam is en daarom niet als duurzaam gecertificeerd kan worden? Zo ja, op welke wijze gaat u oneigenlijke certificering van gentech soja voorkomen? Zo neen, waarom niet en waarom kan volgens u gentech soja als duurzaam worden aangemerkt? </vraag>
+      <vraag nummer="4">Deelt u de mening dat sojamonoculturen per definitie niet duurzaam zijn en daarom ook niet binnen de duurzaamheidscriteria van de RTRS zouden moeten vallen? Zo ja, op welke wijze gaat u voorkomen dat soja van grootschalige sojamonoculturen door de RTRS worden gecertificeerd? Zo neen, waarom niet? </vraag>
+      <vraag nummer="5">Op welke wijze gaat u ervoor zorgen dat de duurzaamheidscriteria die worden gesteld aan de door de RTRS gecertificeerde soja ook daadwerkelijk wat voorstellen en garanderen dat bij de productie geen slavernij of verdrijving van land gemoeid is, geen aantasting van biodiversiteit plaatsvindt en erosie actief wordt bestreden? </vraag>
+      <vraag nummer="6">Kunt u uiteenzetten waarom de direct betrokken lokale bevolking zoals bijvoorbeeld in Brazilië en Paraguay niet deelneemt aan de RTRS? Kunt u daarbij uiteenzetten hoe hun specifieke belangen, te weten het grote risico om van hun land verdreven te worden, behartigd worden en op welke wijze wordt gegarandeerd dat zij niet het onderspit delven? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2008-04-22" bron="Persbericht A-seed">Persbericht A-seed, 22 april 2008</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Ja, met betrekking tot duurzaamheid wordt in de uitgangspunten door de RTRS principieel geen onderscheid gemaakt tussen ggo-soja en non-ggo soja. Deze uitgangspunten zijn in mei 2007 door de «General Assemblee» van de RTRS vastgesteld. De RTRS is een privaat platform (vereniging naar Zwitsers Recht) waarvan bedrijven uit de internationale sojasector en maatschappelijke organisaties, zoals diverse internationale en lokale NGO’s, lid zijn. Ik heb van deze uitgangspunten kennisgenomen. </antwoord>
+      <antwoord nummer="2">Telers, handelaren, verwerkers, kredietverschaffers en NGO’s zijn de leden van de RTRS en maken gezamenlijk uit welke duurzaamheidcriteria voor «Responsible Soy» worden vastgesteld. Momenteel is men in RTRS-verband bezig om op een gestructureerde en evenwichtige wijze deze criteria te ontwikkelen die vervolgens weer de basis dienen te vormen voor indicatoren en standaarden ten behoeve van de Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden certificering van volgens deze RTRS-criteria duurzame soja. Dit gebeurt middels een zogenaamd «multi stake holder»-proces waaraan de RTRS-leden deelnemen en in een «open consultatie»-procedure waarbij eenieder die zich bij de sojasector betrokken voelt, kan reageren op de conceptcriteria die in het RTRS-proces worden ontwikkeld. </antwoord>
+      <antwoord nummer="3" voetnoot="1">Ik kan me niet vinden in de stelling dat ggo’s en/of ggo soja per definitie niet duurzaam zijn. De Cogem (Commissie genetische modificatie) stelt in haar recente signalering «perspectieven van ggo-gewassen voor een duurzame landbouw» dat ggo-gewassen vanuit economisch en milieu-oogpunt waardevol kunnen zijn voor een duurzame landbouw. De minister van VROM heeft deze Cogem-signalering op 25 april 2008 aan de Tweede Kamer aangeboden <voetnoot nummer="1"/>. </antwoord>
+      <antwoord nummer="4">Neen, het is niet objectief vast te stellen dat in monocultuur geteelde soja per definitie duurzaam of niet duurzaam is. De criteria voor duurzame soja als basis voor certificering worden bepaald door de leden van de RTRS in een zogenaamd «multi stake holder proces». Hiertoe is een procedure van kracht waarin is vastgelegd dat over de criteria eerst binnen de eigen gelederen (bijvoorbeeld van de NGO’s) en vervolgens met de andere geledingen (bijvoorbeeld de telers en de handelaren) overeenstemming wordt bereikt. </antwoord>
+      <antwoord nummer="5">De RTRS is een onafhankelijk platform dat door de Nederlandse regering wordt ondersteund, omdat de RTRS een reëel en kansrijk initiatief is van bedrijven en maatschappelijke organisaties om de duurzaamheid van de mondiale sojaketens te bevorderen. Het is de verantwoordelijkheid van alle RTRS-leden dat de te ontwikkelen duurzaamheidcriteria voor soja breed worden gedragen. Daarbij richt de RTRS zich als private organisatie op de zogenaamde «main stream» soja met als doel het overgrote deel van de wereldhandelstromen aan sojabonen en sojaproducten (olie en schroot) te verduurzamen. </antwoord>
+      <antwoord nummer="6">Er zijn veel NGO’s die actief zijn op milieu en sociaal-economisch terrein in de afgelopen tijd lid van de RTRS geworden. Tevens is er een groot aantal met name lokale Zuid-Amerikaanse NGO’s betrokken bij het RTRS-proces als waarnemer. Voorts worden de specifieke belangen van deze lokale NGO’s in toenemende mate behartigd door de internationale overkoepelende organisaties of de netwerken waarbij deze NGO’s zijn aangesloten. Ik heb er vertrouwen in dat de RTRS hiermee op een gebalanceerde wijze de inbreng van de lokale bevolking meeneemt in het proces van criteria-ontwikkeling. Arbeidsomstandigheden en landrechten zijn, op basis van de reeds vastgestelde RTRS-uitgangspunten, aspecten van duurzaamheid die in het «multi stake holder»-proces specifiek aan de orde komen. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1">Kamerstukken, 2007–2008, 27 428, nr.108</noot>
+      </noten>
+   </antwoorden>
+</kvr>

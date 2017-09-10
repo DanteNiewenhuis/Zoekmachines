@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="aanrichten?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Thieme (PvdD) aan de minister van Landbouw, Natuur
+en Voedselkwaliteit over het vergassen van ganzen. (Ingezonden 19 juni
+2008)</item>
+         <item attribuut="Bestand">20Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823300</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding ooggetuigenverslagen, verzameld door
+Faunabescherming, van de ganzenvangst op Texel, waarbij 'hele familiegroepen'
+ganzen worden vergast. Biedt dit soelaas voor het duurzaam beperken van schade
+door ganzen aangericht?
+De dodingsmethode is volgens indiener strijdig met de Flora- en
+Faunawet.</item>
+         <item attribuut="Rubriek">Natuur (Dierenbescherming)
+Natuur (Jacht)</item>
+         <item attribuut="Trefwoorden">Dierenwelzijn
+Jacht
+Vogels</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823300, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823300</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdD">Thieme</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-19</item>
+         <item attribuut="Document-id">V070823300</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823300" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823300" onderwerp="" indiendatum="2008-06-19">
+         <vrager partij="PvdD" oorsprong="parlement">Thieme</vrager>
+         <vraagt-aan>de minister van Landbouw, Natuur en Voedselkwaliteit</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="11">
+      <vraag nummer="1" voetnoot="1">Kent u de ooggetuigenverslagen van de ganzenvangst op Texel op de website van de Faunabescherming <voetnoot nummer="1"/>, waaronder ook het ooggetuigenverslag van de gerenommeerde ganzen en weidevogelexpert Leo van den Bergh? </vraag>
+      <vraag nummer="2">Bent u van mening dat het landelijk vergassen van beschermde inheemse diersoorten als de grauwe gans voortgang kan vinden wanneer deskundigen aangeven dat familieverbanden uiteengerukt worden en in het geheel geen sprake is van een humaan proces? Zo ja, waarom? Zo neen, op welke wijze wilt u hieraan een einde maken? </vraag>
+      <vraag nummer="3" voetnoot="2">Hoe verhoudt de praktijk van uiteengerukte familieverbanden zich tot uw eerdere uitspraak dat «bij de vangmethode die hier aan de orde is, hele familiegroepen worden gevangen»? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="4">Hoe verhoudt uw toezegging dat «onnodig leed wordt voorkomen» zich tot de gang van zaken zoals die zich volgens de ooggetuigenverslagen heeft afgespeeld? </vraag>
+      <vraag nummer="5">Kunt u uiteenzetten op grond van welke bepaling in de Flora- en faunawet u vergassing van in het wild levende dieren als een wettelijk toegestane dodingsmethode ziet? </vraag>
+      <vraag nummer="6">Kunt u toelichten waarom u niet uiteen kunt zetten op welke schaal en in welke gebieden de vergassing van ganzen plaatsvindt? Bent u bereid de Kamer alsnog een volledig beeld te verschaffen? Zo neen, waarom niet? Bent u bereid zich in te spannen om hier op korte termijn alsnog inzicht in te geven? </vraag>
+      <vraag nummer="7">Bent u bereid het vergassen van ganzen met onmiddellijke ingang te verbieden wanneer mocht blijken dat de dodingsmethode niet in overeenstemming is met in de Flora- en faunawet toegestane dodingsmethoden? Zo neen, waarom niet? </vraag>
+      <vraag nummer="8">Welke onafhankelijke populatiedeskundigen hebben verklaard dat het vangen en vergassen van ganzenpopulaties soelaas zou bieden voor het duurzaam beperken van schade en populatieomvang? Indien er geen verklaringen van onafhankelijke deskundigen zijn, bent u dan bereid hun advies alsnog zo spoedig mogelijk in te winnen? Zo neen, waarom niet? </vraag>
+      <vraag nummer="9">Wordt het vangen en vergassen van de ganzen gemonitord door onafhankelijke deskundigen als waarnemer? Zo neen, waarom gebeurt dat niet? </vraag>
+      <vraag nummer="10">Kunt u uiteenzetten hoe de gerapporteerde ganzenschade op Texel van € 10.000 in de zomerperiode en € 40.000 in de winterperiode zich verhoudt tot de kosten van de vang- en vergassingsoperatie? Kunt u uiteenzetten waarom niet gekozen is voor het schadeloos stellen van de boeren die schade hebben? </vraag>
+      <vraag nummer="11">Kunt u uiteenzetten hoe groot de schade in termen van toerisme en natuurbeleving is op bijvoorbeeld het vogeleiland Texel, door een grootschalige vang- en vergassingsoperatie zoals nu is ingezet? Zo neen, bent u bereid die schade te laten inventariseren en die te salderen met de geringe schade die ganzen volgens uw eigen opgave </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1">www.faunabescherming.nl</noot>
+         <noot nummer="2" documenttype="Kamervragen" documentnummer="2636" documentjaargang="2007-2008">Aanhangsel Handelingen, nr.2636, vergaderjaar 2007–2008.</noot>
+      </noten>
+   </antwoorden>
+</kvr>

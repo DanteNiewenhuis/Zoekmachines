@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Anker (ChristenUnie) aan de minister-president en de
+ministers van Binnenlandse Zaken en Koninkrijksrelaties, van Onderwijs,
+Cultuur en Wetenschap en van Justitie over het oordeel van de commissie
+Gelijke behandeling ten aanzien van gewetensbezwaarde ambtenaren. (Ingezonden
+16 april 2008); Antwoord</item>
+         <item attribuut="Bestand">23Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR32221</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van de uitspraak en het advies van de Commissie
+Gelijke
+Behandeling (GGB) over het oordeel van de commissie Gelijke behandeling ten
+aanzien van gewetensbezwaarde ambtenaren. De indiener vraagt aan de
+minister-president en de ministers of zij kunnen aangeven hoe zij aan
+gemeenten duidelijk maken hoe volgens hen moet worden omgegaan met het sluiten
+van een huwelijk tussen personen van hetzelfde geslacht en gewetensbezwaarde
+trouwambtenaren.</item>
+         <item attribuut="Rubriek">Staats- en bestuursrecht (Gemeenten)
+Welzijn (Burgerlijke stand)</item>
+         <item attribuut="Trefwoorden">Burgerlijke stand
+Gemeenten
+Gewetensvrijheid
+Overheidspersoneel</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 2575, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070818050</item>
+         <item attribuut="Afkomstig_van">Binnenlandse Zaken en Koninkrijksrelaties (BZK)</item>
+         <item attribuut="Indiener">
+            <persoon partij="ChristenUnie">Anker</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-05-29</item>
+         <item attribuut="Datum_indiening">2008-04-16</item>
+         <item attribuut="Document-id">KVR32221</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc=""/>
+      <footer firstpaginanummer="5283" allpagenumbers="5283 5284" vetnummer="2070818050" code="0708tkkvr2575" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR32221" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2575" onderwerp="" indiendatum="2008-04-16">
+         <vrager partij="ChristenUnie" oorsprong="parlement">Anker</vrager>
+         <vraagt-aan>de minister-president en de ministers van Binnenlandse Zaken en Koninkrijksrelaties, van Onderwijs, Cultuur en Wetenschap en van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="29 mei 2008, zie ook Aanhangsel Handelingen nr. 2205, vergaderjaar 2007–2008">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken en Koninkrijksrelaties">Ter Horst</antwoorder>
+         <mede-antwoorder>de minister-president en de ministers van Onderwijs, Cultuur en Wetenschap en van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Kent u de uitspraak en het advies van de Commissie Gelijke Behandeling (GGB) dat een gemeente niet in strijd met de gelijkebehandelingswetgeving handelt als zij weigert een trouwambtenaar aan te stellen, die op grond van zijn godsdienst geen huwelijken wil sluiten tussen personen van hetzelfde geslacht? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Deelt u de nadere voorwaarden die de CGB stelt aan de buitengewoon ambtenaar van de burgerlijke stand, namelijk dat de ambtenaar van de burgerlijke stand alleen andere werkzaamheden verricht en niet inzetbaar is voor het sluiten van huwelijken, de gemeente organisatorisch waarborgt dat alle personen die aan de wettelijke eisen voldoen bij de betreffende gemeente in het huwelijk kunnen treden en dat de gemeente waarborgt dat een eind komt aan de praktijk van gemeentelijke berichten waarin blijk wordt gegeven van de discriminatoire opvattingen van ambtenaren? </vraag>
+      <vraag nummer="3">Deelt u de opvatting van de commissie dat als de gemeente aan de bezwaren van de persoon in kwestie tegemoet zou komen en de persoon in kwestie zou toestaan om geen huwelijken te sluiten of partnerschappen te registreren, tussen personen van hetzelfde geslacht, gemeenten daarmee toestaan dat zijn bijzondere ambtenaar van de burgerlijke stand een door de wet beschermde groep discrimineert? </vraag>
+      <vraag nummer="4" voetnoot="2">Hoe verhoudt zich deze uitspraak tot het kabinetsstandpunt dat er in elke gemeente een huwelijk tussen personen van hetzelfde geslacht gesloten moet kunnen worden en dat er in het personeelsbeleid praktische oplossingen moeten worden gezocht in de omgang met gewetensbezwaarde ambtenaren? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="5">Kan u aangeven hoe u aan gemeenten duidelijk maakt hoe volgens u moet worden omgegaan met het sluiten van een huwelijk tussen personen van hetzelfde geslacht en gewetensbezwaarde trouwambtenaren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2008-04-15" bron="2008-40 en het CGB-advies 2008-04 " titel="Trouwen geen bezwaar">2008-40 en het CGB-advies 2008-04 «Trouwen geen bezwaar», 15 april 2008</noot>
+         <noot nummer="2" documenttype="Kamervragen" documentjaargang="2007-2008" documentnummer="1428">Aanhangsel Handelingen, vergaderjaar 2007–2008, nr.1428.</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1" voetnoot="1">Ja. 2 tot en met 4 De Commissie Gelijke Behandeling oordeelde dat in een concreet geval de gemeente een gewetensbezwaarde trouwambtenaar niet hoefde aan te stellen, en werkte dit vervolgens uit in een advies. Gemeenten houden bij het aanstellen van trouwambtenaren een eigen verantwoordelijkheid binnen de bestaande (grond)wettelijke kaders. Voorop staat dat elke gemeente moet waarborgen dat het voltrekken van alle huwelijken in de betreffende gemeente mogelijk is en dat alle betrokkenen zich aan de wettelijke kaders dienen te houden. Het kabinet benadrukt tevens dat deze wettelijke taak van gemeenten ruimte laat voor het aannemen van trouwambtenaren met gewetensbezwaren, zolang er Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden praktische oplossingen mogelijk zijn. Dit is in lijn met de beantwoording van Kamervragen uit 2007, dat het beleid ter zake van gewetensbezwaarde trouwambtenaren tot de autonome bevoegdheidssfeer van de gemeenten rekent. <voetnoot nummer="1"/>Het is aldus in eerste instantie aan een gemeente en een gewetensbezwaarde ambtenaar om in onderling overleg te zoeken naar oplossingen. De wettelijke kaders bieden voldoende ruimte om alle huwelijken in alle gemeenten te laten plaatsvinden, en om aan een zorgvuldige omgang met gewetensbezwaarden tegemoet te komen. In een voorkomend geschil kan de rechter een bindende uitspraak doen. </antwoord>
+      <antwoord nummer="5">Aangezien geen sprake is van een beleidswijziging is er geen aanleiding om gemeenten te berichten over hoe moet worden omgegaan met gewetensbezwaarde trouwambtenaren. Uiteraard kunnen gemeenten van deze antwoorden kennis nemen. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1" documenttype="Kamervragen" documentjaargang="2006-2007" documentnummer="1564">Aanhangsel Handelingen, vergaderjaar 2006–2007, nr.1564.</noot>
+      </noten>
+   </antwoorden>
+</kvr>

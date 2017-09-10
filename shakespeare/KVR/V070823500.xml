@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="2008 (vraagnummer 2070822090)." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Van Gent (GroenLinks) aan de minister van Landbouw,
+Natuur en Voedselkwaliteit over de fraude met eieren op markten en het gebrek
+aan controle en handhaving van bestaande regels. (Ingezonden 24 juni
+2008)</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823500</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding persbericht Wakker Dier (17 juni 2008) over het
+onbestraft dforgaan van fraude met eieren op markten. Volgens de VWA zou
+aanpak van deze fraude sinds september 2007 de verantwoordelijkheid is van de
+Stichting Controle Bureau voor Pluimvee, Eieren en Eiproducten (CPE)
+[Aanvulling op eerdere vragen terzake van het lid Thieme (PvdD), ingezonden 6
+juni 2008].</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Fraude)
+Veeteelt (Zuivel)</item>
+         <item attribuut="Trefwoorden">Eieren
+Fraude</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823500, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823500</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Van Gent</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-24</item>
+         <item attribuut="Document-id">V070823500</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823500" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823500" onderwerp="" indiendatum="2008-06-24">
+         <vrager partij="GroenLinks" oorsprong="parlement">Van Gent</vrager>
+         <vraagt-aan>de minister van Landbouw, Natuur en Voedselkwaliteit</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Is het u bekend dat de fraude met eieren op markten – er worden legbatterijeieren verkocht als diervriendelijke scharrel- of uitloopeieren – onbestraft door blijft gaan? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Deelt u de mening van de Voedsel en Waren Autoriteit (VWA) dat de aanpak van deze fraude sinds september 2007 de verantwoordelijkheid is van de Stichting Controle Bureau voor Pluimvee, Eieren en Eiproducten (CPE)? </vraag>
+      <vraag nummer="3">Is het u bekend dat de Stichting Controle Bureau voor Pluimvee, Eieren en Eiproducten (CPE) stelt, dat zij pas begin 2009 in staat is om een reguliere controle op de dag- en weekmarkten door te voeren? </vraag>
+      <vraag nummer="4">Deelt u de mening dat dit «gat» in de aanpak van fraude met eieren niet aanvaardbaar is en op de kortst mogelijke termijn gedicht dient te worden? </vraag>
+      <vraag nummer="5">Wat is uw oordeel over het feit dat de CPE denkt niet bevoegd te zijn in deze kwestie, omdat het een vorm van bedrog/misleiding is van marktkoopmannen, waarvoor volgens de CPE de VWA bevoegd is en blijft? </vraag>
+      <vraag nummer="6">Bent u bereid om precies uiteen te zetten welke instantie volgens u bevoegd is en op welke wijze de controle en bestraffing ter hand moeten worden genomen? </vraag>
+      <vraag nummer="7">Als de VWA bevoegd is en blijft, deelt u dan de mening dat zij ook onderzoek dienen te doen naar opmerkingen/belofte van marktkoopmannen over de vermeende diervriendelijkheid van hun eieren? Toelichting Deze vragen dienen ter aanvulling op eerdere vragen ter zake van het lid Thieme (PvdD), ingezonden 6 juni </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-17" bron="Persbericht Wakker Dier">Persbericht Wakker Dier, 17 juni 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

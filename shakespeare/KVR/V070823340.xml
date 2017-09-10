@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="2008 (vraagnummer 2070823330)." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Dibi (GroenLinks) aan de minster voor Jeugd en Gezin
+over managers die de jeugdzorg tonnen kosten. (Ingezonden 19 juni
+2008)</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823340</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding bericht (De Volkskrant, 18 juni 2008) dat er
+Bureau
+Jeugdzorg Amsterdam de afgelopen jaren ruim 8 ton heeft betaald aan
+afkoopsommen van incompetente managers, wat ten koste ging van directe hulp
+aan jongeren in problemen. Indiener vraagt om een overzicht van de
+besteding van het vele geld dat landelijk
+in de jeugdzorg wordt geïnvesteerd [aanvulling
+op eerdere vragen terzake van het lid Agema (VVD), ingezonden 19 juni
+2008].</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Maatschappelijke
+gezondheidszorg)
+Inkomen en rechtspositie (Inkomens)
+Welzijn (Jeugdigen)</item>
+         <item attribuut="Trefwoorden">Inkomens
+Jeugdgezondheidszorg
+Jeugdwelzijn</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823340, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823340</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Dibi</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-19</item>
+         <item attribuut="Document-id">V070823340</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823340" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823340" onderwerp="" indiendatum="2008-06-19">
+         <vrager partij="GroenLinks" oorsprong="parlement">Dibi</vrager>
+         <vraagt-aan>de minster voor Jeugd en Gezin</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Deelt u de mening dat het budget in de jeugdzorg voornamelijk besteed moet worden aan de directe hulp aan jongeren? Zo ja, hoe gaat u dat bevorderen? Zo neen, waarom niet? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Vindt u het onwenselijk dat Bureau Jeugdzorg geld oppot dat eigenlijk bedoeld is voor hulpverlening aan jongeren? Bestaat er een maximaal bedrag aan het mogen opbouwen van reserves? Zo neen, waarom niet? Zo ja, hoe en wanneer gaat u dat regelen? </vraag>
+      <vraag nummer="3">Deelt u de mening dat mismanagement niet mag worden beloond met een ontslagbonus? Zo ja, wat bent u van plan om dat in de toekomst zoveel mogelijk te voorkomen? </vraag>
+      <vraag nummer="4">Bent u het met de Amsterdamse wethouder Asscher eens, dat het onderzoek dat in Amsterdam is gedaan naar de organisatie van het jeugdbeleid landelijk moet worden uitgevoerd? Zo ja, wanneer informeert u de Kamer over een dergelijk onderzoek? Zo neen, waarom niet? </vraag>
+      <vraag nummer="5">Bent u bereid bovenstaande vragen te beantwoorden vóór 26 juni, gezien het geplande AO over de jeugdzorg? Toelichting Deze vragen dienen ter aanvulling op eerdere vragen ter zake van het lid Agema (PVV) ingezonden 19 juni </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-18" bron="www.volkskrant.nl">www.volkskrant.nl, 18 juni 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="bij te wonen? Op grond waarvan?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Jasper van Dijk (SP) aan de minister van Onderwijs,
+Cultuur en Wetenschap over een bezoek aan het EK op kosten van de NOS en het
+ministerie van Onderwijs, Cultuur en Wetenschap. (Ingezonden 16 juni
+2008)</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070823010</item>
+         <item attribuut="Inhoud">Indiener vraagt naar aanleiding van een publicatie in de NRC van 12
+juni 2008 of het waar is dat de minister op 13 juni 2008 naar een wedstrijd
+van het EK gaat en dat 'de kosten worden betaald door Onderwijs, Cultuur en
+Wetenschap'.</item>
+         <item attribuut="Rubriek">Overheidsfinanciën (Overheidsuitgaven)
+Staats- en bestuursrecht (Ministeries)
+Vrijetijdsbesteding (Sport)</item>
+         <item attribuut="Trefwoorden">Onderwijs Cultuur en Wetenschap (ministerie)
+Overheidsuitgaven
+Sport</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070823010, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070823010</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Jasper van Dijk</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-16</item>
+         <item attribuut="Document-id">V070823010</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070823010" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070823010" onderwerp="" indiendatum="2008-06-16">
+         <vrager partij="SP" oorsprong="parlement">Jasper van Dijk</vrager>
+         <vraagt-aan>de minister van Onderwijs, Cultuur en Wetenschap</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Is het waar dat u op 13 juni naar een wedstrijd van het EK gaat en dat «de kosten worden betaald door Onderwijs, Cultuur en Wetenschap»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wat zijn hiervan de exacte kosten? </vraag>
+      <vraag nummer="3">Vindt u dit een doelmatig gebruik van de middelen van uw ministerie? Op grond waarvan? </vraag>
+      <vraag nummer="4">Vindt u het een doelmatig gebruik van middelen dat de NOS twintig bestuurders en relaties uitnodigt om op kosten van de publieke omroep de wedstrijd Nederland-Frankrijk in Bern </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-12" bron="NRC">NRC, 12 juni 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>
